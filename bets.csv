@@ -1,0 +1,9 @@
+date,time,sport,home_team,away_team,kelly_bet_name,kelly_prob,kelly_prob_odds_implied,kelly_odds,multiple HK stake
+2020-06-14,12:30:00,soccer_sweden_allsvenskan,IFK Norrkoping,Kalmar FF,IFK Norrkoping,0.7781,0.5988023952095809,1.67,0.19103387198634827
+2020-06-14,13:30:00,soccer_germany_bundesliga,FSV Mainz 05,Augsburg,FSV Mainz 05,0.4761,0.4347826086956522,2.3,0.025185476526434825
+2020-06-14,12:00:00,soccer_spain_la_liga,Athletic Bilbao,Atlético Madrid,Atlético Madrid,0.4752,0.4347826086956522,2.3,0.024616529445740002
+2020-06-14,20:00:00,soccer_spain_la_liga,Real Sociedad,Osasuna,Real Sociedad,0.6045,0.5813953488372093,1.72,0.018841312469609267
+2020-06-14,16:00:00,soccer_denmark_superliga,FC Nordsjaelland,FC Copenhagen,FC Nordsjaelland,0.3213,0.2857142857142857,3.5,0.016959810570012973
+2020-06-14,18:00:00,soccer_denmark_superliga,Brondby IF,AGF Aarhus,Brondby IF,0.4143,0.4,2.5,0.008006693241274059
+2020-06-14,17:00:00,soccer_sweden_allsvenskan,IK Sirius,Djurgardens IF,IK Sirius,0.1765,0.15384615384615385,6.5,0.009007566494086069
+2020-06-14,12:00:00,soccer_denmark_superliga,AaB,FC Midtjylland,AaB,0.2291,0.2222222222222222,4.5,0.0029483500515513875
