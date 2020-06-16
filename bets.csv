@@ -1,0 +1,11 @@
+date,time,sport,home_team,away_team,kelly_bet_name,kelly_prob,kelly_prob_odds_implied,kelly_odds,multiple HK stake
+2020-06-16,16:30:00,soccer_germany_bundesliga,Borussia Monchengladbach,VfL Wolfsburg,Borussia Monchengladbach,0.5645,0.45454545454545453,2.2,0.07645851129396523
+2020-06-16,16:00:00,soccer_norway_eliteserien,Aalesund,Molde,Molde,0.6296,0.5464480874316939,1.83,0.06883858120851385
+2020-06-16,16:00:00,soccer_norway_eliteserien,Stabaek,Mjøndalen,Stabaek,0.5687,0.5235602094240838,1.91,0.033920301270796455
+2020-06-16,17:30:00,soccer_spain_la_liga,Getafe,Espanyol,Getafe,0.5424,0.5,2.0,0.030202525056080443
+2020-06-16,18:30:00,soccer_germany_bundesliga,Werder Bremen,Bayern Munich,Werder Bremen,0.114,0.07142857142857142,14.0,0.016003157878352586
+2020-06-16,17:30:00,soccer_spain_la_liga,Villarreal,Mallorca,Mallorca,0.1923,0.16666666666666666,6.0,0.0106548960355347
+2020-06-16,16:30:00,soccer_germany_bundesliga2,Wehen Wiesbaden,1. FC Nürnberg,Wehen Wiesbaden,0.3509,0.3333333333333333,3.0,0.009106930341853734
+2020-06-16,16:30:00,soccer_germany_bundesliga2,Greuther Fürth,1. FC Heidenheim,Greuther Fürth,0.3289,0.3125,3.2,0.008234055157652647
+2020-06-16,18:00:00,soccer_denmark_superliga,Randers FC,Hobro,Hobro,0.2426,0.2222222222222222,4.5,0.009054400087311348
+2020-06-16,18:30:00,soccer_germany_bundesliga,Union Berlin,SC Paderborn,SC Paderborn,0.2395,0.2222222222222222,4.5,0.007661514922860791
