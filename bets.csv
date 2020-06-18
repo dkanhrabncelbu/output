@@ -1,0 +1,6 @@
+date,time,sport,home_team,away_team,kelly_bet_name,kelly_prob,kelly_prob_odds_implied,kelly_odds,multiple HK stake
+2020-06-18,20:00:00,soccer_spain_la_liga,Real Madrid,Valencia,Real Madrid,0.8159,0.7518796992481203,1.33,0.11309563379682423
+2020-06-18,16:00:00,soccer_denmark_superliga,OB Odense BK,SonderjyskE,OB Odense BK,0.4842,0.4166666666666667,2.4,0.046913852422195604
+2020-06-18,17:00:00,soccer_sweden_allsvenskan,Kalmar FF,Helsingborgs IF,Helsingborgs IF,0.2933,0.23094688221709006,4.33,0.03226099474887207
+2020-06-18,17:30:00,soccer_spain_la_liga,Alavés,Real Sociedad,Alavés,0.2891,0.25,4.0,0.020435701868584916
+2020-06-18,18:00:00,soccer_denmark_superliga,FC Midtjylland,Brondby IF,Brondby IF,0.161,0.15384615384615385,6.5,0.0032414052427891405
