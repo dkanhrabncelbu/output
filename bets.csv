@@ -1,9 +1,0 @@
-date,time,sport,home_team,away_team,kelly_bet_name,kelly_prob,kelly_prob_odds_implied,kelly_odds,multiple HK stake
-2020-06-21,18:00:00,soccer_epl,Everton,Liverpool,Everton,0.2351,0.16666666666666666,6.0,0.037327981398062246
-2020-06-21,19:45:00,soccer_italy_serie_a,FC Internazionale,Sampdoria,Sampdoria,0.1512,0.11764705882352941,8.5,0.016896710071334163
-2020-06-21,17:30:00,soccer_spain_la_liga,Valencia,Osasuna,Osasuna,0.2938,0.26666666666666666,3.75,0.01643192405617837
-2020-06-21,15:30:00,soccer_sweden_allsvenskan,Hammarby IF,AIK,AIK,0.2658,0.23809523809523808,4.2,0.01614356369391455
-2020-06-21,16:00:00,soccer_denmark_superliga,Brondby IF,FC Copenhagen,Brondby IF,0.32,0.30303030303030304,3.3,0.010743769911303148
-2020-06-21,15:15:00,soccer_epl,Aston Villa,Chelsea,Aston Villa,0.1757,0.15384615384615385,6.5,0.011405134079263139
-2020-06-21,18:30:00,soccer_norway_eliteserien,SK Brann,Viking FK,Viking FK,0.3124,0.30303030303030304,3.3,0.005899534126077763
-2020-06-21,16:00:00,soccer_norway_eliteserien,Bodø/Glimt,Haugesund,Haugesund,0.2332,0.2222222222222222,4.5,0.006196003401458381
