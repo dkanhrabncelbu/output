@@ -1,0 +1,10 @@
+date,time,country,event,freq,prelim,period,previous,forecast,actual,link
+2020-06-19 00:30:00,00:30,Japan,National CPI   ,(YoY),,(May),0.1%,,0.1%,
+2020-06-19 00:30:00,00:30,Japan,National Core CPI   ,(YoY),,(May),-0.2%,-0.1%,-0.2%,
+2020-06-19 07:00:00,07:00,United Kingdom,Core Retail Sales   ,(MoM),,(May),-15.0%,4.5%,10.2%,
+2020-06-19 07:00:00,07:00,United Kingdom,Core Retail Sales   ,(YoY),,(May),-18.5%,-14.4%,-9.8%,
+2020-06-19 07:00:00,07:00,United Kingdom,Retail Sales   ,(MoM),,(May),-18.0%,5.7%,12.0%,
+2020-06-19 07:00:00,07:00,United Kingdom,Retail Sales   ,(YoY),,(May),-22.7%,-17.1%,-13.1%,
+2020-06-19 13:30:00,13:30,Canada,Retail Sales   ,(MoM),,(Apr),-9.9%,-15.1%,-26.4%,https://www150.statcan.gc.ca/n1/dai-quo/ind2-eng.htm
+2020-06-22 11:00:00,11:00,United Kingdom,CBI Industrial Trends Orders  ,,,(Jun),-62,,-58,
+2020-06-22 15:00:00,15:00,Euro Zone,Consumer Confidence  ,,(P),(Jun),-18.8,-15.0,-14.7,https://ec.europa.eu/info/business-economy-euro/indicators-statistics/economic-databases/business-and-consumer-surveys/latest-business-and-consumer-surveys_en
