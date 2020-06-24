@@ -1,0 +1,26 @@
+date,time,datetime,country,event,freq,prelim,period,previous,forecast,actual,link
+2020-06-22,11:00,2020-06-22 11:00:00,United Kingdom,CBI Industrial Trends Orders  ,,,(Jun),-62,,-58,
+2020-06-22,15:00,2020-06-22 15:00:00,Euro Zone,Consumer Confidence  ,,(P),(Jun),-18.8,-15.0,-14.7,https://ec.europa.eu/info/business-economy-euro/indicators-statistics/economic-databases/business-and-consumer-surveys/latest-business-and-consumer-surveys_en
+2020-06-23,01:30,2020-06-23 01:30:00,Japan,Manufacturing PMI  ,,(P),(Jun),38.4,,37.8,
+2020-06-23,08:15,2020-06-23 08:15:00,France,Manufacturing PMI  ,,(P),(Jun),40.6,46.0,52.1,https://www.markiteconomics.com/Public/Release/PressReleases
+2020-06-23,08:15,2020-06-23 08:15:00,France,Services PMI  ,,(P),(Jun),31.1,44.2,50.3,https://www.markiteconomics.com/Public/Release/PressReleases
+2020-06-23,08:30,2020-06-23 08:30:00,Germany,Manufacturing PMI  ,,(P),(Jun),36.6,41.5,44.6,
+2020-06-23,08:30,2020-06-23 08:30:00,Germany,Services PMI  ,,(P),(Jun),32.6,42.0,45.8,
+2020-06-23,09:00,2020-06-23 09:00:00,Euro Zone,Manufacturing PMI  ,,(P),(Jun),39.4,44.5,46.9,https://www.markiteconomics.com/Public/Release/PressReleases
+2020-06-23,09:00,2020-06-23 09:00:00,Euro Zone,Services PMI  ,,(P),(Jun),30.5,41.0,47.3,https://www.markiteconomics.com/Public/Release/PressReleases
+2020-06-23,09:30,2020-06-23 09:30:00,United Kingdom,Manufacturing PMI,,(P),,40.7,45.0,50.1,
+2020-06-23,09:30,2020-06-23 09:30:00,United Kingdom,Services PMI,,(P),,29.0,40.0,47.0,
+2020-06-23,14:45,2020-06-23 14:45:00,United States,Manufacturing PMI  ,,(P),(Jun),39.8,48.0,49.6,
+2020-06-23,14:45,2020-06-23 14:45:00,United States,Services PMI  ,,(P),(Jun),37.5,46.5,46.7,
+2020-06-23,15:00,2020-06-23 15:00:00,United States,New Home Sales  ,,,(May),580K,640K,676K,
+2020-06-23,15:00,2020-06-23 15:00:00,United States,New Home Sales   ,(MoM),,(May),-5.2%,2.9%,16.6%,
+2020-06-23,15:00,2020-06-23 15:00:00,United States,Richmond Manufacturing Index  ,,,(Jun),-27,,0,
+2020-06-24,05:30,2020-06-24 05:30:00,Netherlands,GDP   ,(QoQ),,(Q1),0.4%,-1.7%,-1.5%,
+2020-06-24,05:30,2020-06-24 05:30:00,Netherlands,GDP   ,(YoY),,(Q1),1.6%,-0.5%,-0.2%,
+2020-06-24,07:45,2020-06-24 07:45:00,France,Business Survey  ,,,(Jun),71,80,77,https://www.insee.fr/en/statistiques?debut=0&collection=5&conjoncture=23
+2020-06-24,08:00,2020-06-24 08:00:00,Sweden,Consumer Confidence  ,,,(Jun),77.7,,84.0,
+2020-06-24,08:00,2020-06-24 08:00:00,Sweden,Manufacturing Confidence  ,,,(Jun),76.4,,89.1,
+2020-06-24,09:00,2020-06-24 09:00:00,Germany,Business Expectations  ,,,(Jun),80.1,87.0,,
+2020-06-24,09:00,2020-06-24 09:00:00,Germany,Current Assessment  ,,,(Jun),78.9,84.0,,
+2020-06-24,09:00,2020-06-24 09:00:00,Germany,Ifo Business Climate Index  ,,,(Jun),79.5,85.0,,
+2020-06-24,14:00,2020-06-24 14:00:00,Belgium,NBB Business Climate  ,,,(Jun),-34.4,-28.0,,https://www.nbb.be/en/about-national-bank/national-bank-belgium/press-releases
