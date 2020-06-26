@@ -1,0 +1,46 @@
+date,time,datetime,country,event,freq,prelim,period,previous,forecast,actual,link
+2020-06-23,01:30,2020-06-23 01:30:00,Japan,Manufacturing PMI  ,,(P),(Jun),38.4,,37.8,https://www.markiteconomics.com/Public/Release/PressReleases
+2020-06-23,08:15,2020-06-23 08:15:00,France,Manufacturing PMI  ,,(P),(Jun),40.6,46.0,52.1,https://www.markiteconomics.com/Public/Release/PressReleases
+2020-06-23,08:15,2020-06-23 08:15:00,France,Services PMI  ,,(P),(Jun),31.1,44.2,50.3,https://www.markiteconomics.com/Public/Release/PressReleases
+2020-06-23,08:30,2020-06-23 08:30:00,Germany,Manufacturing PMI  ,,(P),(Jun),36.6,41.5,44.6,https://www.markiteconomics.com/Public/Release/PressReleases
+2020-06-23,08:30,2020-06-23 08:30:00,Germany,Services PMI  ,,(P),(Jun),32.6,42.0,45.8,https://www.markiteconomics.com/Public/Release/PressReleases
+2020-06-23,09:00,2020-06-23 09:00:00,Euro Zone,Manufacturing PMI  ,,(P),(Jun),39.4,44.5,46.9,https://www.markiteconomics.com/Public/Release/PressReleases
+2020-06-23,09:00,2020-06-23 09:00:00,Euro Zone,Services PMI  ,,(P),(Jun),30.5,41.0,47.3,https://www.markiteconomics.com/Public/Release/PressReleases
+2020-06-23,09:30,2020-06-23 09:30:00,United Kingdom,Manufacturing PMI,,(P),,40.7,45.0,50.1,https://www.markiteconomics.com/Public/Release/PressReleases
+2020-06-23,09:30,2020-06-23 09:30:00,United Kingdom,Services PMI,,(P),,29.0,40.0,47.0,https://www.markiteconomics.com/Public/Release/PressReleases
+2020-06-23,14:45,2020-06-23 14:45:00,United States,Manufacturing PMI  ,,(P),(Jun),39.8,48.0,49.6,https://www.markiteconomics.com/Public/Release/PressReleases
+2020-06-23,14:45,2020-06-23 14:45:00,United States,Services PMI  ,,(P),(Jun),37.5,46.5,46.7,https://www.markiteconomics.com/Public/Release/PressReleases
+2020-06-23,15:00,2020-06-23 15:00:00,United States,New Home Sales  ,,,(May),580K,640K,676K,https://www.census.gov/construction/nrs/index.html
+2020-06-23,15:00,2020-06-23 15:00:00,United States,New Home Sales   ,(MoM),,(May),-5.2%,2.9%,16.6%,https://www.census.gov/construction/nrs/index.html
+2020-06-23,15:00,2020-06-23 15:00:00,United States,Richmond Manufacturing Index  ,,,(Jun),-27,,0,https://www.richmondfed.org/research/regional_economy/surveys_of_business_conditions/manufacturing/
+2020-06-24,05:30,2020-06-24 05:30:00,Netherlands,GDP   ,(QoQ),,(Q1),0.4%,-1.7%,-1.5%,https://www.cbs.nl/en-gb/economy/macroeconomics
+2020-06-24,05:30,2020-06-24 05:30:00,Netherlands,GDP   ,(YoY),,(Q1),1.6%,-0.5%,-0.2%,https://www.cbs.nl/en-gb/economy/macroeconomics
+2020-06-24,07:45,2020-06-24 07:45:00,France,Business Survey  ,,,(Jun),71,80,77,https://www.insee.fr/en/statistiques?debut=0&collection=5&conjoncture=23
+2020-06-24,08:00,2020-06-24 08:00:00,Sweden,Consumer Confidence  ,,,(Jun),77.7,,84.0,https://www.konj.se/english/publications/economic-tendency-survey.html
+2020-06-24,08:00,2020-06-24 08:00:00,Sweden,Manufacturing Confidence  ,,,(Jun),76.4,,89.1,https://www.konj.se/english/publications/economic-tendency-survey.html
+2020-06-24,09:00,2020-06-24 09:00:00,Germany,Business Expectations  ,,,(Jun),80.5,87.0,91.4,https://www.ifo.de/en/survey/ifo-business-climate-index
+2020-06-24,09:00,2020-06-24 09:00:00,Germany,Current Assessment  ,,,(Jun),78.9,84.0,81.3,https://www.ifo.de/en/survey/ifo-business-climate-index
+2020-06-24,09:00,2020-06-24 09:00:00,Germany,Ifo Business Climate Index  ,,,(Jun),79.7,85.0,86.2,https://www.ifo.de/en/survey/ifo-business-climate-index
+2020-06-24,14:00,2020-06-24 14:00:00,Belgium,NBB Business Climate  ,,,(Jun),-34.4,-28.0,-22.9,https://www.nbb.be/en/about-national-bank/national-bank-belgium/press-releases
+2020-06-25,05:30,2020-06-25 05:30:00,Japan,All Industries Activity Index ,(MoM),,,-3.4%,,-6.4%,https://www.meti.go.jp/english/statistics/tyo/zenkatu/index.html
+2020-06-25,11:00,2020-06-25 11:00:00,United Kingdom,CBI Distributive Trades Survey  ,,,(Jun),-50,-34,-37,https://www.cbi.org.uk/media-centre/
+2020-06-25,13:30,2020-06-25 13:30:00,United States,Core Durable Goods Orders   ,(MoM),,(May),-8.2%,2.5%,4.0%,https://www.census.gov/manufacturing/m3/index.html
+2020-06-25,13:30,2020-06-25 13:30:00,United States,Durable Goods Orders   ,(MoM),,(May),-18.1%,10.9%,15.8%,https://www.census.gov/manufacturing/m3/index.html
+2020-06-25,13:30,2020-06-25 13:30:00,United States,Durables Excluding Defense   ,(MoM),,(May),-17.1%,,15.5%,https://www.census.gov/manufacturing/m3/index.html
+2020-06-25,13:30,2020-06-25 13:30:00,United States,GDP   ,(QoQ),,(Q1),2.1%,-5.0%,-5.0%,https://www.bea.gov/data/gdp/gross-domestic-product
+2020-06-25,13:30,2020-06-25 13:30:00,United States,Goods Orders Non Defense Ex Air   ,(MoM),,(May),-6.5%,1.0%,2.3%,https://www.census.gov/manufacturing/m3/index.html
+2020-06-25,13:30,2020-06-25 13:30:00,United States,Initial Jobless Claims,,,,"1,540K","1,300K","1,480K",https://www.dol.gov/ui/data.pdf
+2020-06-25,16:00,2020-06-25 16:00:00,United States,KC Fed Composite Index  ,,,(Jun),-19,,1,
+2020-06-25,16:00,2020-06-25 16:00:00,United States,KC Fed Manufacturing Index  ,,,(Jun),-25,,2,https://www.kansascityfed.org/research/indicatorsdata/mfg
+2020-06-26,07:45,2020-06-26 07:45:00,France,Consumer Confidence  ,,,(Jun),93,95,,https://www.insee.fr/en/statistiques?debut=0&theme=30&conjoncture=32
+2020-06-26,08:00,2020-06-26 08:00:00,Spain,Retail Sales   ,(YoY),,(May),-31.6%,-17.6%,,https://www.ine.es/en/prensa/icm_prensa_en.htm
+2020-06-26,08:30,2020-06-26 08:30:00,Sweden,Retail Sales   ,(MoM),,(May),0.2%,-2.1%,,https://www.scb.se/en/finding-statistics/statistical-news/?selectedProduct=HA0101
+2020-06-26,08:30,2020-06-26 08:30:00,Sweden,Retail Sales   ,(YoY),,(May),-1.3%,,,https://www.scb.se/en/finding-statistics/statistical-news/?selectedProduct=HA0101
+2020-06-26,09:00,2020-06-26 09:00:00,Euro Zone,M3 Money Supply   ,(YoY),,(May),8.3%,8.6%,,https://www.ecb.europa.eu/press/pr/stats/md/html/index.en.html
+2020-06-26,13:30,2020-06-26 13:30:00,United States,Core PCE Price Index   ,(MoM),,(May),-0.4%,0.2%,,https://www.bea.gov/data/personal-consumption-expenditures-price-index
+2020-06-26,13:30,2020-06-26 13:30:00,United States,Core PCE Price Index   ,(YoY),,(May),1.0%,0.9%,,https://www.bea.gov/data/personal-consumption-expenditures-price-index
+2020-06-26,13:30,2020-06-26 13:30:00,United States,Personal Income   ,(MoM),,(May),10.5%,-6.0%,,https://www.bea.gov/data/income-saving/personal-income
+2020-06-26,13:30,2020-06-26 13:30:00,United States,Personal Spending   ,(MoM),,(May),-13.6%,9.0%,,https://www.bea.gov/data/income-saving/personal-income
+2020-06-26,15:00,2020-06-26 15:00:00,United States,Michigan Consumer Expectations  ,,,(Jun),73.1,73.1,,http://www.sca.isr.umich.edu/
+2020-06-26,15:00,2020-06-26 15:00:00,United States,Michigan Consumer Sentiment  ,,,(Jun),78.9,79.0,,http://www.sca.isr.umich.edu/
+2020-06-26,15:00,2020-06-26 15:00:00,United States,Michigan Current Conditions  ,,,(Jun),87.8,87.8,,http://www.sca.isr.umich.edu/
