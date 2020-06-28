@@ -1,8 +1,0 @@
-date,time,sport,home_team,away_team,kelly_bet_name,kelly_prob,kelly_prob_odds_implied,kelly_odds,multiple HK stake
-2020-06-27,13:00:00,soccer_sweden_allsvenskan,Ostersunds FK,IFK Norrkoping,IFK Norrkoping,0.7217,0.6666666666666666,1.5,0.07244064039650276
-2020-06-27,15:00:00,soccer_spain_la_liga,Celta Vigo,Barcelona,Barcelona,0.695,0.6535947712418301,1.53,0.05117425825258065
-2020-06-27,18:30:00,soccer_norway_eliteserien,Valerenga,Viking FK,Viking FK,0.3759,0.3333333333333333,3.0,0.026550304692971875
-2020-06-27,11:30:00,soccer_efl_champ,Preston North End,Cardiff City,Cardiff City,0.3577,0.3333333333333333,3.0,0.01498701504819627
-2020-06-27,15:15:00,soccer_italy_serie_a,Brescia,Genoa,Genoa,0.4849,0.47619047619047616,2.1,0.006749386392557388
-2020-06-27,17:30:00,soccer_spain_la_liga,Osasuna,Leganés,Osasuna,0.3784,0.37037037037037035,2.7,0.005166615017493076
-2020-06-27,17:30:00,soccer_italy_serie_a,Cagliari,Torino,Cagliari,0.4206,0.4166666666666667,2.4,0.0027235053824795842
