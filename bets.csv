@@ -1,0 +1,11 @@
+date,time,sport,home_team,away_team,kelly_bet_name,kelly_prob,kelly_prob_odds_implied,kelly_odds,multiple HK stake
+2020-06-28,18:30:00,soccer_norway_eliteserien,SK Brann,Rosenborg,Rosenborg,0.5132,0.38167938931297707,2.62,0.06516798683984502
+2020-06-28,12:30:00,soccer_sweden_allsvenskan,Djurgardens IF,Kalmar FF,Djurgardens IF,0.6318,0.5464480874316939,1.83,0.0568751690657592
+2020-06-28,12:30:00,soccer_sweden_allsvenskan,IK Sirius,IFK Goteborg,IFK Goteborg,0.4356,0.3472222222222222,2.88,0.039759345751952994
+2020-06-28,14:00:00,soccer_denmark_superliga,Hobro,Esbjerg fB,Hobro,0.3922,0.30303030303030304,3.3,0.03742256883983653
+2020-06-28,13:30:00,soccer_germany_bundesliga2,Holstein Kiel,1. FC Nürnberg,Holstein Kiel,0.3573,0.2777777777777778,3.6,0.031902944632947045
+2020-06-28,15:30:00,soccer_epl,Watford,Southampton,Watford,0.4745,0.4166666666666667,2.4,0.028560257470629225
+2020-06-28,16:00:00,soccer_denmark_superliga,FC Nordsjaelland,Brondby IF,Brondby IF,0.3554,0.29411764705882354,3.4,0.024848300192013423
+2020-06-28,14:00:00,soccer_switzerland_superleague,FC Basel,FC Sion,FC Basel,0.731,0.7142857142857143,1.4,0.016499418491893073
+2020-06-28,16:00:00,soccer_norway_eliteserien,Sandefjord,Haugesund,Haugesund,0.4441,0.4,2.5,0.020891445614785866
+2020-06-28,16:00:00,soccer_norway_eliteserien,Mjøndalen,Kristiansund BK,Kristiansund BK,0.4422,0.4,2.5,0.0199585539667014
