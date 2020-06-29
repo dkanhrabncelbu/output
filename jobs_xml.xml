@@ -2,7 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>BB Job Alerts</id>
   <title>Job Alerts</title>
-  <updated>2020-06-28T20:22:59.862449+00:00</updated>
+  <updated>2020-06-29T17:45:38.518753+00:00</updated>
   <link href="https://github.com/dkanhrabncelbu" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>Senior Hedge Fund Analyst : Barclays : 2020-06-27</id>
+    <title>Barclays : Senior Hedge Fund Analyst : 2020-06-27</title>
+    <updated>2020-06-29T17:45:38.518753+00:00</updated>
+    <link href="https://uk.linkedin.com/jobs/view/senior-hedge-fund-analyst-at-barclays-1905024421?refId=00d7dadf-26d8-40cb-972a-c8a30c3874ee&amp;position=6&amp;pageNum=0&amp;trk=public_jobs_job-result-card_result-card_full-click" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Global Investment Research, Global Macro Research, European Economics, London, Associate / Vice President : Goldman Sachs : 2020-06-29</id>
+    <title>Goldman Sachs : Global Investment Research, Global Macro Research, European Economics, London, Associate / Vice President : 2020-06-29</title>
+    <updated>2020-06-29T17:45:38.518753+00:00</updated>
+    <link href="https://uk.linkedin.com/jobs/view/global-investment-research-global-macro-research-european-economics-london-associate-vice-president-at-goldman-sachs-1723456500?refId=838de223-85a1-4345-88de-665296024e0e&amp;position=3&amp;pageNum=0&amp;trk=public_jobs_job-result-card_result-card_full-click" rel="alternate"/>
+  </entry>
 </feed>
