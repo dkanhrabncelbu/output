@@ -2,13 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>BB Job Alerts</id>
   <title>Job Alerts</title>
-  <updated>2020-06-29T18:38:42.724356+00:00</updated>
+  <updated>2020-06-30T06:01:07.639448+00:00</updated>
   <link href="https://github.com/dkanhrabncelbu" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <entry>
+    <id>Private Banking Executive - Mandarin/Cantonese : Barclays : 2020-06-23</id>
+    <title>Barclays : Private Banking Executive - Mandarin/Cantonese : 2020-06-23</title>
+    <updated>2020-06-30T06:01:07.639540+00:00</updated>
+    <link href="https://uk.linkedin.com/jobs/view/private-banking-executive-mandarin-cantonese-at-barclays-1894885464?refId=a68058a8-ac0d-4a37-be34-24c0f9557fa2&amp;position=15&amp;pageNum=0&amp;trk=public_jobs_job-result-card_result-card_full-click" rel="alternate"/>
+  </entry>
+  <entry>
     <id>Global Investment Research, Global Macro Research, European Economics, London, Associate / Vice President : Goldman Sachs : 2020-06-29</id>
     <title>Goldman Sachs : Global Investment Research, Global Macro Research, European Economics, London, Associate / Vice President : 2020-06-29</title>
-    <updated>2020-06-29T18:38:42.724428+00:00</updated>
-    <link href="https://uk.linkedin.com/jobs/view/global-investment-research-global-macro-research-european-economics-london-associate-vice-president-at-goldman-sachs-1723456500?refId=ae366a02-daeb-4642-a938-e7d5f626ef26&amp;position=3&amp;pageNum=0&amp;trk=public_jobs_job-result-card_result-card_full-click" rel="alternate"/>
+    <updated>2020-06-30T06:01:07.639508+00:00</updated>
+    <link href="https://uk.linkedin.com/jobs/view/global-investment-research-global-macro-research-european-economics-london-associate-vice-president-at-goldman-sachs-1723456500?refId=5995c1b4-ab6c-43e1-adfb-87151eaa89f0&amp;position=3&amp;pageNum=0&amp;trk=public_jobs_job-result-card_result-card_full-click" rel="alternate"/>
   </entry>
 </feed>
