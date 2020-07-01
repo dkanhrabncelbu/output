@@ -1,0 +1,49 @@
+date,time,datetime,country,event,freq,prelim,period,previous,forecast,actual,link
+2020-06-29,00:50,2020-06-29 00:50:00,Japan,Retail Sales   ,(YoY),,(May),-13.9%,-11.6%,-12.3%,https://www.meti.go.jp/english/statistics/tyo/syoudou/index.html
+2020-06-29,05:30,2020-06-29 05:30:00,Netherlands,Business Confidence  ,,,(Jun),-25.1,,-15.1,https://www.cbs.nl/en-gb/economy/macroeconomics
+2020-06-29,08:00,2020-06-29 08:00:00,Spain,CPI ,(MoM),(P),,0.0%,,0.5%,https://www.ine.es/en/prensa/ipc_prensa_en.htm
+2020-06-29,08:00,2020-06-29 08:00:00,Spain,CPI ,(YoY),(P),,-0.9%,,-0.3%,https://www.ine.es/en/prensa/ipc_prensa_en.htm
+2020-06-29,08:00,2020-06-29 08:00:00,Spain,HICP ,(MoM),(P),,0.1%,,0.4%,https://www.ine.es/en/prensa/ipca_prensa_en.htm
+2020-06-29,08:00,2020-06-29 08:00:00,Spain,HICP   ,(YoY),(P),(Jun),-0.9%,-0.5%,-0.3%,https://www.ine.es/en/prensa/ipca_prensa_en.htm
+2020-06-29,09:30,2020-06-29 09:30:00,United Kingdom,M4 Money Supply   ,(MoM),,(May),1.5%,,2.0%,https://www.bankofengland.co.uk/news/?NewsTypes=571948d14c6943f7b5b7748ad80bef29&Taxonomies=65c741d9573d48c09359a3c48020fe76&InfiniteScrolling=False&Direction=Latest
+2020-06-29,10:00,2020-06-29 10:00:00,Euro Zone,Business Climate  ,,,(Jun),-2.41,,-2.26,https://ec.europa.eu/info/business-economy-euro/indicators-statistics/economic-databases/business-and-consumer-surveys/latest-business-and-consumer-surveys_en
+2020-06-29,10:00,2020-06-29 10:00:00,Euro Zone,Consumer Confidence  ,,,(Jun),-18.8,-14.7,-14.7,https://ec.europa.eu/info/business-economy-euro/indicators-statistics/economic-databases/business-and-consumer-surveys/latest-business-and-consumer-surveys_en
+2020-06-29,11:30,2020-06-29 11:30:00,Spain,Business Confidence,,,,-33.0,,-23.4,
+2020-06-29,13:00,2020-06-29 13:00:00,Germany,HICP   ,(MoM),(P),(Jun),0.4%,0.4%,0.7%,https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=preise&cl2Taxonomies_Themen_1=verbraucherpreisindex
+2020-06-29,13:00,2020-06-29 13:00:00,Germany,HICP   ,(YoY),(P),(Jun),0.5%,0.6%,0.8%,https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=preise&cl2Taxonomies_Themen_1=verbraucherpreisindex
+2020-06-29,15:30,2020-06-29 15:30:00,United States,Dallas Fed Mfg Business Index  ,,,(Jun),-49.2,,-6.1,https://www.dallasfed.org/research/surveys/tmos.aspx
+2020-06-30,00:30,2020-06-30 00:30:00,Japan,Unemployment Rate  ,,,(May),2.6%,2.8%,2.9%,https://www.stat.go.jp/english/data/roudou/results/month/index.html
+2020-06-30,00:50,2020-06-30 00:50:00,Japan,Industrial Production   ,(MoM),(P),(May),-9.8%,-5.6%,-8.4%,https://www.meti.go.jp/english/statistics/tyo/iip/index.html
+2020-06-30,02:00,2020-06-30 02:00:00,China,Manufacturing PMI  ,,,(Jun),50.6,50.4,50.9,http://www.stats.gov.cn/english/PressRelease/
+2020-06-30,07:00,2020-06-30 07:00:00,United Kingdom,GDP   ,(QoQ),,(Q1),0.0%,-2.0%,-2.2%,https://www.ons.gov.uk/economy/grossdomesticproductgdp/publications?filter=bulletin
+2020-06-30,07:00,2020-06-30 07:00:00,United Kingdom,GDP   ,(YoY),,(Q1),1.1%,-1.6%,-1.7%,https://www.ons.gov.uk/economy/grossdomesticproductgdp/publications?filter=bulletin
+2020-06-30,07:45,2020-06-30 07:45:00,France,CPI ,(MoM),(P),,0.1%,,-0.1%,https://www.insee.fr/en/statistiques?debut=0&theme=30&conjoncture=65+43
+2020-06-30,07:45,2020-06-30 07:45:00,France,CPI ,(YoY),(P),,0.4%,,0.1%,https://www.insee.fr/en/statistiques?debut=0&theme=30&conjoncture=65+43
+2020-06-30,07:45,2020-06-30 07:45:00,France,Consumer Spending   ,(MoM),,(May),-19.1%,30.0%,36.6%,https://www.insee.fr/en/statistiques?debut=0&theme=30&conjoncture=31
+2020-06-30,07:45,2020-06-30 07:45:00,France,HICP ,(MoM),(P),,0.2%,0.3%,-0.1%,https://www.insee.fr/en/statistiques?debut=0&theme=30&conjoncture=65+43
+2020-06-30,07:45,2020-06-30 07:45:00,France,HICP ,(YoY),(P),,0.4%,0.4%,0.1%,https://www.insee.fr/en/statistiques?debut=0&theme=30&conjoncture=65+43
+2020-06-30,08:00,2020-06-30 08:00:00,Spain,GDP   ,(QoQ),,(Q1),0.4%,-5.2%,-5.2%,https://www.ine.es/en/prensa/pib_prensa_en.htm
+2020-06-30,08:00,2020-06-30 08:00:00,Spain,GDP   ,(YoY),,(Q1),1.8%,-4.1%,-4.1%,https://www.ine.es/en/prensa/pib_prensa_en.htm
+2020-06-30,10:00,2020-06-30 10:00:00,Euro Zone,CPI ,(MoM),(P),,-0.1%,,0.3%,https://ec.europa.eu/eurostat/news/news-releases
+2020-06-30,10:00,2020-06-30 10:00:00,Euro Zone,CPI   ,(YoY),(P),(Jun),0.1%,0.1%,0.3%,https://ec.europa.eu/eurostat/news/news-releases
+2020-06-30,10:00,2020-06-30 10:00:00,Italy,HICP   ,(MoM),(P),(Jun),-0.3%,0.1%,0.0%,https://www.istat.it/en/archive/hicp
+2020-06-30,10:00,2020-06-30 10:00:00,Italy,HICP   ,(YoY),(P),(Jun),-0.3%,-0.3%,-0.4%,https://www.istat.it/en/archive/hicp
+2020-06-30,13:30,2020-06-30 13:30:00,Canada,GDP   ,(MoM),,(Apr),-7.5%,-13.0%,-11.6%,https://www150.statcan.gc.ca/n1/dai-quo/ind2-eng.htm
+2020-06-30,14:45,2020-06-30 14:45:00,United States,Chicago PMI  ,,,(Jun),32.3,45.0,36.6,https://www.ism-chicago.org/insidepages/reportsonbusiness/
+2020-06-30,15:00,2020-06-30 15:00:00,United States,CB Consumer Confidence  ,,,(Jun),85.9,91.8,98.1,https://conference-board.org/data/consumerconfidence.cfm
+2020-06-30,23:30,2020-06-30 23:30:00,Australia,AIG Manufacturing Index  ,,,(Jun),41.6,,51.5,https://www.aigroup.com.au/resourcecentre/economics/performance-indicators/PMI/
+2020-07-01,00:50,2020-07-01 00:50:00,Japan,Tankan Large Manufacturers Index  ,,,(Q2),-8,-31,-34,https://www.boj.or.jp/en/statistics/tk/index.htm/
+2020-07-01,00:50,2020-07-01 00:50:00,Japan,Tankan Small Manufacturing Index  ,,,(Q2),-15,-39,-45,https://www.boj.or.jp/en/statistics/tk/index.htm/
+2020-07-01,01:30,2020-07-01 01:30:00,Japan,Manufacturing PMI  ,,,(Jun),37.8,37.8,40.1,https://www.markiteconomics.com/Public/Release/PressReleases
+2020-07-01,02:45,2020-07-01 02:45:00,China,Caixin Manufacturing PMI  ,,,(Jun),50.7,50.5,51.2,https://www.markiteconomics.com/Public/Release/PressReleases
+2020-07-01,07:00,2020-07-01 07:00:00,Germany,Retail Sales   ,(MoM),,(May),-5.3%,3.9%,,https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=gross_einzelhandel
+2020-07-01,07:00,2020-07-01 07:00:00,Germany,Retail Sales   ,(YoY),,(May),-6.5%,-3.5%,,https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=gross_einzelhandel
+2020-07-01,07:30,2020-07-01 07:30:00,Sweden,Manufacturing PMI  ,,,(Jun),39.2,,,https://www.markiteconomics.com/Public/Release/PressReleases
+2020-07-01,08:15,2020-07-01 08:15:00,Spain,Manufacturing PMI  ,,,(Jun),38.3,45.1,,https://www.markiteconomics.com/Public/Release/PressReleases
+2020-07-01,08:30,2020-07-01 08:30:00,Sweden,Interest Rate Decision,,,,0.00%,,,https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/news-about-monetary-policy/?Nyhetskategorier=19
+2020-07-01,08:45,2020-07-01 08:45:00,Italy,Manufacturing PMI  ,,,(Jun),45.4,47.7,,https://www.markiteconomics.com/Public/Release/PressReleases
+2020-07-01,08:50,2020-07-01 08:50:00,France,Manufacturing PMI  ,,,(Jun),40.6,52.1,,https://www.markiteconomics.com/Public/Release/PressReleases
+2020-07-01,08:55,2020-07-01 08:55:00,Germany,Manufacturing PMI  ,,,(Jun),36.6,44.6,,https://www.markiteconomics.com/Public/Release/PressReleases
+2020-07-01,08:55,2020-07-01 08:55:00,Germany,Unemployment Rate  ,,,(Jun),6.3%,6.6%,,https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=arbeitsmarkt
+2020-07-01,09:00,2020-07-01 09:00:00,Euro Zone,Manufacturing PMI  ,,,(Jun),39.4,46.9,,https://www.markiteconomics.com/Public/Release/PressReleases
+2020-07-01,09:30,2020-07-01 09:30:00,United Kingdom,Manufacturing PMI  ,,,(Jun),40.7,50.1,,https://www.markiteconomics.com/Public/Release/PressReleases
