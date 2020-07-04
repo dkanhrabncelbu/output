@@ -1,9 +1,0 @@
-date,time,datetime,country,event,freq,prelim,period,previous,forecast,actual,link
-2020-07-03,02:45,2020-07-03 02:45:00,China,Caixin Services PMI  ,,,(Jun),55.0,,58.4,https://www.markiteconomics.com/Public/Release/PressReleases
-2020-07-03,07:30,2020-07-03 07:30:00,Sweden,Services PMI   ,(MoM),,(Jun),41.6,,49.2,https://www.markiteconomics.com/Public/Release/PressReleases
-2020-07-03,08:15,2020-07-03 08:15:00,Spain,Services PMI  ,,,(Jun),27.9,45.9,50.2,https://www.markiteconomics.com/Public/Release/PressReleases
-2020-07-03,08:45,2020-07-03 08:45:00,Italy,Services PMI  ,,,(Jun),28.9,47.0,46.4,https://www.markiteconomics.com/Public/Release/PressReleases
-2020-07-03,08:50,2020-07-03 08:50:00,France,Services PMI  ,,,(Jun),31.1,50.3,50.7,https://www.markiteconomics.com/Public/Release/PressReleases
-2020-07-03,08:55,2020-07-03 08:55:00,Germany,Services PMI  ,,,(Jun),32.6,45.8,47.3,https://www.markiteconomics.com/Public/Release/PressReleases
-2020-07-03,09:00,2020-07-03 09:00:00,Euro Zone,Services PMI  ,,,(Jun),30.5,47.3,48.3,https://www.markiteconomics.com/Public/Release/PressReleases
-2020-07-03,09:30,2020-07-03 09:30:00,United Kingdom,Services PMI  ,,,(Jun),29.0,47.0,47.1,https://www.markiteconomics.com/Public/Release/PressReleases
