@@ -1,9 +1,0 @@
-date,time,sport,home_team,away_team,kelly_bet_name,kelly_prob,kelly_prob_odds_implied,kelly_odds,multiple HK stake
-2020-07-04,16:15:00,soccer_switzerland_superleague,FC Basel,Neuchâtel Xamax,FC Basel,0.7579,0.6944444444444444,1.44,0.07971841329985825
-2020-07-04,15:15:00,soccer_italy_serie_a,Juventus,Torino,Juventus,0.8311,0.8,1.25,0.05800270219633954
-2020-07-04,15:30:00,soccer_russia_premier_league,Kryliya Sovetov,FK Rostov,FK Rostov,0.45399999999999996,0.38167938931297707,2.62,0.04273522474547612
-2020-07-04,16:30:00,soccer_epl,Wolverhampton Wanderers,Arsenal,Wolverhampton Wanderers,0.4981,0.45454545454545453,2.2,0.028611212091169878
-2020-07-04,12:30:00,soccer_denmark_superliga,Silkeborg IF,Lyngby,Silkeborg IF,0.4089,0.36363636363636365,2.75,0.025370983274580684
-2020-07-04,20:00:00,soccer_spain_la_liga,Granada,Valencia,Granada,0.3932,0.36363636363636365,2.75,0.0163616103779381
-2020-07-04,19:45:00,soccer_italy_serie_a,Lazio,AC Milan,Lazio,0.4564,0.4444444444444444,2.25,0.007483540191524171
-2020-07-04,14:00:00,soccer_efl_champ,Huddersfield Town,Preston North End,Huddersfield Town,0.3991,0.3846153846153846,2.6,0.008193477155119908
