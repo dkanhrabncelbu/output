@@ -1,9 +1,0 @@
-date,time,datetime,country,event,freq,prelim,period,previous,forecast,actual,link
-2020-07-06,07:00,2020-07-06 07:00:00,Germany,Factory Orders   ,(MoM),,(May),-25.8%,15.0%,,https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=industrie_verarbeitendes_gewerbe
-2020-07-06,08:00,2020-07-06 08:00:00,Spain,Industrial Production   ,(YoY),,(May),-33.6%,-18.5%,,https://www.ine.es/en/prensa/ipi_prensa_en.htm
-2020-07-06,09:30,2020-07-06 09:30:00,United Kingdom,Construction PMI  ,,,(Jun),28.9,47.0,,https://www.markiteconomics.com/Public/Release/PressReleases
-2020-07-06,10:00,2020-07-06 10:00:00,Euro Zone,Retail Sales   ,(MoM),,(May),-11.7%,15.0%,,https://ec.europa.eu/eurostat/news/news-releases
-2020-07-06,10:00,2020-07-06 10:00:00,Euro Zone,Retail Sales   ,(YoY),,(May),-19.6%,-7.5%,,https://ec.europa.eu/eurostat/news/news-releases
-2020-07-06,11:30,2020-07-06 11:30:00,Spain,Consumer Confidence,,,,52.9,,,
-2020-07-06,14:45,2020-07-06 14:45:00,United States,Services PMI  ,,,(Jun),37.5,46.7,,https://www.markiteconomics.com/Public/Release/PressReleases
-2020-07-06,23:30,2020-07-06 23:30:00,Australia,AIG Services Index  ,,,(Jun),31.6,,,https://www.aigroup.com.au/resourcecentre/economics/performance-indicators/psi-report/
