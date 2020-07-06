@@ -2,13 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>BB Job Alerts</id>
   <title>Job Alerts</title>
-  <updated>2020-07-05T06:00:56.400184+00:00</updated>
+  <updated>2020-07-06T06:00:42.279582+00:00</updated>
   <link href="https://github.com/dkanhrabncelbu" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
-  <entry>
-    <id>Global Investment Research, Global Macro Research, European Economics, London, Associate / Vice President : Goldman Sachs : 2020-06-29</id>
-    <title>Goldman Sachs : Global Investment Research, Global Macro Research, European Economics, London, Associate / Vice President : 2020-06-29</title>
-    <updated>2020-07-05T06:00:56.400238+00:00</updated>
-    <link href="https://uk.linkedin.com/jobs/view/global-investment-research-global-macro-research-european-economics-london-associate-vice-president-at-goldman-sachs-1723456500?refId=86da6d52-638d-4717-8c51-c7249a2052dd&amp;position=19&amp;pageNum=0&amp;trk=public_jobs_job-result-card_result-card_full-click" rel="alternate"/>
-  </entry>
 </feed>
