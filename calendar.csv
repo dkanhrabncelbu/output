@@ -1,0 +1,18 @@
+date,time,datetime,country,event,freq,prelim,period,previous,forecast,actual,link
+2020-07-06,07:00,2020-07-06 07:00:00,Germany,Factory Orders   ,(MoM),,(May),-26.2%,15.0%,10.4%,https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=industrie_verarbeitendes_gewerbe
+2020-07-06,08:00,2020-07-06 08:00:00,Spain,Industrial Production   ,(YoY),,(May),-34.1%,-18.5%,-24.5%,https://www.ine.es/en/prensa/ipi_prensa_en.htm
+2020-07-06,09:30,2020-07-06 09:30:00,United Kingdom,Construction PMI  ,,,(Jun),28.9,47.0,55.3,https://www.markiteconomics.com/Public/Release/PressReleases
+2020-07-06,10:00,2020-07-06 10:00:00,Euro Zone,Retail Sales   ,(MoM),,(May),-12.1%,15.0%,17.8%,https://ec.europa.eu/eurostat/news/news-releases
+2020-07-06,10:00,2020-07-06 10:00:00,Euro Zone,Retail Sales   ,(YoY),,(May),-19.6%,-7.5%,-5.1%,https://ec.europa.eu/eurostat/news/news-releases
+2020-07-06,11:30,2020-07-06 11:30:00,Spain,Consumer Confidence,,,,52.9,,,
+2020-07-06,14:45,2020-07-06 14:45:00,United States,Services PMI  ,,,(Jun),37.5,46.7,,https://www.markiteconomics.com/Public/Release/PressReleases
+2020-07-06,23:30,2020-07-06 23:30:00,Australia,AIG Services Index  ,,,(Jun),31.6,,,https://www.aigroup.com.au/resourcecentre/economics/performance-indicators/psi-report/
+2020-07-07,00:30,2020-07-07 00:30:00,Japan,Average Cash Earnings ,(YoY),,,-0.6%,,,https://www.jil.go.jp/english/estatis/eshuyo/e0301.html
+2020-07-07,05:30,2020-07-07 05:30:00,Australia,RBA Interest Rate Decision  ,,,(Jul),0.25%,0.25%,,https://www.rba.gov.au/monetary-policy/int-rate-decisions/2020/
+2020-07-07,07:00,2020-07-07 07:00:00,Germany,Industrial Production   ,(MoM),,(May),-17.9%,10.0%,,https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=industrie_verarbeitendes_gewerbe
+2020-07-07,08:30,2020-07-07 08:30:00,Sweden,Industrial New Orders   ,(YoY),,(May),-20.7%,,,https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/industrial-deliveries-and-orders/orders-and-turnover-in-industry/
+2020-07-07,08:30,2020-07-07 08:30:00,Sweden,Industrial Production ,(MoM),,,-16.4%,,,https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/
+2020-07-07,08:30,2020-07-07 08:30:00,Sweden,Industrial Production ,(YoY),,,-16.7%,,,https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/
+2020-07-07,09:00,2020-07-07 09:00:00,Italy,Retail Sales   ,(MoM),,(May),-10.5%,,,https://www.istat.it/en/archive/retail+trade
+2020-07-07,09:00,2020-07-07 09:00:00,Italy,Retail Sales   ,(YoY),,(May),-26.3%,,,https://www.istat.it/en/archive/retail+trade
+2020-07-07,15:00,2020-07-07 15:00:00,United States,JOLTs Job Openings  ,,,(May),5.046M,4.850M,,https://www.bls.gov/jlt/#news
