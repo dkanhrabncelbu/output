@@ -1,0 +1,3354 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>BB Data Alerts</id>
+  <title>Data Alerts</title>
+  <updated>2020-07-08T17:37:46.047044+00:00</updated>
+  <link href="https://github.com/dkanhrabncelbu" rel="alternate"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>Germany Trade Data - 2020-07-08</id>
+    <title>Germany Trade Data</title>
+    <updated>2020-07-08T18:18:32.718121+00:00</updated>
+    <content>&amp;lt;html&amp;gt;&amp;lt;strong&amp;gt;benb&amp;lt;/strong&amp;gt;&amp;lt;/html&amp;gt;</content>
+    <link href="https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=aussenhandel" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Italy Retail Sales - 2020-07-08</id>
+    <title>Italy Retail Sales</title>
+    <updated>2020-07-08T18:18:32.703353+00:00</updated>
+    <content>&amp;lt;html&amp;gt;&amp;lt;strong&amp;gt;benb&amp;lt;/strong&amp;gt;&amp;lt;/html&amp;gt;</content>
+    <link href="https://www.istat.it/en/archive/retail+trade" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Sweden Industrial Production - 2020-07-08</id>
+    <title>Sweden Industrial Production</title>
+    <updated>2020-07-08T18:18:32.689235+00:00</updated>
+    <content>&amp;lt;html&amp;gt;&amp;lt;strong&amp;gt;benb&amp;lt;/strong&amp;gt;&amp;lt;/html&amp;gt;</content>
+    <link href="https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Sweden Industrial Orders - 2020-07-08</id>
+    <title>Sweden Industrial Orders</title>
+    <updated>2020-07-08T18:18:32.675146+00:00</updated>
+    <content>&amp;lt;html&amp;gt;&amp;lt;strong&amp;gt;benb&amp;lt;/strong&amp;gt;&amp;lt;/html&amp;gt;</content>
+    <link href="https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/industrial-deliveries-and-orders/orders-and-turnover-in-industry/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Germany Industrial Production - 2020-07-08</id>
+    <title>Germany Industrial Production</title>
+    <updated>2020-07-08T18:18:32.666640+00:00</updated>
+    <content>&amp;lt;html&amp;gt;&amp;lt;strong&amp;gt;benb&amp;lt;/strong&amp;gt;&amp;lt;/html&amp;gt;</content>
+    <link href="https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=industrie_verarbeitendes_gewerbe" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Germany Trade Data - 2020-07-08</id>
+    <title>Germany Trade Data</title>
+    <updated>2020-07-08T18:15:20.520907+00:00</updated>
+    <content>&amp;lt;strong&amp;gt;benb&amp;lt;/strong&amp;gt;</content>
+    <link href="https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=aussenhandel" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Italy Retail Sales - 2020-07-08</id>
+    <title>Italy Retail Sales</title>
+    <updated>2020-07-08T18:15:20.506061+00:00</updated>
+    <content>&amp;lt;strong&amp;gt;benb&amp;lt;/strong&amp;gt;</content>
+    <link href="https://www.istat.it/en/archive/retail+trade" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Sweden Industrial Production - 2020-07-08</id>
+    <title>Sweden Industrial Production</title>
+    <updated>2020-07-08T18:15:20.496410+00:00</updated>
+    <content>&amp;lt;strong&amp;gt;benb&amp;lt;/strong&amp;gt;</content>
+    <link href="https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Sweden Industrial Orders - 2020-07-08</id>
+    <title>Sweden Industrial Orders</title>
+    <updated>2020-07-08T18:15:20.476236+00:00</updated>
+    <content>&amp;lt;strong&amp;gt;benb&amp;lt;/strong&amp;gt;</content>
+    <link href="https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/industrial-deliveries-and-orders/orders-and-turnover-in-industry/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Germany Industrial Production - 2020-07-08</id>
+    <title>Germany Industrial Production</title>
+    <updated>2020-07-08T18:15:20.465745+00:00</updated>
+    <content>&amp;lt;strong&amp;gt;benb&amp;lt;/strong&amp;gt;</content>
+    <link href="https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=industrie_verarbeitendes_gewerbe" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Germany Trade Data - 2020-07-08</id>
+    <title>Germany Trade Data</title>
+    <updated>2020-07-08T18:13:54.147856+00:00</updated>
+    <content>&amp;lt;table border=&amp;quot;1&amp;quot; class=&amp;quot;dataframe&amp;quot;&amp;gt;
+  &amp;lt;thead&amp;gt;
+    &amp;lt;tr style=&amp;quot;text-align: right;&amp;quot;&amp;gt;
+      &amp;lt;th&amp;gt;&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;date&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;time&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;datetime&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;country&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;event&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;freq&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;prelim&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;period&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;previous&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;forecast&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;actual&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;link&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;name&amp;lt;/th&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/thead&amp;gt;
+  &amp;lt;tbody&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;118&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-09&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;07:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-09 07:00:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Exports&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(MoM)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-24.0%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;13.8%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=aussenhandel&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany Trade Data&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;119&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-09&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;07:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-09 07:00:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Imports&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(MoM)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-16.5%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;12.0%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=aussenhandel&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany Trade Data&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;</content>
+    <link href="https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=aussenhandel" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Italy Retail Sales - 2020-07-08</id>
+    <title>Italy Retail Sales</title>
+    <updated>2020-07-08T18:13:54.131217+00:00</updated>
+    <content>&amp;lt;table border=&amp;quot;1&amp;quot; class=&amp;quot;dataframe&amp;quot;&amp;gt;
+  &amp;lt;thead&amp;gt;
+    &amp;lt;tr style=&amp;quot;text-align: right;&amp;quot;&amp;gt;
+      &amp;lt;th&amp;gt;&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;date&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;time&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;datetime&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;country&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;event&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;freq&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;prelim&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;period&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;previous&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;forecast&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;actual&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;link&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;name&amp;lt;/th&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/thead&amp;gt;
+  &amp;lt;tbody&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;38&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;09:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 09:00:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Italy&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Retail Sales&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(MoM)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-10.7%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;24.3%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.istat.it/en/archive/retail+trade&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Italy Retail Sales&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;37&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;09:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 09:00:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Italy&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Retail Sales&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(YoY)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-26.7%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-10.5%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.istat.it/en/archive/retail+trade&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Italy Retail Sales&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;</content>
+    <link href="https://www.istat.it/en/archive/retail+trade" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Sweden Industrial Production - 2020-07-08</id>
+    <title>Sweden Industrial Production</title>
+    <updated>2020-07-08T18:13:54.115201+00:00</updated>
+    <content>&amp;lt;table border=&amp;quot;1&amp;quot; class=&amp;quot;dataframe&amp;quot;&amp;gt;
+  &amp;lt;thead&amp;gt;
+    &amp;lt;tr style=&amp;quot;text-align: right;&amp;quot;&amp;gt;
+      &amp;lt;th&amp;gt;&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;date&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;time&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;datetime&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;country&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;event&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;freq&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;prelim&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;period&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;previous&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;forecast&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;actual&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;link&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;name&amp;lt;/th&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/thead&amp;gt;
+  &amp;lt;tbody&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;35&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;08:30&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 08:30:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Industrial Production&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(MoM)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-16.4%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-0.1%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden Industrial Production&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;34&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;08:30&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 08:30:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Industrial Production&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(YoY)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-16.6%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-16.5%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden Industrial Production&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;</content>
+    <link href="https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Sweden Industrial Orders - 2020-07-08</id>
+    <title>Sweden Industrial Orders</title>
+    <updated>2020-07-08T18:13:54.102173+00:00</updated>
+    <content>&amp;lt;table border=&amp;quot;1&amp;quot; class=&amp;quot;dataframe&amp;quot;&amp;gt;
+  &amp;lt;thead&amp;gt;
+    &amp;lt;tr style=&amp;quot;text-align: right;&amp;quot;&amp;gt;
+      &amp;lt;th&amp;gt;&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;date&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;time&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;datetime&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;country&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;event&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;freq&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;prelim&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;period&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;previous&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;forecast&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;actual&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;link&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;name&amp;lt;/th&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/thead&amp;gt;
+  &amp;lt;tbody&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;36&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;08:30&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 08:30:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Industrial New Orders&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(YoY)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-20.6%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-18.4%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/industrial-deliveries-and-orders/orders-and-turnover-in-industry/&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden Industrial Orders&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;</content>
+    <link href="https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/industrial-deliveries-and-orders/orders-and-turnover-in-industry/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Germany Industrial Production - 2020-07-08</id>
+    <title>Germany Industrial Production</title>
+    <updated>2020-07-08T18:13:54.094203+00:00</updated>
+    <content>&amp;lt;table border=&amp;quot;1&amp;quot; class=&amp;quot;dataframe&amp;quot;&amp;gt;
+  &amp;lt;thead&amp;gt;
+    &amp;lt;tr style=&amp;quot;text-align: right;&amp;quot;&amp;gt;
+      &amp;lt;th&amp;gt;&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;date&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;time&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;datetime&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;country&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;event&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;freq&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;prelim&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;period&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;previous&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;forecast&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;actual&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;link&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;name&amp;lt;/th&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/thead&amp;gt;
+  &amp;lt;tbody&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;22&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;07:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 07:00:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Industrial Production&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(MoM)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-17.5%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;10.0%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;7.8%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=industrie_verarbeitendes_gewerbe&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany Industrial Production&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;</content>
+    <link href="https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=industrie_verarbeitendes_gewerbe" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Germany Trade Data - 2020-07-08</id>
+    <title>Germany Trade Data</title>
+    <updated>2020-07-08T18:13:05.429241+00:00</updated>
+    <content>&amp;lt;html&amp;gt;&amp;lt;table border=&amp;quot;1&amp;quot; class=&amp;quot;dataframe&amp;quot;&amp;gt;
+  &amp;lt;thead&amp;gt;
+    &amp;lt;tr style=&amp;quot;text-align: right;&amp;quot;&amp;gt;
+      &amp;lt;th&amp;gt;&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;date&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;time&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;datetime&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;country&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;event&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;freq&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;prelim&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;period&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;previous&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;forecast&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;actual&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;link&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;name&amp;lt;/th&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/thead&amp;gt;
+  &amp;lt;tbody&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;118&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-09&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;07:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-09 07:00:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Exports&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(MoM)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-24.0%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;13.8%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=aussenhandel&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany Trade Data&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;119&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-09&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;07:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-09 07:00:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Imports&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(MoM)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-16.5%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;12.0%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=aussenhandel&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany Trade Data&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;&amp;lt;/html&amp;gt;</content>
+    <link href="https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=aussenhandel" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Italy Retail Sales - 2020-07-08</id>
+    <title>Italy Retail Sales</title>
+    <updated>2020-07-08T18:13:05.421203+00:00</updated>
+    <content>&amp;lt;html&amp;gt;&amp;lt;table border=&amp;quot;1&amp;quot; class=&amp;quot;dataframe&amp;quot;&amp;gt;
+  &amp;lt;thead&amp;gt;
+    &amp;lt;tr style=&amp;quot;text-align: right;&amp;quot;&amp;gt;
+      &amp;lt;th&amp;gt;&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;date&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;time&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;datetime&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;country&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;event&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;freq&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;prelim&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;period&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;previous&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;forecast&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;actual&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;link&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;name&amp;lt;/th&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/thead&amp;gt;
+  &amp;lt;tbody&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;38&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;09:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 09:00:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Italy&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Retail Sales&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(MoM)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-10.7%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;24.3%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.istat.it/en/archive/retail+trade&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Italy Retail Sales&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;37&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;09:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 09:00:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Italy&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Retail Sales&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(YoY)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-26.7%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-10.5%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.istat.it/en/archive/retail+trade&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Italy Retail Sales&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;&amp;lt;/html&amp;gt;</content>
+    <link href="https://www.istat.it/en/archive/retail+trade" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Sweden Industrial Production - 2020-07-08</id>
+    <title>Sweden Industrial Production</title>
+    <updated>2020-07-08T18:13:05.405199+00:00</updated>
+    <content>&amp;lt;html&amp;gt;&amp;lt;table border=&amp;quot;1&amp;quot; class=&amp;quot;dataframe&amp;quot;&amp;gt;
+  &amp;lt;thead&amp;gt;
+    &amp;lt;tr style=&amp;quot;text-align: right;&amp;quot;&amp;gt;
+      &amp;lt;th&amp;gt;&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;date&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;time&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;datetime&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;country&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;event&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;freq&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;prelim&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;period&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;previous&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;forecast&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;actual&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;link&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;name&amp;lt;/th&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/thead&amp;gt;
+  &amp;lt;tbody&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;35&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;08:30&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 08:30:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Industrial Production&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(MoM)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-16.4%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-0.1%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden Industrial Production&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;34&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;08:30&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 08:30:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Industrial Production&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(YoY)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-16.6%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-16.5%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden Industrial Production&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;&amp;lt;/html&amp;gt;</content>
+    <link href="https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Sweden Industrial Orders - 2020-07-08</id>
+    <title>Sweden Industrial Orders</title>
+    <updated>2020-07-08T18:13:05.392623+00:00</updated>
+    <content>&amp;lt;html&amp;gt;&amp;lt;table border=&amp;quot;1&amp;quot; class=&amp;quot;dataframe&amp;quot;&amp;gt;
+  &amp;lt;thead&amp;gt;
+    &amp;lt;tr style=&amp;quot;text-align: right;&amp;quot;&amp;gt;
+      &amp;lt;th&amp;gt;&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;date&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;time&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;datetime&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;country&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;event&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;freq&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;prelim&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;period&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;previous&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;forecast&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;actual&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;link&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;name&amp;lt;/th&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/thead&amp;gt;
+  &amp;lt;tbody&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;36&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;08:30&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 08:30:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Industrial New Orders&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(YoY)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-20.6%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-18.4%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/industrial-deliveries-and-orders/orders-and-turnover-in-industry/&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden Industrial Orders&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;&amp;lt;/html&amp;gt;</content>
+    <link href="https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/industrial-deliveries-and-orders/orders-and-turnover-in-industry/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Germany Industrial Production - 2020-07-08</id>
+    <title>Germany Industrial Production</title>
+    <updated>2020-07-08T18:13:05.379033+00:00</updated>
+    <content>&amp;lt;html&amp;gt;&amp;lt;table border=&amp;quot;1&amp;quot; class=&amp;quot;dataframe&amp;quot;&amp;gt;
+  &amp;lt;thead&amp;gt;
+    &amp;lt;tr style=&amp;quot;text-align: right;&amp;quot;&amp;gt;
+      &amp;lt;th&amp;gt;&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;date&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;time&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;datetime&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;country&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;event&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;freq&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;prelim&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;period&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;previous&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;forecast&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;actual&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;link&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;name&amp;lt;/th&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/thead&amp;gt;
+  &amp;lt;tbody&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;22&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;07:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 07:00:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Industrial Production&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(MoM)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-17.5%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;10.0%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;7.8%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=industrie_verarbeitendes_gewerbe&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany Industrial Production&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;&amp;lt;/html&amp;gt;</content>
+    <link href="https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=industrie_verarbeitendes_gewerbe" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Germany Trade Data - 2020-07-08</id>
+    <title>Germany Trade Data</title>
+    <updated>2020-07-08T18:12:56.393894+00:00</updated>
+    <content>&amp;lt;html&amp;gt;&amp;lt;table border="1" class="dataframe"&amp;gt;
+  &amp;lt;thead&amp;gt;
+    &amp;lt;tr style="text-align: right;"&amp;gt;
+      &amp;lt;th&amp;gt;&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;date&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;time&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;datetime&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;country&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;event&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;freq&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;prelim&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;period&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;previous&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;forecast&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;actual&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;link&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;name&amp;lt;/th&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/thead&amp;gt;
+  &amp;lt;tbody&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;118&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-09&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;07:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-09 07:00:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Exports&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(MoM)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-24.0%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;13.8%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=aussenhandel&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany Trade Data&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;119&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-09&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;07:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-09 07:00:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Imports&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(MoM)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-16.5%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;12.0%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=aussenhandel&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany Trade Data&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;&amp;lt;/html&amp;gt;</content>
+    <link href="https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=aussenhandel" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Italy Retail Sales - 2020-07-08</id>
+    <title>Italy Retail Sales</title>
+    <updated>2020-07-08T18:12:56.377903+00:00</updated>
+    <content>&amp;lt;html&amp;gt;&amp;lt;table border="1" class="dataframe"&amp;gt;
+  &amp;lt;thead&amp;gt;
+    &amp;lt;tr style="text-align: right;"&amp;gt;
+      &amp;lt;th&amp;gt;&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;date&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;time&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;datetime&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;country&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;event&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;freq&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;prelim&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;period&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;previous&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;forecast&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;actual&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;link&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;name&amp;lt;/th&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/thead&amp;gt;
+  &amp;lt;tbody&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;38&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;09:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 09:00:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Italy&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Retail Sales&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(MoM)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-10.7%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;24.3%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.istat.it/en/archive/retail+trade&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Italy Retail Sales&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;37&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;09:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 09:00:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Italy&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Retail Sales&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(YoY)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-26.7%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-10.5%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.istat.it/en/archive/retail+trade&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Italy Retail Sales&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;&amp;lt;/html&amp;gt;</content>
+    <link href="https://www.istat.it/en/archive/retail+trade" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Sweden Industrial Production - 2020-07-08</id>
+    <title>Sweden Industrial Production</title>
+    <updated>2020-07-08T18:12:56.361916+00:00</updated>
+    <content>&amp;lt;html&amp;gt;&amp;lt;table border="1" class="dataframe"&amp;gt;
+  &amp;lt;thead&amp;gt;
+    &amp;lt;tr style="text-align: right;"&amp;gt;
+      &amp;lt;th&amp;gt;&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;date&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;time&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;datetime&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;country&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;event&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;freq&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;prelim&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;period&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;previous&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;forecast&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;actual&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;link&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;name&amp;lt;/th&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/thead&amp;gt;
+  &amp;lt;tbody&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;35&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;08:30&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 08:30:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Industrial Production&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(MoM)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-16.4%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-0.1%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden Industrial Production&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;34&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;08:30&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 08:30:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Industrial Production&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(YoY)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-16.6%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-16.5%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden Industrial Production&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;&amp;lt;/html&amp;gt;</content>
+    <link href="https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Sweden Industrial Orders - 2020-07-08</id>
+    <title>Sweden Industrial Orders</title>
+    <updated>2020-07-08T18:12:56.353360+00:00</updated>
+    <content>&amp;lt;html&amp;gt;&amp;lt;table border="1" class="dataframe"&amp;gt;
+  &amp;lt;thead&amp;gt;
+    &amp;lt;tr style="text-align: right;"&amp;gt;
+      &amp;lt;th&amp;gt;&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;date&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;time&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;datetime&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;country&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;event&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;freq&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;prelim&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;period&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;previous&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;forecast&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;actual&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;link&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;name&amp;lt;/th&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/thead&amp;gt;
+  &amp;lt;tbody&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;36&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;08:30&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 08:30:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Industrial New Orders&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(YoY)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-20.6%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-18.4%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/industrial-deliveries-and-orders/orders-and-turnover-in-industry/&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden Industrial Orders&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;&amp;lt;/html&amp;gt;</content>
+    <link href="https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/industrial-deliveries-and-orders/orders-and-turnover-in-industry/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Germany Industrial Production - 2020-07-08</id>
+    <title>Germany Industrial Production</title>
+    <updated>2020-07-08T18:12:56.333925+00:00</updated>
+    <content>&amp;lt;html&amp;gt;&amp;lt;table border="1" class="dataframe"&amp;gt;
+  &amp;lt;thead&amp;gt;
+    &amp;lt;tr style="text-align: right;"&amp;gt;
+      &amp;lt;th&amp;gt;&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;date&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;time&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;datetime&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;country&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;event&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;freq&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;prelim&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;period&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;previous&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;forecast&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;actual&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;link&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;name&amp;lt;/th&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/thead&amp;gt;
+  &amp;lt;tbody&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;22&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;07:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 07:00:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Industrial Production&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(MoM)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-17.5%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;10.0%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;7.8%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=industrie_verarbeitendes_gewerbe&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany Industrial Production&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;&amp;lt;/html&amp;gt;</content>
+    <link href="https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=industrie_verarbeitendes_gewerbe" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Germany Trade Data - 2020-07-08</id>
+    <title>Germany Trade Data</title>
+    <updated>2020-07-08T18:12:43.915009+00:00</updated>
+    <content>&amp;lt;html&amp;gt;&amp;lt;table border=&amp;quot;1&amp;quot; class=&amp;quot;dataframe&amp;quot;&amp;gt;
+  &amp;lt;thead&amp;gt;
+    &amp;lt;tr style=&amp;quot;text-align: right;&amp;quot;&amp;gt;
+      &amp;lt;th&amp;gt;&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;date&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;time&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;datetime&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;country&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;event&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;freq&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;prelim&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;period&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;previous&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;forecast&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;actual&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;link&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;name&amp;lt;/th&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/thead&amp;gt;
+  &amp;lt;tbody&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;118&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-09&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;07:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-09 07:00:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Exports&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(MoM)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-24.0%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;13.8%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=aussenhandel&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany Trade Data&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;119&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-09&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;07:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-09 07:00:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Imports&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(MoM)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-16.5%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;12.0%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=aussenhandel&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany Trade Data&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;&amp;lt;/html&amp;gt;</content>
+    <link href="https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=aussenhandel" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Italy Retail Sales - 2020-07-08</id>
+    <title>Italy Retail Sales</title>
+    <updated>2020-07-08T18:12:43.899080+00:00</updated>
+    <content>&amp;lt;html&amp;gt;&amp;lt;table border=&amp;quot;1&amp;quot; class=&amp;quot;dataframe&amp;quot;&amp;gt;
+  &amp;lt;thead&amp;gt;
+    &amp;lt;tr style=&amp;quot;text-align: right;&amp;quot;&amp;gt;
+      &amp;lt;th&amp;gt;&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;date&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;time&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;datetime&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;country&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;event&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;freq&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;prelim&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;period&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;previous&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;forecast&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;actual&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;link&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;name&amp;lt;/th&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/thead&amp;gt;
+  &amp;lt;tbody&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;38&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;09:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 09:00:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Italy&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Retail Sales&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(MoM)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-10.7%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;24.3%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.istat.it/en/archive/retail+trade&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Italy Retail Sales&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;37&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;09:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 09:00:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Italy&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Retail Sales&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(YoY)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-26.7%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-10.5%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.istat.it/en/archive/retail+trade&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Italy Retail Sales&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;&amp;lt;/html&amp;gt;</content>
+    <link href="https://www.istat.it/en/archive/retail+trade" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Sweden Industrial Production - 2020-07-08</id>
+    <title>Sweden Industrial Production</title>
+    <updated>2020-07-08T18:12:43.891001+00:00</updated>
+    <content>&amp;lt;html&amp;gt;&amp;lt;table border=&amp;quot;1&amp;quot; class=&amp;quot;dataframe&amp;quot;&amp;gt;
+  &amp;lt;thead&amp;gt;
+    &amp;lt;tr style=&amp;quot;text-align: right;&amp;quot;&amp;gt;
+      &amp;lt;th&amp;gt;&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;date&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;time&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;datetime&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;country&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;event&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;freq&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;prelim&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;period&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;previous&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;forecast&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;actual&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;link&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;name&amp;lt;/th&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/thead&amp;gt;
+  &amp;lt;tbody&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;35&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;08:30&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 08:30:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Industrial Production&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(MoM)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-16.4%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-0.1%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden Industrial Production&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;34&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;08:30&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 08:30:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Industrial Production&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(YoY)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-16.6%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-16.5%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden Industrial Production&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;&amp;lt;/html&amp;gt;</content>
+    <link href="https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Sweden Industrial Orders - 2020-07-08</id>
+    <title>Sweden Industrial Orders</title>
+    <updated>2020-07-08T18:12:43.872052+00:00</updated>
+    <content>&amp;lt;html&amp;gt;&amp;lt;table border=&amp;quot;1&amp;quot; class=&amp;quot;dataframe&amp;quot;&amp;gt;
+  &amp;lt;thead&amp;gt;
+    &amp;lt;tr style=&amp;quot;text-align: right;&amp;quot;&amp;gt;
+      &amp;lt;th&amp;gt;&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;date&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;time&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;datetime&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;country&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;event&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;freq&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;prelim&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;period&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;previous&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;forecast&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;actual&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;link&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;name&amp;lt;/th&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/thead&amp;gt;
+  &amp;lt;tbody&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;36&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;08:30&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 08:30:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Industrial New Orders&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(YoY)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-20.6%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-18.4%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/industrial-deliveries-and-orders/orders-and-turnover-in-industry/&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden Industrial Orders&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;&amp;lt;/html&amp;gt;</content>
+    <link href="https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/industrial-deliveries-and-orders/orders-and-turnover-in-industry/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Germany Industrial Production - 2020-07-08</id>
+    <title>Germany Industrial Production</title>
+    <updated>2020-07-08T18:12:43.864017+00:00</updated>
+    <content>&amp;lt;html&amp;gt;&amp;lt;table border=&amp;quot;1&amp;quot; class=&amp;quot;dataframe&amp;quot;&amp;gt;
+  &amp;lt;thead&amp;gt;
+    &amp;lt;tr style=&amp;quot;text-align: right;&amp;quot;&amp;gt;
+      &amp;lt;th&amp;gt;&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;date&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;time&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;datetime&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;country&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;event&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;freq&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;prelim&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;period&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;previous&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;forecast&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;actual&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;link&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;name&amp;lt;/th&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/thead&amp;gt;
+  &amp;lt;tbody&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;22&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;07:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 07:00:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Industrial Production&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(MoM)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-17.5%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;10.0%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;7.8%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=industrie_verarbeitendes_gewerbe&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany Industrial Production&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;&amp;lt;/html&amp;gt;</content>
+    <link href="https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=industrie_verarbeitendes_gewerbe" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Germany Trade Data - 2020-07-08</id>
+    <title>Germany Trade Data</title>
+    <updated>2020-07-08T18:11:03.599128+00:00</updated>
+    <content>&amp;lt;html&amp;gt;&amp;lt;table border="1" class="dataframe"&amp;gt;
+  &amp;lt;thead&amp;gt;
+    &amp;lt;tr style="text-align: right;"&amp;gt;
+      &amp;lt;th&amp;gt;&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;date&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;time&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;datetime&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;country&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;event&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;freq&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;prelim&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;period&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;previous&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;forecast&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;actual&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;link&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;name&amp;lt;/th&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/thead&amp;gt;
+  &amp;lt;tbody&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;118&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-09&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;07:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-09 07:00:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Exports&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(MoM)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-24.0%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;13.8%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=aussenhandel&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany Trade Data&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;119&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-09&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;07:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-09 07:00:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Imports&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(MoM)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-16.5%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;12.0%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=aussenhandel&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany Trade Data&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;&amp;lt;/html&amp;gt;</content>
+    <link href="https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=aussenhandel" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Italy Retail Sales - 2020-07-08</id>
+    <title>Italy Retail Sales</title>
+    <updated>2020-07-08T18:11:03.582610+00:00</updated>
+    <content>&amp;lt;html&amp;gt;&amp;lt;table border="1" class="dataframe"&amp;gt;
+  &amp;lt;thead&amp;gt;
+    &amp;lt;tr style="text-align: right;"&amp;gt;
+      &amp;lt;th&amp;gt;&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;date&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;time&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;datetime&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;country&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;event&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;freq&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;prelim&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;period&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;previous&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;forecast&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;actual&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;link&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;name&amp;lt;/th&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/thead&amp;gt;
+  &amp;lt;tbody&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;38&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;09:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 09:00:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Italy&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Retail Sales&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(MoM)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-10.7%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;24.3%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.istat.it/en/archive/retail+trade&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Italy Retail Sales&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;37&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;09:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 09:00:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Italy&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Retail Sales&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(YoY)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-26.7%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-10.5%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.istat.it/en/archive/retail+trade&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Italy Retail Sales&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;&amp;lt;/html&amp;gt;</content>
+    <link href="https://www.istat.it/en/archive/retail+trade" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Sweden Industrial Production - 2020-07-08</id>
+    <title>Sweden Industrial Production</title>
+    <updated>2020-07-08T18:11:03.562180+00:00</updated>
+    <content>&amp;lt;html&amp;gt;&amp;lt;table border="1" class="dataframe"&amp;gt;
+  &amp;lt;thead&amp;gt;
+    &amp;lt;tr style="text-align: right;"&amp;gt;
+      &amp;lt;th&amp;gt;&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;date&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;time&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;datetime&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;country&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;event&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;freq&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;prelim&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;period&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;previous&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;forecast&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;actual&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;link&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;name&amp;lt;/th&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/thead&amp;gt;
+  &amp;lt;tbody&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;35&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;08:30&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 08:30:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Industrial Production&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(MoM)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-16.4%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-0.1%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden Industrial Production&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;34&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;08:30&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 08:30:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Industrial Production&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(YoY)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-16.6%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-16.5%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden Industrial Production&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;&amp;lt;/html&amp;gt;</content>
+    <link href="https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Sweden Industrial Orders - 2020-07-08</id>
+    <title>Sweden Industrial Orders</title>
+    <updated>2020-07-08T18:11:03.554167+00:00</updated>
+    <content>&amp;lt;html&amp;gt;&amp;lt;table border="1" class="dataframe"&amp;gt;
+  &amp;lt;thead&amp;gt;
+    &amp;lt;tr style="text-align: right;"&amp;gt;
+      &amp;lt;th&amp;gt;&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;date&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;time&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;datetime&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;country&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;event&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;freq&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;prelim&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;period&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;previous&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;forecast&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;actual&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;link&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;name&amp;lt;/th&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/thead&amp;gt;
+  &amp;lt;tbody&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;36&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;08:30&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 08:30:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Industrial New Orders&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(YoY)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-20.6%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-18.4%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/industrial-deliveries-and-orders/orders-and-turnover-in-industry/&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden Industrial Orders&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;&amp;lt;/html&amp;gt;</content>
+    <link href="https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/industrial-deliveries-and-orders/orders-and-turnover-in-industry/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Germany Industrial Production - 2020-07-08</id>
+    <title>Germany Industrial Production</title>
+    <updated>2020-07-08T18:11:03.544670+00:00</updated>
+    <content>&amp;lt;html&amp;gt;&amp;lt;table border="1" class="dataframe"&amp;gt;
+  &amp;lt;thead&amp;gt;
+    &amp;lt;tr style="text-align: right;"&amp;gt;
+      &amp;lt;th&amp;gt;&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;date&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;time&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;datetime&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;country&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;event&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;freq&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;prelim&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;period&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;previous&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;forecast&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;actual&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;link&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;name&amp;lt;/th&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/thead&amp;gt;
+  &amp;lt;tbody&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;22&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;07:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 07:00:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Industrial Production&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(MoM)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-17.5%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;10.0%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;7.8%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=industrie_verarbeitendes_gewerbe&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany Industrial Production&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;&amp;lt;/html&amp;gt;</content>
+    <link href="https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=industrie_verarbeitendes_gewerbe" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Germany Trade Data - 2020-07-08</id>
+    <title>Germany Trade Data</title>
+    <updated>2020-07-08T18:07:50.357296+00:00</updated>
+    <content>&amp;lt;html&amp;gt;&amp;lt;table border="1" class="dataframe"&amp;gt;
+  &amp;lt;thead&amp;gt;
+    &amp;lt;tr style="text-align: right;"&amp;gt;
+      &amp;lt;th&amp;gt;&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;date&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;time&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;datetime&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;country&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;event&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;freq&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;prelim&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;period&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;previous&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;forecast&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;actual&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;link&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;name&amp;lt;/th&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/thead&amp;gt;
+  &amp;lt;tbody&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;118&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-09&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;07:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-09 07:00:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Exports&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(MoM)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-24.0%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;13.8%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=aussenhandel&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany Trade Data&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;119&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-09&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;07:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-09 07:00:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Imports&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(MoM)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-16.5%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;12.0%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=aussenhandel&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany Trade Data&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;&amp;lt;/html&amp;gt;</content>
+    <link href="https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=aussenhandel" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Italy Retail Sales - 2020-07-08</id>
+    <title>Italy Retail Sales</title>
+    <updated>2020-07-08T18:07:50.341347+00:00</updated>
+    <content>&amp;lt;html&amp;gt;&amp;lt;table border="1" class="dataframe"&amp;gt;
+  &amp;lt;thead&amp;gt;
+    &amp;lt;tr style="text-align: right;"&amp;gt;
+      &amp;lt;th&amp;gt;&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;date&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;time&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;datetime&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;country&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;event&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;freq&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;prelim&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;period&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;previous&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;forecast&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;actual&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;link&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;name&amp;lt;/th&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/thead&amp;gt;
+  &amp;lt;tbody&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;38&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;09:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 09:00:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Italy&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Retail Sales&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(MoM)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-10.7%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;24.3%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.istat.it/en/archive/retail+trade&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Italy Retail Sales&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;37&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;09:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 09:00:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Italy&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Retail Sales&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(YoY)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-26.7%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-10.5%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.istat.it/en/archive/retail+trade&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Italy Retail Sales&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;&amp;lt;/html&amp;gt;</content>
+    <link href="https://www.istat.it/en/archive/retail+trade" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Sweden Industrial Production - 2020-07-08</id>
+    <title>Sweden Industrial Production</title>
+    <updated>2020-07-08T18:07:50.333310+00:00</updated>
+    <content>&amp;lt;html&amp;gt;&amp;lt;table border="1" class="dataframe"&amp;gt;
+  &amp;lt;thead&amp;gt;
+    &amp;lt;tr style="text-align: right;"&amp;gt;
+      &amp;lt;th&amp;gt;&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;date&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;time&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;datetime&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;country&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;event&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;freq&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;prelim&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;period&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;previous&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;forecast&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;actual&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;link&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;name&amp;lt;/th&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/thead&amp;gt;
+  &amp;lt;tbody&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;35&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;08:30&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 08:30:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Industrial Production&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(MoM)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-16.4%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-0.1%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden Industrial Production&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;34&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;08:30&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 08:30:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Industrial Production&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(YoY)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-16.6%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-16.5%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden Industrial Production&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;&amp;lt;/html&amp;gt;</content>
+    <link href="https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Sweden Industrial Orders - 2020-07-08</id>
+    <title>Sweden Industrial Orders</title>
+    <updated>2020-07-08T18:07:50.315600+00:00</updated>
+    <content>&amp;lt;html&amp;gt;&amp;lt;table border="1" class="dataframe"&amp;gt;
+  &amp;lt;thead&amp;gt;
+    &amp;lt;tr style="text-align: right;"&amp;gt;
+      &amp;lt;th&amp;gt;&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;date&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;time&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;datetime&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;country&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;event&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;freq&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;prelim&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;period&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;previous&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;forecast&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;actual&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;link&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;name&amp;lt;/th&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/thead&amp;gt;
+  &amp;lt;tbody&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;36&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;08:30&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 08:30:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Industrial New Orders&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(YoY)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-20.6%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-18.4%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/industrial-deliveries-and-orders/orders-and-turnover-in-industry/&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden Industrial Orders&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;&amp;lt;/html&amp;gt;</content>
+    <link href="https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/industrial-deliveries-and-orders/orders-and-turnover-in-industry/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Germany Industrial Production - 2020-07-08</id>
+    <title>Germany Industrial Production</title>
+    <updated>2020-07-08T18:07:50.307301+00:00</updated>
+    <content>&amp;lt;html&amp;gt;&amp;lt;table border="1" class="dataframe"&amp;gt;
+  &amp;lt;thead&amp;gt;
+    &amp;lt;tr style="text-align: right;"&amp;gt;
+      &amp;lt;th&amp;gt;&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;date&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;time&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;datetime&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;country&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;event&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;freq&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;prelim&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;period&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;previous&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;forecast&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;actual&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;link&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;name&amp;lt;/th&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/thead&amp;gt;
+  &amp;lt;tbody&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;22&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;07:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 07:00:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Industrial Production&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(MoM)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-17.5%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;10.0%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;7.8%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=industrie_verarbeitendes_gewerbe&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany Industrial Production&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;&amp;lt;/html&amp;gt;</content>
+    <link href="https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=industrie_verarbeitendes_gewerbe" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Germany Trade Data - 2020-07-08</id>
+    <title>Germany Trade Data</title>
+    <updated>2020-07-08T18:05:50.458824+00:00</updated>
+    <content>&amp;lt;html&amp;gt;&amp;lt;table border="1" class="dataframe"&amp;gt;
+  &amp;lt;thead&amp;gt;
+    &amp;lt;tr style="text-align: right;"&amp;gt;
+      &amp;lt;th&amp;gt;&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;date&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;time&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;datetime&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;country&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;event&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;freq&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;prelim&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;period&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;previous&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;forecast&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;actual&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;link&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;name&amp;lt;/th&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/thead&amp;gt;
+  &amp;lt;tbody&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;118&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-09&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;07:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-09 07:00:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Exports&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(MoM)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-24.0%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;13.8%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=aussenhandel&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany Trade Data&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;119&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-09&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;07:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-09 07:00:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Imports&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(MoM)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-16.5%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;12.0%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=aussenhandel&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany Trade Data&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;&amp;lt;/html&amp;gt;</content>
+    <link href="https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=aussenhandel" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Italy Retail Sales - 2020-07-08</id>
+    <title>Italy Retail Sales</title>
+    <updated>2020-07-08T18:05:50.442840+00:00</updated>
+    <content>&amp;lt;html&amp;gt;&amp;lt;table border="1" class="dataframe"&amp;gt;
+  &amp;lt;thead&amp;gt;
+    &amp;lt;tr style="text-align: right;"&amp;gt;
+      &amp;lt;th&amp;gt;&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;date&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;time&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;datetime&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;country&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;event&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;freq&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;prelim&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;period&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;previous&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;forecast&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;actual&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;link&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;name&amp;lt;/th&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/thead&amp;gt;
+  &amp;lt;tbody&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;38&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;09:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 09:00:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Italy&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Retail Sales&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(MoM)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-10.7%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;24.3%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.istat.it/en/archive/retail+trade&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Italy Retail Sales&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;37&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;09:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 09:00:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Italy&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Retail Sales&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(YoY)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-26.7%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-10.5%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.istat.it/en/archive/retail+trade&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Italy Retail Sales&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;&amp;lt;/html&amp;gt;</content>
+    <link href="https://www.istat.it/en/archive/retail+trade" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Sweden Industrial Production - 2020-07-08</id>
+    <title>Sweden Industrial Production</title>
+    <updated>2020-07-08T18:05:50.434796+00:00</updated>
+    <content>&amp;lt;html&amp;gt;&amp;lt;table border="1" class="dataframe"&amp;gt;
+  &amp;lt;thead&amp;gt;
+    &amp;lt;tr style="text-align: right;"&amp;gt;
+      &amp;lt;th&amp;gt;&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;date&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;time&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;datetime&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;country&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;event&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;freq&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;prelim&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;period&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;previous&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;forecast&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;actual&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;link&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;name&amp;lt;/th&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/thead&amp;gt;
+  &amp;lt;tbody&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;35&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;08:30&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 08:30:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Industrial Production&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(MoM)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-16.4%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-0.1%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden Industrial Production&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;34&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;08:30&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 08:30:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Industrial Production&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(YoY)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-16.6%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-16.5%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden Industrial Production&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;&amp;lt;/html&amp;gt;</content>
+    <link href="https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Sweden Industrial Orders - 2020-07-08</id>
+    <title>Sweden Industrial Orders</title>
+    <updated>2020-07-08T18:05:50.418755+00:00</updated>
+    <content>&amp;lt;html&amp;gt;&amp;lt;table border="1" class="dataframe"&amp;gt;
+  &amp;lt;thead&amp;gt;
+    &amp;lt;tr style="text-align: right;"&amp;gt;
+      &amp;lt;th&amp;gt;&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;date&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;time&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;datetime&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;country&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;event&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;freq&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;prelim&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;period&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;previous&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;forecast&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;actual&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;link&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;name&amp;lt;/th&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/thead&amp;gt;
+  &amp;lt;tbody&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;36&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;08:30&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 08:30:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Industrial New Orders&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(YoY)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-20.6%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-18.4%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/industrial-deliveries-and-orders/orders-and-turnover-in-industry/&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden Industrial Orders&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;&amp;lt;/html&amp;gt;</content>
+    <link href="https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/industrial-deliveries-and-orders/orders-and-turnover-in-industry/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Germany Industrial Production - 2020-07-08</id>
+    <title>Germany Industrial Production</title>
+    <updated>2020-07-08T18:05:50.407653+00:00</updated>
+    <content>&amp;lt;html&amp;gt;&amp;lt;table border="1" class="dataframe"&amp;gt;
+  &amp;lt;thead&amp;gt;
+    &amp;lt;tr style="text-align: right;"&amp;gt;
+      &amp;lt;th&amp;gt;&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;date&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;time&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;datetime&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;country&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;event&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;freq&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;prelim&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;period&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;previous&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;forecast&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;actual&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;link&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;name&amp;lt;/th&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/thead&amp;gt;
+  &amp;lt;tbody&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;22&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;07:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 07:00:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Industrial Production&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(MoM)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-17.5%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;10.0%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;7.8%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=industrie_verarbeitendes_gewerbe&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany Industrial Production&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;&amp;lt;/html&amp;gt;</content>
+    <link href="https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=industrie_verarbeitendes_gewerbe" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Germany Trade Data - 2020-07-08</id>
+    <title>Germany Trade Data</title>
+    <updated>2020-07-08T18:02:30.734382+00:00</updated>
+    <content>&amp;lt;table border="1" class="dataframe"&amp;gt;
+  &amp;lt;thead&amp;gt;
+    &amp;lt;tr style="text-align: right;"&amp;gt;
+      &amp;lt;th&amp;gt;&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;date&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;time&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;datetime&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;country&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;event&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;freq&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;prelim&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;period&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;previous&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;forecast&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;actual&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;link&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;name&amp;lt;/th&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/thead&amp;gt;
+  &amp;lt;tbody&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;118&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-09&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;07:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-09 07:00:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Exports&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(MoM)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-24.0%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;13.8%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=aussenhandel&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany Trade Data&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;119&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-09&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;07:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-09 07:00:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Imports&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(MoM)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-16.5%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;12.0%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=aussenhandel&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany Trade Data&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;</content>
+    <link href="https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=aussenhandel" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Italy Retail Sales - 2020-07-08</id>
+    <title>Italy Retail Sales</title>
+    <updated>2020-07-08T18:02:30.717300+00:00</updated>
+    <content>&amp;lt;table border="1" class="dataframe"&amp;gt;
+  &amp;lt;thead&amp;gt;
+    &amp;lt;tr style="text-align: right;"&amp;gt;
+      &amp;lt;th&amp;gt;&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;date&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;time&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;datetime&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;country&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;event&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;freq&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;prelim&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;period&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;previous&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;forecast&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;actual&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;link&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;name&amp;lt;/th&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/thead&amp;gt;
+  &amp;lt;tbody&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;38&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;09:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 09:00:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Italy&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Retail Sales&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(MoM)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-10.7%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;24.3%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.istat.it/en/archive/retail+trade&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Italy Retail Sales&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;37&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;09:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 09:00:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Italy&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Retail Sales&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(YoY)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-26.7%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-10.5%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.istat.it/en/archive/retail+trade&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Italy Retail Sales&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;</content>
+    <link href="https://www.istat.it/en/archive/retail+trade" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Sweden Industrial Production - 2020-07-08</id>
+    <title>Sweden Industrial Production</title>
+    <updated>2020-07-08T18:02:30.705456+00:00</updated>
+    <content>&amp;lt;table border="1" class="dataframe"&amp;gt;
+  &amp;lt;thead&amp;gt;
+    &amp;lt;tr style="text-align: right;"&amp;gt;
+      &amp;lt;th&amp;gt;&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;date&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;time&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;datetime&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;country&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;event&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;freq&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;prelim&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;period&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;previous&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;forecast&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;actual&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;link&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;name&amp;lt;/th&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/thead&amp;gt;
+  &amp;lt;tbody&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;35&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;08:30&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 08:30:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Industrial Production&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(MoM)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-16.4%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-0.1%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden Industrial Production&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;34&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;08:30&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 08:30:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Industrial Production&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(YoY)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-16.6%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-16.5%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden Industrial Production&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;</content>
+    <link href="https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Sweden Industrial Orders - 2020-07-08</id>
+    <title>Sweden Industrial Orders</title>
+    <updated>2020-07-08T18:02:30.684574+00:00</updated>
+    <content>&amp;lt;table border="1" class="dataframe"&amp;gt;
+  &amp;lt;thead&amp;gt;
+    &amp;lt;tr style="text-align: right;"&amp;gt;
+      &amp;lt;th&amp;gt;&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;date&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;time&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;datetime&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;country&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;event&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;freq&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;prelim&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;period&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;previous&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;forecast&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;actual&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;link&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;name&amp;lt;/th&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/thead&amp;gt;
+  &amp;lt;tbody&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;36&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;08:30&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 08:30:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Industrial New Orders&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(YoY)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-20.6%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-18.4%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/industrial-deliveries-and-orders/orders-and-turnover-in-industry/&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Sweden Industrial Orders&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;</content>
+    <link href="https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/industrial-deliveries-and-orders/orders-and-turnover-in-industry/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Germany Industrial Production - 2020-07-08</id>
+    <title>Germany Industrial Production</title>
+    <updated>2020-07-08T18:02:30.673593+00:00</updated>
+    <content>&amp;lt;table border="1" class="dataframe"&amp;gt;
+  &amp;lt;thead&amp;gt;
+    &amp;lt;tr style="text-align: right;"&amp;gt;
+      &amp;lt;th&amp;gt;&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;date&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;time&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;datetime&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;country&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;event&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;freq&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;prelim&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;period&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;previous&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;forecast&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;actual&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;link&amp;lt;/th&amp;gt;
+      &amp;lt;th&amp;gt;name&amp;lt;/th&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/thead&amp;gt;
+  &amp;lt;tbody&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;th&amp;gt;22&amp;lt;/th&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;07:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2020-07-07 07:00:00&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Industrial Production&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(MoM)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;(May)&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;-17.5%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;10.0%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;7.8%&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=industrie_verarbeitendes_gewerbe&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Germany Industrial Production&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;</content>
+    <link href="https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=industrie_verarbeitendes_gewerbe" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Germany Trade Data - 2020-07-08</id>
+    <title>Germany Trade Data</title>
+    <updated>2020-07-08T17:54:50.251781+00:00</updated>
+    <content>&lt;![CDATA[&lt;table border="1" class="dataframe"&gt;
+  &lt;thead&gt;
+    &lt;tr style="text-align: right;"&gt;
+      &lt;th&gt;&lt;/th&gt;
+      &lt;th&gt;date&lt;/th&gt;
+      &lt;th&gt;time&lt;/th&gt;
+      &lt;th&gt;datetime&lt;/th&gt;
+      &lt;th&gt;country&lt;/th&gt;
+      &lt;th&gt;event&lt;/th&gt;
+      &lt;th&gt;freq&lt;/th&gt;
+      &lt;th&gt;prelim&lt;/th&gt;
+      &lt;th&gt;period&lt;/th&gt;
+      &lt;th&gt;previous&lt;/th&gt;
+      &lt;th&gt;forecast&lt;/th&gt;
+      &lt;th&gt;actual&lt;/th&gt;
+      &lt;th&gt;link&lt;/th&gt;
+      &lt;th&gt;name&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;th&gt;118&lt;/th&gt;
+      &lt;td&gt;2020-07-09&lt;/td&gt;
+      &lt;td&gt;07:00&lt;/td&gt;
+      &lt;td&gt;2020-07-09 07:00:00&lt;/td&gt;
+      &lt;td&gt;Germany&lt;/td&gt;
+      &lt;td&gt;Exports&lt;/td&gt;
+      &lt;td&gt;(MoM)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;(May)&lt;/td&gt;
+      &lt;td&gt;-24.0%&lt;/td&gt;
+      &lt;td&gt;13.8%&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=aussenhandel&lt;/td&gt;
+      &lt;td&gt;Germany Trade Data&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;119&lt;/th&gt;
+      &lt;td&gt;2020-07-09&lt;/td&gt;
+      &lt;td&gt;07:00&lt;/td&gt;
+      &lt;td&gt;2020-07-09 07:00:00&lt;/td&gt;
+      &lt;td&gt;Germany&lt;/td&gt;
+      &lt;td&gt;Imports&lt;/td&gt;
+      &lt;td&gt;(MoM)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;(May)&lt;/td&gt;
+      &lt;td&gt;-16.5%&lt;/td&gt;
+      &lt;td&gt;12.0%&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=aussenhandel&lt;/td&gt;
+      &lt;td&gt;Germany Trade Data&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;]]&gt;</content>
+    <link href="https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=aussenhandel" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Italy Retail Sales - 2020-07-08</id>
+    <title>Italy Retail Sales</title>
+    <updated>2020-07-08T17:54:50.235730+00:00</updated>
+    <content>&lt;![CDATA[&lt;table border="1" class="dataframe"&gt;
+  &lt;thead&gt;
+    &lt;tr style="text-align: right;"&gt;
+      &lt;th&gt;&lt;/th&gt;
+      &lt;th&gt;date&lt;/th&gt;
+      &lt;th&gt;time&lt;/th&gt;
+      &lt;th&gt;datetime&lt;/th&gt;
+      &lt;th&gt;country&lt;/th&gt;
+      &lt;th&gt;event&lt;/th&gt;
+      &lt;th&gt;freq&lt;/th&gt;
+      &lt;th&gt;prelim&lt;/th&gt;
+      &lt;th&gt;period&lt;/th&gt;
+      &lt;th&gt;previous&lt;/th&gt;
+      &lt;th&gt;forecast&lt;/th&gt;
+      &lt;th&gt;actual&lt;/th&gt;
+      &lt;th&gt;link&lt;/th&gt;
+      &lt;th&gt;name&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;th&gt;38&lt;/th&gt;
+      &lt;td&gt;2020-07-07&lt;/td&gt;
+      &lt;td&gt;09:00&lt;/td&gt;
+      &lt;td&gt;2020-07-07 09:00:00&lt;/td&gt;
+      &lt;td&gt;Italy&lt;/td&gt;
+      &lt;td&gt;Retail Sales&lt;/td&gt;
+      &lt;td&gt;(MoM)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;(May)&lt;/td&gt;
+      &lt;td&gt;-10.7%&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;24.3%&lt;/td&gt;
+      &lt;td&gt;https://www.istat.it/en/archive/retail+trade&lt;/td&gt;
+      &lt;td&gt;Italy Retail Sales&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;37&lt;/th&gt;
+      &lt;td&gt;2020-07-07&lt;/td&gt;
+      &lt;td&gt;09:00&lt;/td&gt;
+      &lt;td&gt;2020-07-07 09:00:00&lt;/td&gt;
+      &lt;td&gt;Italy&lt;/td&gt;
+      &lt;td&gt;Retail Sales&lt;/td&gt;
+      &lt;td&gt;(YoY)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;(May)&lt;/td&gt;
+      &lt;td&gt;-26.7%&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;-10.5%&lt;/td&gt;
+      &lt;td&gt;https://www.istat.it/en/archive/retail+trade&lt;/td&gt;
+      &lt;td&gt;Italy Retail Sales&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;]]&gt;</content>
+    <link href="https://www.istat.it/en/archive/retail+trade" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Sweden Industrial Production - 2020-07-08</id>
+    <title>Sweden Industrial Production</title>
+    <updated>2020-07-08T17:54:50.219726+00:00</updated>
+    <content>&lt;![CDATA[&lt;table border="1" class="dataframe"&gt;
+  &lt;thead&gt;
+    &lt;tr style="text-align: right;"&gt;
+      &lt;th&gt;&lt;/th&gt;
+      &lt;th&gt;date&lt;/th&gt;
+      &lt;th&gt;time&lt;/th&gt;
+      &lt;th&gt;datetime&lt;/th&gt;
+      &lt;th&gt;country&lt;/th&gt;
+      &lt;th&gt;event&lt;/th&gt;
+      &lt;th&gt;freq&lt;/th&gt;
+      &lt;th&gt;prelim&lt;/th&gt;
+      &lt;th&gt;period&lt;/th&gt;
+      &lt;th&gt;previous&lt;/th&gt;
+      &lt;th&gt;forecast&lt;/th&gt;
+      &lt;th&gt;actual&lt;/th&gt;
+      &lt;th&gt;link&lt;/th&gt;
+      &lt;th&gt;name&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;th&gt;35&lt;/th&gt;
+      &lt;td&gt;2020-07-07&lt;/td&gt;
+      &lt;td&gt;08:30&lt;/td&gt;
+      &lt;td&gt;2020-07-07 08:30:00&lt;/td&gt;
+      &lt;td&gt;Sweden&lt;/td&gt;
+      &lt;td&gt;Industrial Production&lt;/td&gt;
+      &lt;td&gt;(MoM)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;-16.4%&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;-0.1%&lt;/td&gt;
+      &lt;td&gt;https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/&lt;/td&gt;
+      &lt;td&gt;Sweden Industrial Production&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;34&lt;/th&gt;
+      &lt;td&gt;2020-07-07&lt;/td&gt;
+      &lt;td&gt;08:30&lt;/td&gt;
+      &lt;td&gt;2020-07-07 08:30:00&lt;/td&gt;
+      &lt;td&gt;Sweden&lt;/td&gt;
+      &lt;td&gt;Industrial Production&lt;/td&gt;
+      &lt;td&gt;(YoY)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;-16.6%&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;-16.5%&lt;/td&gt;
+      &lt;td&gt;https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/&lt;/td&gt;
+      &lt;td&gt;Sweden Industrial Production&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;]]&gt;</content>
+    <link href="https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Sweden Industrial Orders - 2020-07-08</id>
+    <title>Sweden Industrial Orders</title>
+    <updated>2020-07-08T17:54:50.209973+00:00</updated>
+    <content>&lt;![CDATA[&lt;table border="1" class="dataframe"&gt;
+  &lt;thead&gt;
+    &lt;tr style="text-align: right;"&gt;
+      &lt;th&gt;&lt;/th&gt;
+      &lt;th&gt;date&lt;/th&gt;
+      &lt;th&gt;time&lt;/th&gt;
+      &lt;th&gt;datetime&lt;/th&gt;
+      &lt;th&gt;country&lt;/th&gt;
+      &lt;th&gt;event&lt;/th&gt;
+      &lt;th&gt;freq&lt;/th&gt;
+      &lt;th&gt;prelim&lt;/th&gt;
+      &lt;th&gt;period&lt;/th&gt;
+      &lt;th&gt;previous&lt;/th&gt;
+      &lt;th&gt;forecast&lt;/th&gt;
+      &lt;th&gt;actual&lt;/th&gt;
+      &lt;th&gt;link&lt;/th&gt;
+      &lt;th&gt;name&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;th&gt;36&lt;/th&gt;
+      &lt;td&gt;2020-07-07&lt;/td&gt;
+      &lt;td&gt;08:30&lt;/td&gt;
+      &lt;td&gt;2020-07-07 08:30:00&lt;/td&gt;
+      &lt;td&gt;Sweden&lt;/td&gt;
+      &lt;td&gt;Industrial New Orders&lt;/td&gt;
+      &lt;td&gt;(YoY)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;(May)&lt;/td&gt;
+      &lt;td&gt;-20.6%&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;-18.4%&lt;/td&gt;
+      &lt;td&gt;https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/industrial-deliveries-and-orders/orders-and-turnover-in-industry/&lt;/td&gt;
+      &lt;td&gt;Sweden Industrial Orders&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;]]&gt;</content>
+    <link href="https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/industrial-deliveries-and-orders/orders-and-turnover-in-industry/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Germany Industrial Production - 2020-07-08</id>
+    <title>Germany Industrial Production</title>
+    <updated>2020-07-08T17:54:50.198083+00:00</updated>
+    <content>&lt;![CDATA[&lt;table border="1" class="dataframe"&gt;
+  &lt;thead&gt;
+    &lt;tr style="text-align: right;"&gt;
+      &lt;th&gt;&lt;/th&gt;
+      &lt;th&gt;date&lt;/th&gt;
+      &lt;th&gt;time&lt;/th&gt;
+      &lt;th&gt;datetime&lt;/th&gt;
+      &lt;th&gt;country&lt;/th&gt;
+      &lt;th&gt;event&lt;/th&gt;
+      &lt;th&gt;freq&lt;/th&gt;
+      &lt;th&gt;prelim&lt;/th&gt;
+      &lt;th&gt;period&lt;/th&gt;
+      &lt;th&gt;previous&lt;/th&gt;
+      &lt;th&gt;forecast&lt;/th&gt;
+      &lt;th&gt;actual&lt;/th&gt;
+      &lt;th&gt;link&lt;/th&gt;
+      &lt;th&gt;name&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;th&gt;22&lt;/th&gt;
+      &lt;td&gt;2020-07-07&lt;/td&gt;
+      &lt;td&gt;07:00&lt;/td&gt;
+      &lt;td&gt;2020-07-07 07:00:00&lt;/td&gt;
+      &lt;td&gt;Germany&lt;/td&gt;
+      &lt;td&gt;Industrial Production&lt;/td&gt;
+      &lt;td&gt;(MoM)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;(May)&lt;/td&gt;
+      &lt;td&gt;-17.5%&lt;/td&gt;
+      &lt;td&gt;10.0%&lt;/td&gt;
+      &lt;td&gt;7.8%&lt;/td&gt;
+      &lt;td&gt;https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=industrie_verarbeitendes_gewerbe&lt;/td&gt;
+      &lt;td&gt;Germany Industrial Production&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;]]&gt;</content>
+    <link href="https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=industrie_verarbeitendes_gewerbe" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Germany Trade Data - 2020-07-08</id>
+    <title>Germany Trade Data</title>
+    <updated>2020-07-08T17:51:38.592718+00:00</updated>
+    <content>&lt;![CDATA[&lt;table border="1" class="dataframe"&gt;
+  &lt;thead&gt;
+    &lt;tr style="text-align: right;"&gt;
+      &lt;th&gt;&lt;/th&gt;
+      &lt;th&gt;date&lt;/th&gt;
+      &lt;th&gt;time&lt;/th&gt;
+      &lt;th&gt;datetime&lt;/th&gt;
+      &lt;th&gt;country&lt;/th&gt;
+      &lt;th&gt;event&lt;/th&gt;
+      &lt;th&gt;freq&lt;/th&gt;
+      &lt;th&gt;prelim&lt;/th&gt;
+      &lt;th&gt;period&lt;/th&gt;
+      &lt;th&gt;previous&lt;/th&gt;
+      &lt;th&gt;forecast&lt;/th&gt;
+      &lt;th&gt;actual&lt;/th&gt;
+      &lt;th&gt;link&lt;/th&gt;
+      &lt;th&gt;name&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;th&gt;118&lt;/th&gt;
+      &lt;td&gt;2020-07-09&lt;/td&gt;
+      &lt;td&gt;07:00&lt;/td&gt;
+      &lt;td&gt;2020-07-09 07:00:00&lt;/td&gt;
+      &lt;td&gt;Germany&lt;/td&gt;
+      &lt;td&gt;Exports&lt;/td&gt;
+      &lt;td&gt;(MoM)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;(May)&lt;/td&gt;
+      &lt;td&gt;-24.0%&lt;/td&gt;
+      &lt;td&gt;13.8%&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=aussenhandel&lt;/td&gt;
+      &lt;td&gt;Germany Trade Data&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;119&lt;/th&gt;
+      &lt;td&gt;2020-07-09&lt;/td&gt;
+      &lt;td&gt;07:00&lt;/td&gt;
+      &lt;td&gt;2020-07-09 07:00:00&lt;/td&gt;
+      &lt;td&gt;Germany&lt;/td&gt;
+      &lt;td&gt;Imports&lt;/td&gt;
+      &lt;td&gt;(MoM)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;(May)&lt;/td&gt;
+      &lt;td&gt;-16.5%&lt;/td&gt;
+      &lt;td&gt;12.0%&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=aussenhandel&lt;/td&gt;
+      &lt;td&gt;Germany Trade Data&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;]]&gt;</content>
+    <link href="https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=aussenhandel" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Italy Retail Sales - 2020-07-08</id>
+    <title>Italy Retail Sales</title>
+    <updated>2020-07-08T17:51:38.576464+00:00</updated>
+    <content>&lt;![CDATA[&lt;table border="1" class="dataframe"&gt;
+  &lt;thead&gt;
+    &lt;tr style="text-align: right;"&gt;
+      &lt;th&gt;&lt;/th&gt;
+      &lt;th&gt;date&lt;/th&gt;
+      &lt;th&gt;time&lt;/th&gt;
+      &lt;th&gt;datetime&lt;/th&gt;
+      &lt;th&gt;country&lt;/th&gt;
+      &lt;th&gt;event&lt;/th&gt;
+      &lt;th&gt;freq&lt;/th&gt;
+      &lt;th&gt;prelim&lt;/th&gt;
+      &lt;th&gt;period&lt;/th&gt;
+      &lt;th&gt;previous&lt;/th&gt;
+      &lt;th&gt;forecast&lt;/th&gt;
+      &lt;th&gt;actual&lt;/th&gt;
+      &lt;th&gt;link&lt;/th&gt;
+      &lt;th&gt;name&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;th&gt;38&lt;/th&gt;
+      &lt;td&gt;2020-07-07&lt;/td&gt;
+      &lt;td&gt;09:00&lt;/td&gt;
+      &lt;td&gt;2020-07-07 09:00:00&lt;/td&gt;
+      &lt;td&gt;Italy&lt;/td&gt;
+      &lt;td&gt;Retail Sales&lt;/td&gt;
+      &lt;td&gt;(MoM)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;(May)&lt;/td&gt;
+      &lt;td&gt;-10.7%&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;24.3%&lt;/td&gt;
+      &lt;td&gt;https://www.istat.it/en/archive/retail+trade&lt;/td&gt;
+      &lt;td&gt;Italy Retail Sales&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;37&lt;/th&gt;
+      &lt;td&gt;2020-07-07&lt;/td&gt;
+      &lt;td&gt;09:00&lt;/td&gt;
+      &lt;td&gt;2020-07-07 09:00:00&lt;/td&gt;
+      &lt;td&gt;Italy&lt;/td&gt;
+      &lt;td&gt;Retail Sales&lt;/td&gt;
+      &lt;td&gt;(YoY)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;(May)&lt;/td&gt;
+      &lt;td&gt;-26.7%&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;-10.5%&lt;/td&gt;
+      &lt;td&gt;https://www.istat.it/en/archive/retail+trade&lt;/td&gt;
+      &lt;td&gt;Italy Retail Sales&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;]]&gt;</content>
+    <link href="https://www.istat.it/en/archive/retail+trade" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Sweden Industrial Production - 2020-07-08</id>
+    <title>Sweden Industrial Production</title>
+    <updated>2020-07-08T17:51:38.567601+00:00</updated>
+    <content>&lt;![CDATA[&lt;table border="1" class="dataframe"&gt;
+  &lt;thead&gt;
+    &lt;tr style="text-align: right;"&gt;
+      &lt;th&gt;&lt;/th&gt;
+      &lt;th&gt;date&lt;/th&gt;
+      &lt;th&gt;time&lt;/th&gt;
+      &lt;th&gt;datetime&lt;/th&gt;
+      &lt;th&gt;country&lt;/th&gt;
+      &lt;th&gt;event&lt;/th&gt;
+      &lt;th&gt;freq&lt;/th&gt;
+      &lt;th&gt;prelim&lt;/th&gt;
+      &lt;th&gt;period&lt;/th&gt;
+      &lt;th&gt;previous&lt;/th&gt;
+      &lt;th&gt;forecast&lt;/th&gt;
+      &lt;th&gt;actual&lt;/th&gt;
+      &lt;th&gt;link&lt;/th&gt;
+      &lt;th&gt;name&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;th&gt;35&lt;/th&gt;
+      &lt;td&gt;2020-07-07&lt;/td&gt;
+      &lt;td&gt;08:30&lt;/td&gt;
+      &lt;td&gt;2020-07-07 08:30:00&lt;/td&gt;
+      &lt;td&gt;Sweden&lt;/td&gt;
+      &lt;td&gt;Industrial Production&lt;/td&gt;
+      &lt;td&gt;(MoM)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;-16.4%&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;-0.1%&lt;/td&gt;
+      &lt;td&gt;https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/&lt;/td&gt;
+      &lt;td&gt;Sweden Industrial Production&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;34&lt;/th&gt;
+      &lt;td&gt;2020-07-07&lt;/td&gt;
+      &lt;td&gt;08:30&lt;/td&gt;
+      &lt;td&gt;2020-07-07 08:30:00&lt;/td&gt;
+      &lt;td&gt;Sweden&lt;/td&gt;
+      &lt;td&gt;Industrial Production&lt;/td&gt;
+      &lt;td&gt;(YoY)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;-16.6%&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;-16.5%&lt;/td&gt;
+      &lt;td&gt;https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/&lt;/td&gt;
+      &lt;td&gt;Sweden Industrial Production&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;]]&gt;</content>
+    <link href="https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Sweden Industrial Orders - 2020-07-08</id>
+    <title>Sweden Industrial Orders</title>
+    <updated>2020-07-08T17:51:38.549602+00:00</updated>
+    <content>&lt;![CDATA[&lt;table border="1" class="dataframe"&gt;
+  &lt;thead&gt;
+    &lt;tr style="text-align: right;"&gt;
+      &lt;th&gt;&lt;/th&gt;
+      &lt;th&gt;date&lt;/th&gt;
+      &lt;th&gt;time&lt;/th&gt;
+      &lt;th&gt;datetime&lt;/th&gt;
+      &lt;th&gt;country&lt;/th&gt;
+      &lt;th&gt;event&lt;/th&gt;
+      &lt;th&gt;freq&lt;/th&gt;
+      &lt;th&gt;prelim&lt;/th&gt;
+      &lt;th&gt;period&lt;/th&gt;
+      &lt;th&gt;previous&lt;/th&gt;
+      &lt;th&gt;forecast&lt;/th&gt;
+      &lt;th&gt;actual&lt;/th&gt;
+      &lt;th&gt;link&lt;/th&gt;
+      &lt;th&gt;name&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;th&gt;36&lt;/th&gt;
+      &lt;td&gt;2020-07-07&lt;/td&gt;
+      &lt;td&gt;08:30&lt;/td&gt;
+      &lt;td&gt;2020-07-07 08:30:00&lt;/td&gt;
+      &lt;td&gt;Sweden&lt;/td&gt;
+      &lt;td&gt;Industrial New Orders&lt;/td&gt;
+      &lt;td&gt;(YoY)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;(May)&lt;/td&gt;
+      &lt;td&gt;-20.6%&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;-18.4%&lt;/td&gt;
+      &lt;td&gt;https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/industrial-deliveries-and-orders/orders-and-turnover-in-industry/&lt;/td&gt;
+      &lt;td&gt;Sweden Industrial Orders&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;]]&gt;</content>
+    <link href="https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/industrial-deliveries-and-orders/orders-and-turnover-in-industry/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Germany Industrial Production - 2020-07-08</id>
+    <title>Germany Industrial Production</title>
+    <updated>2020-07-08T17:51:38.541591+00:00</updated>
+    <content>&lt;![CDATA[&lt;table border="1" class="dataframe"&gt;
+  &lt;thead&gt;
+    &lt;tr style="text-align: right;"&gt;
+      &lt;th&gt;&lt;/th&gt;
+      &lt;th&gt;date&lt;/th&gt;
+      &lt;th&gt;time&lt;/th&gt;
+      &lt;th&gt;datetime&lt;/th&gt;
+      &lt;th&gt;country&lt;/th&gt;
+      &lt;th&gt;event&lt;/th&gt;
+      &lt;th&gt;freq&lt;/th&gt;
+      &lt;th&gt;prelim&lt;/th&gt;
+      &lt;th&gt;period&lt;/th&gt;
+      &lt;th&gt;previous&lt;/th&gt;
+      &lt;th&gt;forecast&lt;/th&gt;
+      &lt;th&gt;actual&lt;/th&gt;
+      &lt;th&gt;link&lt;/th&gt;
+      &lt;th&gt;name&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;th&gt;22&lt;/th&gt;
+      &lt;td&gt;2020-07-07&lt;/td&gt;
+      &lt;td&gt;07:00&lt;/td&gt;
+      &lt;td&gt;2020-07-07 07:00:00&lt;/td&gt;
+      &lt;td&gt;Germany&lt;/td&gt;
+      &lt;td&gt;Industrial Production&lt;/td&gt;
+      &lt;td&gt;(MoM)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;(May)&lt;/td&gt;
+      &lt;td&gt;-17.5%&lt;/td&gt;
+      &lt;td&gt;10.0%&lt;/td&gt;
+      &lt;td&gt;7.8%&lt;/td&gt;
+      &lt;td&gt;https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=industrie_verarbeitendes_gewerbe&lt;/td&gt;
+      &lt;td&gt;Germany Industrial Production&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;]]&gt;</content>
+    <link href="https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=industrie_verarbeitendes_gewerbe" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Germany Trade Data - 2020-07-08</id>
+    <title>Germany Trade Data</title>
+    <updated>2020-07-08T17:48:59.423959+00:00</updated>
+    <content>&lt;![CDATA[&lt;table border="1" class="dataframe"&gt;
+  &lt;thead&gt;
+    &lt;tr style="text-align: right;"&gt;
+      &lt;th&gt;&lt;/th&gt;
+      &lt;th&gt;date&lt;/th&gt;
+      &lt;th&gt;time&lt;/th&gt;
+      &lt;th&gt;datetime&lt;/th&gt;
+      &lt;th&gt;country&lt;/th&gt;
+      &lt;th&gt;event&lt;/th&gt;
+      &lt;th&gt;freq&lt;/th&gt;
+      &lt;th&gt;prelim&lt;/th&gt;
+      &lt;th&gt;period&lt;/th&gt;
+      &lt;th&gt;previous&lt;/th&gt;
+      &lt;th&gt;forecast&lt;/th&gt;
+      &lt;th&gt;actual&lt;/th&gt;
+      &lt;th&gt;link&lt;/th&gt;
+      &lt;th&gt;name&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;th&gt;118&lt;/th&gt;
+      &lt;td&gt;2020-07-09&lt;/td&gt;
+      &lt;td&gt;07:00&lt;/td&gt;
+      &lt;td&gt;2020-07-09 07:00:00&lt;/td&gt;
+      &lt;td&gt;Germany&lt;/td&gt;
+      &lt;td&gt;Exports&lt;/td&gt;
+      &lt;td&gt;(MoM)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;(May)&lt;/td&gt;
+      &lt;td&gt;-24.0%&lt;/td&gt;
+      &lt;td&gt;13.8%&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=aussenhandel&lt;/td&gt;
+      &lt;td&gt;Germany Trade Data&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;119&lt;/th&gt;
+      &lt;td&gt;2020-07-09&lt;/td&gt;
+      &lt;td&gt;07:00&lt;/td&gt;
+      &lt;td&gt;2020-07-09 07:00:00&lt;/td&gt;
+      &lt;td&gt;Germany&lt;/td&gt;
+      &lt;td&gt;Imports&lt;/td&gt;
+      &lt;td&gt;(MoM)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;(May)&lt;/td&gt;
+      &lt;td&gt;-16.5%&lt;/td&gt;
+      &lt;td&gt;12.0%&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=aussenhandel&lt;/td&gt;
+      &lt;td&gt;Germany Trade Data&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;]]&gt;</content>
+    <link href="https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=aussenhandel" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Italy Retail Sales - 2020-07-08</id>
+    <title>Italy Retail Sales</title>
+    <updated>2020-07-08T17:48:59.415444+00:00</updated>
+    <content>&lt;![CDATA[&lt;table border="1" class="dataframe"&gt;
+  &lt;thead&gt;
+    &lt;tr style="text-align: right;"&gt;
+      &lt;th&gt;&lt;/th&gt;
+      &lt;th&gt;date&lt;/th&gt;
+      &lt;th&gt;time&lt;/th&gt;
+      &lt;th&gt;datetime&lt;/th&gt;
+      &lt;th&gt;country&lt;/th&gt;
+      &lt;th&gt;event&lt;/th&gt;
+      &lt;th&gt;freq&lt;/th&gt;
+      &lt;th&gt;prelim&lt;/th&gt;
+      &lt;th&gt;period&lt;/th&gt;
+      &lt;th&gt;previous&lt;/th&gt;
+      &lt;th&gt;forecast&lt;/th&gt;
+      &lt;th&gt;actual&lt;/th&gt;
+      &lt;th&gt;link&lt;/th&gt;
+      &lt;th&gt;name&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;th&gt;38&lt;/th&gt;
+      &lt;td&gt;2020-07-07&lt;/td&gt;
+      &lt;td&gt;09:00&lt;/td&gt;
+      &lt;td&gt;2020-07-07 09:00:00&lt;/td&gt;
+      &lt;td&gt;Italy&lt;/td&gt;
+      &lt;td&gt;Retail Sales&lt;/td&gt;
+      &lt;td&gt;(MoM)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;(May)&lt;/td&gt;
+      &lt;td&gt;-10.7%&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;24.3%&lt;/td&gt;
+      &lt;td&gt;https://www.istat.it/en/archive/retail+trade&lt;/td&gt;
+      &lt;td&gt;Italy Retail Sales&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;37&lt;/th&gt;
+      &lt;td&gt;2020-07-07&lt;/td&gt;
+      &lt;td&gt;09:00&lt;/td&gt;
+      &lt;td&gt;2020-07-07 09:00:00&lt;/td&gt;
+      &lt;td&gt;Italy&lt;/td&gt;
+      &lt;td&gt;Retail Sales&lt;/td&gt;
+      &lt;td&gt;(YoY)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;(May)&lt;/td&gt;
+      &lt;td&gt;-26.7%&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;-10.5%&lt;/td&gt;
+      &lt;td&gt;https://www.istat.it/en/archive/retail+trade&lt;/td&gt;
+      &lt;td&gt;Italy Retail Sales&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;]]&gt;</content>
+    <link href="https://www.istat.it/en/archive/retail+trade" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Sweden Industrial Production - 2020-07-08</id>
+    <title>Sweden Industrial Production</title>
+    <updated>2020-07-08T17:48:59.406579+00:00</updated>
+    <content>&lt;![CDATA[&lt;table border="1" class="dataframe"&gt;
+  &lt;thead&gt;
+    &lt;tr style="text-align: right;"&gt;
+      &lt;th&gt;&lt;/th&gt;
+      &lt;th&gt;date&lt;/th&gt;
+      &lt;th&gt;time&lt;/th&gt;
+      &lt;th&gt;datetime&lt;/th&gt;
+      &lt;th&gt;country&lt;/th&gt;
+      &lt;th&gt;event&lt;/th&gt;
+      &lt;th&gt;freq&lt;/th&gt;
+      &lt;th&gt;prelim&lt;/th&gt;
+      &lt;th&gt;period&lt;/th&gt;
+      &lt;th&gt;previous&lt;/th&gt;
+      &lt;th&gt;forecast&lt;/th&gt;
+      &lt;th&gt;actual&lt;/th&gt;
+      &lt;th&gt;link&lt;/th&gt;
+      &lt;th&gt;name&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;th&gt;35&lt;/th&gt;
+      &lt;td&gt;2020-07-07&lt;/td&gt;
+      &lt;td&gt;08:30&lt;/td&gt;
+      &lt;td&gt;2020-07-07 08:30:00&lt;/td&gt;
+      &lt;td&gt;Sweden&lt;/td&gt;
+      &lt;td&gt;Industrial Production&lt;/td&gt;
+      &lt;td&gt;(MoM)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;-16.4%&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;-0.1%&lt;/td&gt;
+      &lt;td&gt;https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/&lt;/td&gt;
+      &lt;td&gt;Sweden Industrial Production&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;34&lt;/th&gt;
+      &lt;td&gt;2020-07-07&lt;/td&gt;
+      &lt;td&gt;08:30&lt;/td&gt;
+      &lt;td&gt;2020-07-07 08:30:00&lt;/td&gt;
+      &lt;td&gt;Sweden&lt;/td&gt;
+      &lt;td&gt;Industrial Production&lt;/td&gt;
+      &lt;td&gt;(YoY)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;-16.6%&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;-16.5%&lt;/td&gt;
+      &lt;td&gt;https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/&lt;/td&gt;
+      &lt;td&gt;Sweden Industrial Production&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;]]&gt;</content>
+    <link href="https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Sweden Industrial Orders - 2020-07-08</id>
+    <title>Sweden Industrial Orders</title>
+    <updated>2020-07-08T17:48:59.392250+00:00</updated>
+    <content>&lt;![CDATA[&lt;table border="1" class="dataframe"&gt;
+  &lt;thead&gt;
+    &lt;tr style="text-align: right;"&gt;
+      &lt;th&gt;&lt;/th&gt;
+      &lt;th&gt;date&lt;/th&gt;
+      &lt;th&gt;time&lt;/th&gt;
+      &lt;th&gt;datetime&lt;/th&gt;
+      &lt;th&gt;country&lt;/th&gt;
+      &lt;th&gt;event&lt;/th&gt;
+      &lt;th&gt;freq&lt;/th&gt;
+      &lt;th&gt;prelim&lt;/th&gt;
+      &lt;th&gt;period&lt;/th&gt;
+      &lt;th&gt;previous&lt;/th&gt;
+      &lt;th&gt;forecast&lt;/th&gt;
+      &lt;th&gt;actual&lt;/th&gt;
+      &lt;th&gt;link&lt;/th&gt;
+      &lt;th&gt;name&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;th&gt;36&lt;/th&gt;
+      &lt;td&gt;2020-07-07&lt;/td&gt;
+      &lt;td&gt;08:30&lt;/td&gt;
+      &lt;td&gt;2020-07-07 08:30:00&lt;/td&gt;
+      &lt;td&gt;Sweden&lt;/td&gt;
+      &lt;td&gt;Industrial New Orders&lt;/td&gt;
+      &lt;td&gt;(YoY)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;(May)&lt;/td&gt;
+      &lt;td&gt;-20.6%&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;-18.4%&lt;/td&gt;
+      &lt;td&gt;https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/industrial-deliveries-and-orders/orders-and-turnover-in-industry/&lt;/td&gt;
+      &lt;td&gt;Sweden Industrial Orders&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;]]&gt;</content>
+    <link href="https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/industrial-deliveries-and-orders/orders-and-turnover-in-industry/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Germany Industrial Production - 2020-07-08</id>
+    <title>Germany Industrial Production</title>
+    <updated>2020-07-08T17:48:59.377517+00:00</updated>
+    <content>&lt;![CDATA[&lt;table border="1" class="dataframe"&gt;
+  &lt;thead&gt;
+    &lt;tr style="text-align: right;"&gt;
+      &lt;th&gt;&lt;/th&gt;
+      &lt;th&gt;date&lt;/th&gt;
+      &lt;th&gt;time&lt;/th&gt;
+      &lt;th&gt;datetime&lt;/th&gt;
+      &lt;th&gt;country&lt;/th&gt;
+      &lt;th&gt;event&lt;/th&gt;
+      &lt;th&gt;freq&lt;/th&gt;
+      &lt;th&gt;prelim&lt;/th&gt;
+      &lt;th&gt;period&lt;/th&gt;
+      &lt;th&gt;previous&lt;/th&gt;
+      &lt;th&gt;forecast&lt;/th&gt;
+      &lt;th&gt;actual&lt;/th&gt;
+      &lt;th&gt;link&lt;/th&gt;
+      &lt;th&gt;name&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;th&gt;22&lt;/th&gt;
+      &lt;td&gt;2020-07-07&lt;/td&gt;
+      &lt;td&gt;07:00&lt;/td&gt;
+      &lt;td&gt;2020-07-07 07:00:00&lt;/td&gt;
+      &lt;td&gt;Germany&lt;/td&gt;
+      &lt;td&gt;Industrial Production&lt;/td&gt;
+      &lt;td&gt;(MoM)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;(May)&lt;/td&gt;
+      &lt;td&gt;-17.5%&lt;/td&gt;
+      &lt;td&gt;10.0%&lt;/td&gt;
+      &lt;td&gt;7.8%&lt;/td&gt;
+      &lt;td&gt;https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=industrie_verarbeitendes_gewerbe&lt;/td&gt;
+      &lt;td&gt;Germany Industrial Production&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;]]&gt;</content>
+    <link href="https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=industrie_verarbeitendes_gewerbe" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Germany Trade Data - 2020-07-08</id>
+    <title>Germany Trade Data</title>
+    <updated>2020-07-08T17:48:50.739019+00:00</updated>
+    <content>&lt;![CDATA[&lt;table border="1" class="dataframe"&gt;
+  &lt;thead&gt;
+    &lt;tr style="text-align: right;"&gt;
+      &lt;th&gt;&lt;/th&gt;
+      &lt;th&gt;date&lt;/th&gt;
+      &lt;th&gt;time&lt;/th&gt;
+      &lt;th&gt;datetime&lt;/th&gt;
+      &lt;th&gt;country&lt;/th&gt;
+      &lt;th&gt;event&lt;/th&gt;
+      &lt;th&gt;freq&lt;/th&gt;
+      &lt;th&gt;prelim&lt;/th&gt;
+      &lt;th&gt;period&lt;/th&gt;
+      &lt;th&gt;previous&lt;/th&gt;
+      &lt;th&gt;forecast&lt;/th&gt;
+      &lt;th&gt;actual&lt;/th&gt;
+      &lt;th&gt;link&lt;/th&gt;
+      &lt;th&gt;name&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;th&gt;118&lt;/th&gt;
+      &lt;td&gt;2020-07-09&lt;/td&gt;
+      &lt;td&gt;07:00&lt;/td&gt;
+      &lt;td&gt;2020-07-09 07:00:00&lt;/td&gt;
+      &lt;td&gt;Germany&lt;/td&gt;
+      &lt;td&gt;Exports&lt;/td&gt;
+      &lt;td&gt;(MoM)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;(May)&lt;/td&gt;
+      &lt;td&gt;-24.0%&lt;/td&gt;
+      &lt;td&gt;13.8%&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=aussenhandel&lt;/td&gt;
+      &lt;td&gt;Germany Trade Data&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;119&lt;/th&gt;
+      &lt;td&gt;2020-07-09&lt;/td&gt;
+      &lt;td&gt;07:00&lt;/td&gt;
+      &lt;td&gt;2020-07-09 07:00:00&lt;/td&gt;
+      &lt;td&gt;Germany&lt;/td&gt;
+      &lt;td&gt;Imports&lt;/td&gt;
+      &lt;td&gt;(MoM)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;(May)&lt;/td&gt;
+      &lt;td&gt;-16.5%&lt;/td&gt;
+      &lt;td&gt;12.0%&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=aussenhandel&lt;/td&gt;
+      &lt;td&gt;Germany Trade Data&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;]]&gt;</content>
+    <link href="https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=aussenhandel" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Italy Retail Sales - 2020-07-08</id>
+    <title>Italy Retail Sales</title>
+    <updated>2020-07-08T17:48:50.726881+00:00</updated>
+    <content>&lt;![CDATA[&lt;table border="1" class="dataframe"&gt;
+  &lt;thead&gt;
+    &lt;tr style="text-align: right;"&gt;
+      &lt;th&gt;&lt;/th&gt;
+      &lt;th&gt;date&lt;/th&gt;
+      &lt;th&gt;time&lt;/th&gt;
+      &lt;th&gt;datetime&lt;/th&gt;
+      &lt;th&gt;country&lt;/th&gt;
+      &lt;th&gt;event&lt;/th&gt;
+      &lt;th&gt;freq&lt;/th&gt;
+      &lt;th&gt;prelim&lt;/th&gt;
+      &lt;th&gt;period&lt;/th&gt;
+      &lt;th&gt;previous&lt;/th&gt;
+      &lt;th&gt;forecast&lt;/th&gt;
+      &lt;th&gt;actual&lt;/th&gt;
+      &lt;th&gt;link&lt;/th&gt;
+      &lt;th&gt;name&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;th&gt;38&lt;/th&gt;
+      &lt;td&gt;2020-07-07&lt;/td&gt;
+      &lt;td&gt;09:00&lt;/td&gt;
+      &lt;td&gt;2020-07-07 09:00:00&lt;/td&gt;
+      &lt;td&gt;Italy&lt;/td&gt;
+      &lt;td&gt;Retail Sales&lt;/td&gt;
+      &lt;td&gt;(MoM)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;(May)&lt;/td&gt;
+      &lt;td&gt;-10.7%&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;24.3%&lt;/td&gt;
+      &lt;td&gt;https://www.istat.it/en/archive/retail+trade&lt;/td&gt;
+      &lt;td&gt;Italy Retail Sales&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;37&lt;/th&gt;
+      &lt;td&gt;2020-07-07&lt;/td&gt;
+      &lt;td&gt;09:00&lt;/td&gt;
+      &lt;td&gt;2020-07-07 09:00:00&lt;/td&gt;
+      &lt;td&gt;Italy&lt;/td&gt;
+      &lt;td&gt;Retail Sales&lt;/td&gt;
+      &lt;td&gt;(YoY)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;(May)&lt;/td&gt;
+      &lt;td&gt;-26.7%&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;-10.5%&lt;/td&gt;
+      &lt;td&gt;https://www.istat.it/en/archive/retail+trade&lt;/td&gt;
+      &lt;td&gt;Italy Retail Sales&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;]]&gt;</content>
+    <link href="https://www.istat.it/en/archive/retail+trade" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Sweden Industrial Production - 2020-07-08</id>
+    <title>Sweden Industrial Production</title>
+    <updated>2020-07-08T17:48:50.710803+00:00</updated>
+    <content>&lt;![CDATA[&lt;table border="1" class="dataframe"&gt;
+  &lt;thead&gt;
+    &lt;tr style="text-align: right;"&gt;
+      &lt;th&gt;&lt;/th&gt;
+      &lt;th&gt;date&lt;/th&gt;
+      &lt;th&gt;time&lt;/th&gt;
+      &lt;th&gt;datetime&lt;/th&gt;
+      &lt;th&gt;country&lt;/th&gt;
+      &lt;th&gt;event&lt;/th&gt;
+      &lt;th&gt;freq&lt;/th&gt;
+      &lt;th&gt;prelim&lt;/th&gt;
+      &lt;th&gt;period&lt;/th&gt;
+      &lt;th&gt;previous&lt;/th&gt;
+      &lt;th&gt;forecast&lt;/th&gt;
+      &lt;th&gt;actual&lt;/th&gt;
+      &lt;th&gt;link&lt;/th&gt;
+      &lt;th&gt;name&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;th&gt;35&lt;/th&gt;
+      &lt;td&gt;2020-07-07&lt;/td&gt;
+      &lt;td&gt;08:30&lt;/td&gt;
+      &lt;td&gt;2020-07-07 08:30:00&lt;/td&gt;
+      &lt;td&gt;Sweden&lt;/td&gt;
+      &lt;td&gt;Industrial Production&lt;/td&gt;
+      &lt;td&gt;(MoM)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;-16.4%&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;-0.1%&lt;/td&gt;
+      &lt;td&gt;https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/&lt;/td&gt;
+      &lt;td&gt;Sweden Industrial Production&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;34&lt;/th&gt;
+      &lt;td&gt;2020-07-07&lt;/td&gt;
+      &lt;td&gt;08:30&lt;/td&gt;
+      &lt;td&gt;2020-07-07 08:30:00&lt;/td&gt;
+      &lt;td&gt;Sweden&lt;/td&gt;
+      &lt;td&gt;Industrial Production&lt;/td&gt;
+      &lt;td&gt;(YoY)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;-16.6%&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;-16.5%&lt;/td&gt;
+      &lt;td&gt;https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/&lt;/td&gt;
+      &lt;td&gt;Sweden Industrial Production&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;]]&gt;</content>
+    <link href="https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Sweden Industrial Orders - 2020-07-08</id>
+    <title>Sweden Industrial Orders</title>
+    <updated>2020-07-08T17:48:50.696421+00:00</updated>
+    <content>&lt;![CDATA[&lt;table border="1" class="dataframe"&gt;
+  &lt;thead&gt;
+    &lt;tr style="text-align: right;"&gt;
+      &lt;th&gt;&lt;/th&gt;
+      &lt;th&gt;date&lt;/th&gt;
+      &lt;th&gt;time&lt;/th&gt;
+      &lt;th&gt;datetime&lt;/th&gt;
+      &lt;th&gt;country&lt;/th&gt;
+      &lt;th&gt;event&lt;/th&gt;
+      &lt;th&gt;freq&lt;/th&gt;
+      &lt;th&gt;prelim&lt;/th&gt;
+      &lt;th&gt;period&lt;/th&gt;
+      &lt;th&gt;previous&lt;/th&gt;
+      &lt;th&gt;forecast&lt;/th&gt;
+      &lt;th&gt;actual&lt;/th&gt;
+      &lt;th&gt;link&lt;/th&gt;
+      &lt;th&gt;name&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;th&gt;36&lt;/th&gt;
+      &lt;td&gt;2020-07-07&lt;/td&gt;
+      &lt;td&gt;08:30&lt;/td&gt;
+      &lt;td&gt;2020-07-07 08:30:00&lt;/td&gt;
+      &lt;td&gt;Sweden&lt;/td&gt;
+      &lt;td&gt;Industrial New Orders&lt;/td&gt;
+      &lt;td&gt;(YoY)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;(May)&lt;/td&gt;
+      &lt;td&gt;-20.6%&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;-18.4%&lt;/td&gt;
+      &lt;td&gt;https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/industrial-deliveries-and-orders/orders-and-turnover-in-industry/&lt;/td&gt;
+      &lt;td&gt;Sweden Industrial Orders&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;]]&gt;</content>
+    <link href="https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/industrial-deliveries-and-orders/orders-and-turnover-in-industry/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Germany Industrial Production - 2020-07-08</id>
+    <title>Germany Industrial Production</title>
+    <updated>2020-07-08T17:48:50.685841+00:00</updated>
+    <content>&lt;![CDATA[&lt;table border="1" class="dataframe"&gt;
+  &lt;thead&gt;
+    &lt;tr style="text-align: right;"&gt;
+      &lt;th&gt;&lt;/th&gt;
+      &lt;th&gt;date&lt;/th&gt;
+      &lt;th&gt;time&lt;/th&gt;
+      &lt;th&gt;datetime&lt;/th&gt;
+      &lt;th&gt;country&lt;/th&gt;
+      &lt;th&gt;event&lt;/th&gt;
+      &lt;th&gt;freq&lt;/th&gt;
+      &lt;th&gt;prelim&lt;/th&gt;
+      &lt;th&gt;period&lt;/th&gt;
+      &lt;th&gt;previous&lt;/th&gt;
+      &lt;th&gt;forecast&lt;/th&gt;
+      &lt;th&gt;actual&lt;/th&gt;
+      &lt;th&gt;link&lt;/th&gt;
+      &lt;th&gt;name&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;th&gt;22&lt;/th&gt;
+      &lt;td&gt;2020-07-07&lt;/td&gt;
+      &lt;td&gt;07:00&lt;/td&gt;
+      &lt;td&gt;2020-07-07 07:00:00&lt;/td&gt;
+      &lt;td&gt;Germany&lt;/td&gt;
+      &lt;td&gt;Industrial Production&lt;/td&gt;
+      &lt;td&gt;(MoM)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;(May)&lt;/td&gt;
+      &lt;td&gt;-17.5%&lt;/td&gt;
+      &lt;td&gt;10.0%&lt;/td&gt;
+      &lt;td&gt;7.8%&lt;/td&gt;
+      &lt;td&gt;https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=industrie_verarbeitendes_gewerbe&lt;/td&gt;
+      &lt;td&gt;Germany Industrial Production&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;]]&gt;</content>
+    <link href="https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=industrie_verarbeitendes_gewerbe" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Germany Trade Data - 2020-07-08</id>
+    <title>Germany Trade Data</title>
+    <updated>2020-07-08T17:46:14.571008+00:00</updated>
+    <link href="https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=aussenhandel" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Italy Retail Sales - 2020-07-08</id>
+    <title>Italy Retail Sales</title>
+    <updated>2020-07-08T17:46:14.554927+00:00</updated>
+    <link href="https://www.istat.it/en/archive/retail+trade" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Sweden Industrial Production - 2020-07-08</id>
+    <title>Sweden Industrial Production</title>
+    <updated>2020-07-08T17:46:14.540548+00:00</updated>
+    <link href="https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Sweden Industrial Orders - 2020-07-08</id>
+    <title>Sweden Industrial Orders</title>
+    <updated>2020-07-08T17:46:14.520827+00:00</updated>
+    <link href="https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/industrial-deliveries-and-orders/orders-and-turnover-in-industry/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Germany Industrial Production - 2020-07-08</id>
+    <title>Germany Industrial Production</title>
+    <updated>2020-07-08T17:46:14.507303+00:00</updated>
+    <link href="https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=industrie_verarbeitendes_gewerbe" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Germany Trade Data - 2020-07-08</id>
+    <title>Germany Trade Data</title>
+    <updated>2020-07-08T17:40:42.375190+00:00</updated>
+    <link href="https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=aussenhandel" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Italy Retail Sales - 2020-07-08</id>
+    <title>Italy Retail Sales</title>
+    <updated>2020-07-08T17:40:42.375190+00:00</updated>
+    <link href="https://www.istat.it/en/archive/retail+trade" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Sweden Industrial Production - 2020-07-08</id>
+    <title>Sweden Industrial Production</title>
+    <updated>2020-07-08T17:40:42.375190+00:00</updated>
+    <link href="https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Sweden Industrial Orders - 2020-07-08</id>
+    <title>Sweden Industrial Orders</title>
+    <updated>2020-07-08T17:40:42.375190+00:00</updated>
+    <link href="https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/industrial-deliveries-and-orders/orders-and-turnover-in-industry/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Germany Industrial Production - 2020-07-08</id>
+    <title>Germany Industrial Production</title>
+    <updated>2020-07-08T17:40:42.375190+00:00</updated>
+    <link href="https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=industrie_verarbeitendes_gewerbe" rel="alternate"/>
+  </entry>
+</feed>
