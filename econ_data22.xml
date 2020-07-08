@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>BB Data Alerts XXX</id>
+  <title>BB Data Alerts</title>
+  <updated>2020-07-08T19:17:49.381663+00:00</updated>
+  <link href="https://github.com/dkanhrabncelbu" rel="alternate"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>Germany Trade Data - 2020-07-08</id>
+    <title>Germany Trade Data</title>
+    <updated>2020-07-08T19:21:49.882437+00:00</updated>
+    <content>&lt;![CDATA[&lt;strong&gt;benb&lt;/strong&gt;]]&gt;</content>
+    <link href="https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=aussenhandel" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Italy Retail Sales - 2020-07-08</id>
+    <title>Italy Retail Sales</title>
+    <updated>2020-07-08T19:21:49.872002+00:00</updated>
+    <content>&lt;![CDATA[&lt;strong&gt;benb&lt;/strong&gt;]]&gt;</content>
+    <link href="https://www.istat.it/en/archive/retail+trade" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Sweden Industrial Production - 2020-07-08</id>
+    <title>Sweden Industrial Production</title>
+    <updated>2020-07-08T19:21:49.863995+00:00</updated>
+    <content>&lt;![CDATA[&lt;strong&gt;benb&lt;/strong&gt;]]&gt;</content>
+    <link href="https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Sweden Industrial Orders - 2020-07-08</id>
+    <title>Sweden Industrial Orders</title>
+    <updated>2020-07-08T19:21:49.852220+00:00</updated>
+    <content>&lt;![CDATA[&lt;strong&gt;benb&lt;/strong&gt;]]&gt;</content>
+    <link href="https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/industrial-deliveries-and-orders/orders-and-turnover-in-industry/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Germany Industrial Production - 2020-07-08</id>
+    <title>Germany Industrial Production</title>
+    <updated>2020-07-08T19:21:49.830609+00:00</updated>
+    <content>&lt;![CDATA[&lt;strong&gt;benb&lt;/strong&gt;]]&gt;</content>
+    <link href="https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=industrie_verarbeitendes_gewerbe" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Germany Trade Data - 2020-07-08</id>
+    <title>Germany Trade Data</title>
+    <updated>2020-07-08T19:18:22.597931+00:00</updated>
+    <content>&lt;![CDATA[&lt;strong&gt;benb&lt;/strong&gt;]]&gt;</content>
+    <link href="https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=aussenhandel" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Italy Retail Sales - 2020-07-08</id>
+    <title>Italy Retail Sales</title>
+    <updated>2020-07-08T19:18:22.581302+00:00</updated>
+    <content>&lt;![CDATA[&lt;strong&gt;benb&lt;/strong&gt;]]&gt;</content>
+    <link href="https://www.istat.it/en/archive/retail+trade" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Sweden Industrial Production - 2020-07-08</id>
+    <title>Sweden Industrial Production</title>
+    <updated>2020-07-08T19:18:22.562927+00:00</updated>
+    <content>&lt;![CDATA[&lt;strong&gt;benb&lt;/strong&gt;]]&gt;</content>
+    <link href="https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Sweden Industrial Orders - 2020-07-08</id>
+    <title>Sweden Industrial Orders</title>
+    <updated>2020-07-08T19:18:22.545167+00:00</updated>
+    <content>&lt;![CDATA[&lt;strong&gt;benb&lt;/strong&gt;]]&gt;</content>
+    <link href="https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/industrial-deliveries-and-orders/orders-and-turnover-in-industry/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Germany Industrial Production - 2020-07-08</id>
+    <title>Germany Industrial Production</title>
+    <updated>2020-07-08T19:18:22.537839+00:00</updated>
+    <content>&lt;![CDATA[&lt;strong&gt;benb&lt;/strong&gt;]]&gt;</content>
+    <link href="https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=industrie_verarbeitendes_gewerbe" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Germany Trade Data - 2020-07-08</id>
+    <title>Germany Trade Data</title>
+    <updated>2020-07-08T19:17:49.476644+00:00</updated>
+    <content>&lt;![CDATA[&lt;strong&gt;benb&lt;/strong&gt;]]&gt;</content>
+    <link href="https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=aussenhandel" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Italy Retail Sales - 2020-07-08</id>
+    <title>Italy Retail Sales</title>
+    <updated>2020-07-08T19:17:49.465856+00:00</updated>
+    <content>&lt;![CDATA[&lt;strong&gt;benb&lt;/strong&gt;]]&gt;</content>
+    <link href="https://www.istat.it/en/archive/retail+trade" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Sweden Industrial Production - 2020-07-08</id>
+    <title>Sweden Industrial Production</title>
+    <updated>2020-07-08T19:17:49.448131+00:00</updated>
+    <content>&lt;![CDATA[&lt;strong&gt;benb&lt;/strong&gt;]]&gt;</content>
+    <link href="https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Sweden Industrial Orders - 2020-07-08</id>
+    <title>Sweden Industrial Orders</title>
+    <updated>2020-07-08T19:17:49.441366+00:00</updated>
+    <content>&lt;![CDATA[&lt;strong&gt;benb&lt;/strong&gt;]]&gt;</content>
+    <link href="https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/industrial-deliveries-and-orders/orders-and-turnover-in-industry/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Germany Industrial Production - 2020-07-08</id>
+    <title>Germany Industrial Production</title>
+    <updated>2020-07-08T19:17:49.431079+00:00</updated>
+    <content>&lt;![CDATA[&lt;strong&gt;benb&lt;/strong&gt;]]&gt;</content>
+    <link href="https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=industrie_verarbeitendes_gewerbe" rel="alternate"/>
+  </entry>
+</feed>
