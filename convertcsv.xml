@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <date>2020-07-07</date>
+    <time>00:30</time>
+    <datetime>2020-07-07 00:30:00</datetime>
+    <country>Japan</country>
+    <event>Average Cash Earnings </event>
+    <freq>(YoY)</freq>
+    <prelim></prelim>
+    <period></period>
+    <previous>-0.7%</previous>
+    <forecast></forecast>
+    <actual>-2.1%</actual>
+    <link>https://www.jil.go.jp/english/estatis/eshuyo/e0301.html</link>
+  </row>
+  <row>
+    <date>2020-07-07</date>
+    <time>05:30</time>
+    <datetime>2020-07-07 05:30:00</datetime>
+    <country>Australia</country>
+    <event>RBA Interest Rate Decision  </event>
+    <freq></freq>
+    <prelim></prelim>
+    <period>(Jul)</period>
+    <previous>0.25%</previous>
+    <forecast>0.25%</forecast>
+    <actual>0.25%</actual>
+    <link>https://www.rba.gov.au/monetary-policy/int-rate-decisions/2020/</link>
+  </row>
+  <row>
+    <date>2020-07-07</date>
+    <time>07:00</time>
+    <datetime>2020-07-07 07:00:00</datetime>
+    <country>Germany</country>
+    <event>Industrial Production   </event>
+    <freq>(MoM)</freq>
+    <prelim></prelim>
+    <period>(May)</period>
+    <previous>-17.5%</previous>
+    <forecast>10.0%</forecast>
+    <actual>7.8%</actual>
+    <link>https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=industrie_verarbeitendes_gewerbe</link>
+  </row>
+  <row>
+    <date>2020-07-07</date>
+    <time>08:30</time>
+    <datetime>2020-07-07 08:30:00</datetime>
+    <country>Sweden</country>
+    <event>Industrial New Orders   </event>
+    <freq>(YoY)</freq>
+    <prelim></prelim>
+    <period>(May)</period>
+    <previous>-20.6%</previous>
+    <forecast></forecast>
+    <actual>-18.4%</actual>
+    <link>https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/industrial-deliveries-and-orders/orders-and-turnover-in-industry/</link>
+  </row>
+  <row>
+    <date>2020-07-07</date>
+    <time>08:30</time>
+    <datetime>2020-07-07 08:30:00</datetime>
+    <country>Sweden</country>
+    <event>Industrial Production </event>
+    <freq>(MoM)</freq>
+    <prelim></prelim>
+    <period></period>
+    <previous>-16.4%</previous>
+    <forecast></forecast>
+    <actual>-0.1%</actual>
+    <link>https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/</link>
+  </row>
+  <row>
+    <date>2020-07-07</date>
+    <time>08:30</time>
+    <datetime>2020-07-07 08:30:00</datetime>
+    <country>Sweden</country>
+    <event>Industrial Production </event>
+    <freq>(YoY)</freq>
+    <prelim></prelim>
+    <period></period>
+    <previous>-16.6%</previous>
+    <forecast></forecast>
+    <actual>-16.5%</actual>
+    <link>https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities/general-statistics/production-value-index/</link>
+  </row>
+  <row>
+    <date>2020-07-07</date>
+    <time>09:00</time>
+    <datetime>2020-07-07 09:00:00</datetime>
+    <country>Italy</country>
+    <event>Retail Sales   </event>
+    <freq>(MoM)</freq>
+    <prelim></prelim>
+    <period>(May)</period>
+    <previous>-10.7%</previous>
+    <forecast></forecast>
+    <actual>24.3%</actual>
+    <link>https://www.istat.it/en/archive/retail+trade</link>
+  </row>
+  <row>
+    <date>2020-07-07</date>
+    <time>09:00</time>
+    <datetime>2020-07-07 09:00:00</datetime>
+    <country>Italy</country>
+    <event>Retail Sales   </event>
+    <freq>(YoY)</freq>
+    <prelim></prelim>
+    <period>(May)</period>
+    <previous>-26.7%</previous>
+    <forecast></forecast>
+    <actual>-10.5%</actual>
+    <link>https://www.istat.it/en/archive/retail+trade</link>
+  </row>
+  <row>
+    <date>2020-07-07</date>
+    <time>15:00</time>
+    <datetime>2020-07-07 15:00:00</datetime>
+    <country>United States</country>
+    <event>JOLTs Job Openings  </event>
+    <freq></freq>
+    <prelim></prelim>
+    <period>(May)</period>
+    <previous>4.996M</previous>
+    <forecast>4.850M</forecast>
+    <actual>5.397M</actual>
+    <link>https://www.bls.gov/jlt/#news</link>
+  </row>
+  <row>
+    <date>2020-07-08</date>
+    <time>06:00</time>
+    <datetime>2020-07-08 06:00:00</datetime>
+    <country>Japan</country>
+    <event>Economy Watchers Current Index  </event>
+    <freq></freq>
+    <prelim></prelim>
+    <period>(Jun)</period>
+    <previous>15.5</previous>
+    <forecast></forecast>
+    <actual>38.8</actual>
+    <link>https://www5.cao.go.jp/keizai3/watcher-e/index-e.html</link>
+  </row>
+  <row>
+    <date>2020-07-09</date>
+    <time>00:50</time>
+    <datetime>2020-07-09 00:50:00</datetime>
+    <country>Japan</country>
+    <event>Core Machinery Orders   </event>
+    <freq>(MoM)</freq>
+    <prelim></prelim>
+    <period>(May)</period>
+    <previous>-12.0%</previous>
+    <forecast>-5.4%</forecast>
+    <actual></actual>
+    <link>https://www.esri.cao.go.jp/en/stat/juchu/juchu-e.html</link>
+  </row>
+  <row>
+    <date>2020-07-09</date>
+    <time>00:50</time>
+    <datetime>2020-07-09 00:50:00</datetime>
+    <country>Japan</country>
+    <event>Core Machinery Orders   </event>
+    <freq>(YoY)</freq>
+    <prelim></prelim>
+    <period>(May)</period>
+    <previous>-17.7%</previous>
+    <forecast>-17.1%</forecast>
+    <actual></actual>
+    <link>https://www.esri.cao.go.jp/en/stat/juchu/juchu-e.html</link>
+  </row>
+  <row>
+    <date>2020-07-09</date>
+    <time>02:30</time>
+    <datetime>2020-07-09 02:30:00</datetime>
+    <country>China</country>
+    <event>CPI   </event>
+    <freq>(MoM)</freq>
+    <prelim></prelim>
+    <period>(Jun)</period>
+    <previous>-0.8%</previous>
+    <forecast>-0.5%</forecast>
+    <actual></actual>
+    <link>http://www.stats.gov.cn/english/PressRelease/</link>
+  </row>
+  <row>
+    <date>2020-07-09</date>
+    <time>02:30</time>
+    <datetime>2020-07-09 02:30:00</datetime>
+    <country>China</country>
+    <event>CPI   </event>
+    <freq>(YoY)</freq>
+    <prelim></prelim>
+    <period>(Jun)</period>
+    <previous>2.4%</previous>
+    <forecast>2.5%</forecast>
+    <actual></actual>
+    <link>http://www.stats.gov.cn/english/PressRelease/</link>
+  </row>
+  <row>
+    <date>2020-07-09</date>
+    <time>02:30</time>
+    <datetime>2020-07-09 02:30:00</datetime>
+    <country>China</country>
+    <event>PPI   </event>
+    <freq>(YoY)</freq>
+    <prelim></prelim>
+    <period>(Jun)</period>
+    <previous>-3.7%</previous>
+    <forecast>-3.2%</forecast>
+    <actual></actual>
+    <link>http://www.stats.gov.cn/english/PressRelease/</link>
+  </row>
+  <row>
+    <date>2020-07-09</date>
+    <time>07:00</time>
+    <datetime>2020-07-09 07:00:00</datetime>
+    <country>Germany</country>
+    <event>Exports   </event>
+    <freq>(MoM)</freq>
+    <prelim></prelim>
+    <period>(May)</period>
+    <previous>-24.0%</previous>
+    <forecast>13.8%</forecast>
+    <actual></actual>
+    <link>https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=aussenhandel</link>
+  </row>
+  <row>
+    <date>2020-07-09</date>
+    <time>07:00</time>
+    <datetime>2020-07-09 07:00:00</datetime>
+    <country>Germany</country>
+    <event>Imports   </event>
+    <freq>(MoM)</freq>
+    <prelim></prelim>
+    <period>(May)</period>
+    <previous>-16.5%</previous>
+    <forecast>12.0%</forecast>
+    <actual></actual>
+    <link>https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=aussenhandel</link>
+  </row>
+  <row>
+    <date>2020-07-09</date>
+    <time>07:00</time>
+    <datetime>2020-07-09 07:00:00</datetime>
+    <country>Japan</country>
+    <event>Machine Tool Orders </event>
+    <freq>(YoY)</freq>
+    <prelim>(P)</prelim>
+    <period></period>
+    <previous>-52.8%</previous>
+    <forecast></forecast>
+    <actual></actual>
+    <link>https://www.jmtba.or.jp/english/category/machine-tool-orders/</link>
+  </row>
+  <row>
+    <date>2020-07-09</date>
+    <time>13:30</time>
+    <datetime>2020-07-09 13:30:00</datetime>
+    <country>United States</country>
+    <event>Initial Jobless Claims</event>
+    <freq></freq>
+    <prelim></prelim>
+    <period></period>
+    <previous>1,427K</previous>
+    <forecast>1,375K</forecast>
+    <actual></actual>
+    <link>https://www.dol.gov/ui/data.pdf</link>
+  </row>
+</root>
