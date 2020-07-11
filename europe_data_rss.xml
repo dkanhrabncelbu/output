@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>BB Europe Data Alerts</id>
   <title>BB Europe Data Alerts</title>
-  <updated>2020-07-11T10:20:19.914099+00:00</updated>
+  <updated>2020-07-11T11:21:31.942044+00:00</updated>
   <link href="https://github.com/dkanhrabncelbu" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <entry>
     <id>Italy Industrial Production (May)  - 2020-07-11</id>
     <title>Italy Industrial Production (May) </title>
-    <updated>2020-07-11T10:20:19.931801+00:00</updated>
+    <updated>2020-07-11T11:21:31.964282+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -41,7 +41,7 @@
   <entry>
     <id>France Industrial Production (May)  - 2020-07-11</id>
     <title>France Industrial Production (May) </title>
-    <updated>2020-07-11T10:20:19.928951+00:00</updated>
+    <updated>2020-07-11T11:21:31.960604+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -67,7 +67,7 @@
   <entry>
     <id>Netherlands Manufacturing Output (May)  - 2020-07-11</id>
     <title>Netherlands Manufacturing Output (May) </title>
-    <updated>2020-07-11T10:20:19.925972+00:00</updated>
+    <updated>2020-07-11T11:21:31.956736+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
