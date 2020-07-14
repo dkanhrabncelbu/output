@@ -1,0 +1,5 @@
+date,time,sport,home_team,away_team,kelly_bet_name,kelly_prob,kelly_prob_odds_implied,kelly_odds,multiple HK stake
+2020-07-14,17:00:00,soccer_efl_champ,Reading,Middlesbrough,Reading,0.3534,0.3225806451612903,3.1,0.022195305984984013
+2020-07-14,18:45:00,soccer_efl_champ,Luton Town,Queens Park Rangers,Queens Park Rangers,0.3654,0.3472222222222222,2.88,0.013463770771622226
+2020-07-14,18:45:00,soccer_efl_champ,Sheffield Wednesday,Huddersfield Town,Huddersfield Town,0.3599,0.3472222222222222,2.88,0.009350128757762054
+2020-07-14,16:00:00,soccer_efl_champ,West Bromwich Albion,Fulham,West Bromwich Albion,0.5008,0.5,2.0,0.0007634304689146346
