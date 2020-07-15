@@ -1,0 +1,8 @@
+date,time,sport,home_team,away_team,kelly_bet_name,kelly_prob,kelly_prob_odds_implied,kelly_odds,multiple HK stake
+2020-07-15,17:00:00,soccer_sweden_allsvenskan,Djurgardens IF,Falkenbergs FF,Djurgardens IF,0.7819,0.6944444444444444,1.44,0.11743344996536323
+2020-07-15,17:00:00,soccer_sweden_allsvenskan,AIK,IK Sirius,AIK,0.5660000000000001,0.45454545454545453,2.2,0.08001356691659021
+2020-07-15,17:00:00,soccer_efl_champ,Birmingham City,Charlton Athletic,Charlton Athletic,0.3645,0.3225806451612903,3.1,0.022450533800516762
+2020-07-15,13:00:00,soccer_russia_premier_league,Ural Sverdlovsk Oblast,Arsenal Tula,Arsenal Tula,0.39,0.36363636363636365,2.75,0.014873414297812484
+2020-07-15,18:30:00,soccer_norway_eliteserien,Odds BK,SK Brann,Odds BK,0.4365,0.4166666666666667,2.4,0.012160334901572084
+2020-07-15,16:00:00,soccer_efl_champ,Bristol City,Stoke City,Stoke City,0.4009,0.38167938931297707,2.62,0.011101372219438462
+2020-07-15,16:00:00,soccer_portugal_primeira_liga,Moreirense FC,Pacos de Ferreira,Moreirense FC,0.3905,0.3846153846153846,2.6,0.0033781041502875917
