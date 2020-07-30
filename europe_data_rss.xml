@@ -2,13 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>BB Europe Data Alerts</id>
   <title>BB Europe Data Alerts</title>
-  <updated>2020-07-30T08:30:49.485812+00:00</updated>
+  <updated>2020-07-30T09:04:01.942459+00:00</updated>
   <link href="https://github.com/dkanhrabncelbu" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <entry>
+    <id>Eurozone Employment Report (Jun)  - 2020-07-30</id>
+    <title>Eurozone Employment Report (Jun) </title>
+    <updated>2020-07-30T09:04:01.978209+00:00</updated>
+    <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
+  &lt;thead&gt;
+    &lt;tr style="text-align: right;"&gt;
+      &lt;th style='border: 0px solid #ddd;padding: 4px;padding-top: 4px;padding-bottom: 4px;background-color: #EEEEEE;color: #3A3A3A;text-align:left'&gt;Event&lt;/th&gt;
+      &lt;th style='border: 0px solid #ddd;padding: 4px;padding-top: 4px;padding-bottom: 4px;background-color: #EEEEEE;color: #3A3A3A;text-align:center'&gt;&lt;/th&gt;
+      &lt;th style='border: 0px solid #ddd;padding: 4px;padding-top: 4px;padding-bottom: 4px;background-color: #EEEEEE;color: #3A3A3A;text-align:center'&gt;P&lt;/th&gt;
+      &lt;th style='border: 0px solid #ddd;padding: 4px;padding-top: 4px;padding-bottom: 4px;background-color: #EEEEEE;color: #3A3A3A;text-align:center'&gt;F&lt;/th&gt;
+      &lt;th style='border: 0px solid #ddd;padding: 4px;padding-top: 4px;padding-bottom: 4px;background-color: #EEEEEE;color: #3A3A3A;text-align:center'&gt;A&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;'&gt;Unemployment Rate&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;7.7%&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;7.7%&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;7.8%&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;&lt;/body&gt;</content>
+    <link href="https://ec.europa.eu/eurostat/news/news-releases" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>Eurozone EC Survey (Jul)  - 2020-07-30</id>
+    <title>Eurozone EC Survey (Jul) </title>
+    <updated>2020-07-30T09:04:01.973719+00:00</updated>
+    <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
+  &lt;thead&gt;
+    &lt;tr style="text-align: right;"&gt;
+      &lt;th style='border: 0px solid #ddd;padding: 4px;padding-top: 4px;padding-bottom: 4px;background-color: #EEEEEE;color: #3A3A3A;text-align:left'&gt;Event&lt;/th&gt;
+      &lt;th style='border: 0px solid #ddd;padding: 4px;padding-top: 4px;padding-bottom: 4px;background-color: #EEEEEE;color: #3A3A3A;text-align:center'&gt;&lt;/th&gt;
+      &lt;th style='border: 0px solid #ddd;padding: 4px;padding-top: 4px;padding-bottom: 4px;background-color: #EEEEEE;color: #3A3A3A;text-align:center'&gt;P&lt;/th&gt;
+      &lt;th style='border: 0px solid #ddd;padding: 4px;padding-top: 4px;padding-bottom: 4px;background-color: #EEEEEE;color: #3A3A3A;text-align:center'&gt;F&lt;/th&gt;
+      &lt;th style='border: 0px solid #ddd;padding: 4px;padding-top: 4px;padding-bottom: 4px;background-color: #EEEEEE;color: #3A3A3A;text-align:center'&gt;A&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;'&gt;Business Climate&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;-2.25&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;-1.80&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;'&gt;Consumer Confidence&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;-14.7&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;-15.0&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;-15.0&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;&lt;/body&gt;</content>
+    <link href="https://ec.europa.eu/info/business-economy-euro/indicators-statistics/economic-databases/business-and-consumer-surveys/latest-business-and-consumer-surveys_en" rel="alternate"/>
+  </entry>
+  <entry>
     <id>Italy Unemployment (Jun)  - 2020-07-30</id>
     <title>Italy Unemployment (Jun) </title>
-    <updated>2020-07-30T08:30:49.509669+00:00</updated>
+    <updated>2020-07-30T09:04:01.969486+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -34,7 +93,7 @@
   <entry>
     <id>Germany GDP (Q2) (P) - 2020-07-30</id>
     <title>Germany GDP (Q2) (P)</title>
-    <updated>2020-07-30T08:30:49.506884+00:00</updated>
+    <updated>2020-07-30T09:04:01.966757+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -67,7 +126,7 @@
   <entry>
     <id>Germany Unemployment (Jul)  - 2020-07-30</id>
     <title>Germany Unemployment (Jul) </title>
-    <updated>2020-07-30T08:30:49.503870+00:00</updated>
+    <updated>2020-07-30T09:04:01.963760+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -93,7 +152,7 @@
   <entry>
     <id>Spain HICP  (P) - 2020-07-30</id>
     <title>Spain HICP  (P)</title>
-    <updated>2020-07-30T08:30:49.501073+00:00</updated>
+    <updated>2020-07-30T09:04:01.960300+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -140,7 +199,7 @@
   <entry>
     <id>Netherlands Business Confidence (Jul)  - 2020-07-30</id>
     <title>Netherlands Business Confidence (Jul) </title>
-    <updated>2020-07-30T08:30:49.497767+00:00</updated>
+    <updated>2020-07-30T09:04:01.956749+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
