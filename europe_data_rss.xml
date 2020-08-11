@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>BB Europe Data Alerts</id>
   <title>BB Europe Data Alerts</title>
-  <updated>2020-08-11T06:03:13.057273+00:00</updated>
+  <updated>2020-08-11T06:30:19.419432+00:00</updated>
   <link href="https://github.com/dkanhrabncelbu" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <entry>
     <id>UK Labour Market Data (Jun)  - 2020-08-11</id>
     <title>UK Labour Market Data (Jun) </title>
-    <updated>2020-08-11T06:03:13.072784+00:00</updated>
+    <updated>2020-08-11T06:30:19.433767+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -27,6 +27,13 @@
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;-0.1%&lt;/td&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;-0.2%&lt;/td&gt;
     &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;'&gt;Unemployment Rate&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;3.9%&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;4.2%&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;3.9%&lt;/td&gt;
+    &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;&lt;/body&gt;</content>
     <link href="https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/previousReleases" rel="alternate"/>
@@ -34,7 +41,7 @@
   <entry>
     <id>Sweden Unemployment (Jul)  - 2020-08-11</id>
     <title>Sweden Unemployment (Jul) </title>
-    <updated>2020-08-11T06:03:13.069986+00:00</updated>
+    <updated>2020-08-11T06:30:19.430882+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
