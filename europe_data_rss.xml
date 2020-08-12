@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>BB Europe Data Alerts</id>
   <title>BB Europe Data Alerts</title>
-  <updated>2020-08-12T17:30:39.572881+00:00</updated>
+  <updated>2020-08-12T18:01:49.068092+00:00</updated>
   <link href="https://github.com/dkanhrabncelbu" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <entry>
     <id>Eurozone Industrial Production (Jun)  - 2020-08-12</id>
     <title>Eurozone Industrial Production (Jun) </title>
-    <updated>2020-08-12T17:30:39.603942+00:00</updated>
+    <updated>2020-08-12T18:01:49.100935+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -41,7 +41,7 @@
   <entry>
     <id>Italy HICP (Jul)  - 2020-08-12</id>
     <title>Italy HICP (Jul) </title>
-    <updated>2020-08-12T17:30:39.601035+00:00</updated>
+    <updated>2020-08-12T18:01:49.097964+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -74,7 +74,7 @@
   <entry>
     <id>Sweden HICP (Jul)  - 2020-08-12</id>
     <title>Sweden HICP (Jul) </title>
-    <updated>2020-08-12T17:30:39.598226+00:00</updated>
+    <updated>2020-08-12T18:01:49.095001+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -107,7 +107,7 @@
   <entry>
     <id>UK Manufacturing Production (Jun)  - 2020-08-12</id>
     <title>UK Manufacturing Production (Jun) </title>
-    <updated>2020-08-12T17:30:39.595428+00:00</updated>
+    <updated>2020-08-12T18:01:49.092048+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -140,7 +140,7 @@
   <entry>
     <id>UK Industrial Production (Jun)  - 2020-08-12</id>
     <title>UK Industrial Production (Jun) </title>
-    <updated>2020-08-12T17:30:39.592541+00:00</updated>
+    <updated>2020-08-12T18:01:49.088946+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -173,7 +173,7 @@
   <entry>
     <id>UK Services Output   - 2020-08-12</id>
     <title>UK Services Output  </title>
-    <updated>2020-08-12T17:30:39.589759+00:00</updated>
+    <updated>2020-08-12T18:01:49.085668+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -199,7 +199,7 @@
   <entry>
     <id>UK GDP   - 2020-08-12</id>
     <title>UK GDP  </title>
-    <updated>2020-08-12T17:30:39.587108+00:00</updated>
+    <updated>2020-08-12T18:01:49.082808+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -239,7 +239,7 @@
   <entry>
     <id>UK Construction Output (Jun)  - 2020-08-12</id>
     <title>UK Construction Output (Jun) </title>
-    <updated>2020-08-12T17:30:39.584053+00:00</updated>
+    <updated>2020-08-12T18:01:49.079612+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
