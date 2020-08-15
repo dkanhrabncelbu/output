@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>BB Job Alerts</id>
   <title>Job Alerts</title>
-  <updated>2020-08-14T06:00:45.753441+00:00</updated>
+  <updated>2020-08-15T06:00:19.572227+00:00</updated>
   <link href="https://github.com/dkanhrabncelbu" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
 </feed>
