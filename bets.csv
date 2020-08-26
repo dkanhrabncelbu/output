@@ -1,0 +1,4 @@
+date,time,sport,home_team,away_team,kelly_bet_name,kelly_prob,kelly_prob_odds_implied,kelly_odds,multiple HK stake
+2020-08-26,15:30:00,soccer_russia_premier_league,Lokomotiv Moscow,FC Akhmat Grozny,Lokomotiv Moscow,0.6471,0.5555555555555556,1.8,0.10021647298302817
+2020-08-26,17:30:00,soccer_russia_premier_league,FC Krasnodar,CSKA Moscow,FC Krasnodar,0.4559,0.4347826086956522,2.3,0.016616422987680717
+2020-08-26,17:45:00,soccer_russia_premier_league,Dinamo Moscow,Zenit St Petersburg,Zenit St Petersburg,0.6237,0.6172839506172839,1.62,0.007378529740162232
