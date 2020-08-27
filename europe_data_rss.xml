@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>BB Europe Data Alerts</id>
   <title>BB Europe Data Alerts</title>
-  <updated>2020-08-27T08:00:45.675768+00:00</updated>
+  <updated>2020-08-27T08:30:28.799683+00:00</updated>
   <link href="https://github.com/dkanhrabncelbu" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <entry>
     <id>Eurozone Money &amp; Credit (Jul)  - 2020-08-27</id>
     <title>Eurozone Money &amp; Credit (Jul) </title>
-    <updated>2020-08-27T08:00:45.700155+00:00</updated>
+    <updated>2020-08-27T08:30:28.825216+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -34,7 +34,7 @@
   <entry>
     <id>Italy Industrial Orders (Jun)  - 2020-08-27</id>
     <title>Italy Industrial Orders (Jun) </title>
-    <updated>2020-08-27T08:00:45.697552+00:00</updated>
+    <updated>2020-08-27T08:30:28.822397+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -49,16 +49,16 @@
     &lt;tr&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;'&gt;Industrial New Orders&lt;/td&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;(MoM)&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;42.2%&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;43.8%&lt;/td&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;23.4%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;'&gt;Industrial New Orders&lt;/td&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;(YoY)&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;-34.7%&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;-34.1%&lt;/td&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;-11.8%&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;&lt;/body&gt;</content>
@@ -67,7 +67,7 @@
   <entry>
     <id>Sweden Retail Sales (Jul)  - 2020-08-27</id>
     <title>Sweden Retail Sales (Jul) </title>
-    <updated>2020-08-27T08:00:45.694818+00:00</updated>
+    <updated>2020-08-27T08:30:28.819480+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -100,7 +100,7 @@
   <entry>
     <id>Sweden Manufacturing Confidence (Aug)  - 2020-08-27</id>
     <title>Sweden Manufacturing Confidence (Aug) </title>
-    <updated>2020-08-27T08:00:45.692076+00:00</updated>
+    <updated>2020-08-27T08:30:28.816680+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -126,7 +126,7 @@
   <entry>
     <id>Sweden Consumer Confidence (Aug)  - 2020-08-27</id>
     <title>Sweden Consumer Confidence (Aug) </title>
-    <updated>2020-08-27T08:00:45.689475+00:00</updated>
+    <updated>2020-08-27T08:30:28.813993+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -152,7 +152,7 @@
   <entry>
     <id>France Business Confidence (Aug)  - 2020-08-27</id>
     <title>France Business Confidence (Aug) </title>
-    <updated>2020-08-27T08:00:45.686872+00:00</updated>
+    <updated>2020-08-27T08:30:28.811310+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
