@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>BB Europe Data Alerts</id>
   <title>BB Europe Data Alerts</title>
-  <updated>2020-08-28T09:30:55.839943+00:00</updated>
+  <updated>2020-08-28T10:01:23.579299+00:00</updated>
   <link href="https://github.com/dkanhrabncelbu" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <entry>
     <id>Eurozone EC Survey (Aug)  - 2020-08-28</id>
     <title>Eurozone EC Survey (Aug) </title>
-    <updated>2020-08-28T09:30:55.868307+00:00</updated>
+    <updated>2020-08-28T10:01:23.612634+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -41,7 +41,7 @@
   <entry>
     <id>Sweden GDP (Q2)  - 2020-08-28</id>
     <title>Sweden GDP (Q2) </title>
-    <updated>2020-08-28T09:30:55.865502+00:00</updated>
+    <updated>2020-08-28T10:01:23.609038+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -74,7 +74,7 @@
   <entry>
     <id>Spain Retail Sales (Jul)  - 2020-08-28</id>
     <title>Spain Retail Sales (Jul) </title>
-    <updated>2020-08-28T09:30:55.862736+00:00</updated>
+    <updated>2020-08-28T10:01:23.605579+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -100,7 +100,7 @@
   <entry>
     <id>France GDP (Q2) (P) - 2020-08-28</id>
     <title>France GDP (Q2) (P)</title>
-    <updated>2020-08-28T09:30:55.860094+00:00</updated>
+    <updated>2020-08-28T10:01:23.602343+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -126,7 +126,7 @@
   <entry>
     <id>France Consumer Spending (Jul)  - 2020-08-28</id>
     <title>France Consumer Spending (Jul) </title>
-    <updated>2020-08-28T09:30:55.857393+00:00</updated>
+    <updated>2020-08-28T10:01:23.599041+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -152,7 +152,7 @@
   <entry>
     <id>France HICP  (P) - 2020-08-28</id>
     <title>France HICP  (P)</title>
-    <updated>2020-08-28T09:30:55.854743+00:00</updated>
+    <updated>2020-08-28T10:01:23.596155+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -199,7 +199,7 @@
   <entry>
     <id>Netherlands Business Confidence (Aug)  - 2020-08-28</id>
     <title>Netherlands Business Confidence (Aug) </title>
-    <updated>2020-08-28T09:30:55.851624+00:00</updated>
+    <updated>2020-08-28T10:01:23.592620+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
