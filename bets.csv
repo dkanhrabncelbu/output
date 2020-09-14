@@ -1,0 +1,5 @@
+date,time,sport,home_team,away_team,kelly_bet_name,kelly_prob,kelly_prob_odds_implied,kelly_odds,multiple HK stake
+2020-09-14,15:30:00,soccer_russia_premier_league,Zenit St Petersburg,Arsenal Tula,Zenit St Petersburg,0.8429,0.8333333333333334,1.2,0.026173964286465883
+2020-09-14,17:00:00,soccer_sweden_allsvenskan,BK Hacken,IK Sirius,BK Hacken,0.6277,0.5988023952095809,1.67,0.03309358919934503
+2020-09-14,17:00:00,soccer_sweden_allsvenskan,Kalmar FF,IFK Norrkoping,IFK Norrkoping,0.5577,0.5235602094240838,1.91,0.032916172084407766
+2020-09-14,17:30:00,soccer_russia_premier_league,FK Rostov,Lokomotiv Moscow,Lokomotiv Moscow,0.3813,0.35714285714285715,2.8,0.016962100739572262
