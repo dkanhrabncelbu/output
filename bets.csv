@@ -1,0 +1,6 @@
+date,time,sport,home_team,away_team,kelly_bet_name,kelly_prob,kelly_prob_odds_implied,kelly_odds,multiple HK stake
+2020-09-21,17:00:00,soccer_sweden_allsvenskan,IF Elfsborg,BK Hacken,BK Hacken,0.4307,0.37037037037037035,2.7,0.04575487210590679
+2020-09-21,17:00:00,soccer_epl,Aston Villa,Sheffield United,Aston Villa,0.4085,0.3846153846153846,2.6,0.017995042671339723
+2020-09-21,18:45:00,soccer_portugal_primeira_liga,Portimonense,Pacos de Ferreira,Portimonense,0.4681,0.45454545454545453,2.2,0.011440017526137198
+2020-09-21,18:45:00,soccer_italy_serie_a,AC Milan,Bologna,AC Milan,0.6725,0.6666666666666666,1.5,0.008026481934088694
+2020-09-21,16:00:00,soccer_russia_premier_league,Dinamo Moscow,FC Akhmat Grozny,Dinamo Moscow,0.5051,0.5,2.0,0.004661129027473679
