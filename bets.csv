@@ -1,0 +1,11 @@
+date,time,sport,home_team,away_team,kelly_bet_name,kelly_prob,kelly_prob_odds_implied,kelly_odds,multiple HK stake
+2020-09-27,11:00:00,soccer_russia_premier_league,Arsenal Tula,FK Rostov,Arsenal Tula,0.4422,0.3333333333333333,3.0,0.0463687544721263
+2020-09-27,16:00:00,soccer_norway_eliteserien,Aalesund,Rosenborg,Rosenborg,0.718,0.6666666666666666,1.5,0.043507737111534814
+2020-09-27,11:00:00,soccer_epl,Sheffield United,Leeds United,Sheffield United,0.4454,0.3472222222222222,2.88,0.042407970692389635
+2020-09-27,12:00:00,soccer_spain_la_liga,Eibar,Athletic Bilbao,Eibar,0.4155,0.3225806451612903,3.1,0.03840184194850291
+2020-09-27,20:00:00,soccer_portugal_primeira_liga,Rio Ave FC,Guimaraes,Rio Ave FC,0.4558,0.37037037037037035,2.7,0.03795604277436655
+2020-09-27,14:00:00,soccer_switzerland_superleague,Servette,FC Basel,FC Basel,0.5361,0.47619047619047616,2.1,0.03163327069837891
+2020-09-27,16:00:00,soccer_russia_premier_league,CSKA Moscow,Lokomotiv Moscow,CSKA Moscow,0.5549,0.5,2.0,0.030295076454929792
+2020-09-27,15:00:00,soccer_portugal_primeira_liga,Gil Vicente,Portimonense,Gil Vicente,0.4507,0.38167938931297707,2.62,0.030828650670097293
+2020-09-27,12:00:00,soccer_efl_champ,Bristol City,Sheffield Wednesday,Bristol City,0.4323,0.36363636363636365,2.75,0.029740949567414236
+2020-09-27,14:00:00,soccer_switzerland_superleague,FC Luzern,FC Lausanne-Sport,FC Luzern,0.4769,0.4347826086956522,2.3,0.020182890594776945
