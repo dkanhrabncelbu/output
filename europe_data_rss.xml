@@ -2,13 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>BB Europe Data Alerts</id>
   <title>BB Europe Data Alerts</title>
-  <updated>2020-09-30T07:31:17.672722+00:00</updated>
+  <updated>2020-09-30T08:02:08.215416+00:00</updated>
   <link href="https://github.com/dkanhrabncelbu" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <entry>
+    <id>Germany Unemployment (Sep)  - 2020-09-30</id>
+    <title>Germany Unemployment (Sep) </title>
+    <updated>2020-09-30T08:02:08.245588+00:00</updated>
+    <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
+  &lt;thead&gt;
+    &lt;tr style="text-align: right;"&gt;
+      &lt;th style='border: 0px solid #ddd;padding: 4px;padding-top: 4px;padding-bottom: 4px;background-color: #EEEEEE;color: #3A3A3A;text-align:left'&gt;Event&lt;/th&gt;
+      &lt;th style='border: 0px solid #ddd;padding: 4px;padding-top: 4px;padding-bottom: 4px;background-color: #EEEEEE;color: #3A3A3A;text-align:center'&gt;&lt;/th&gt;
+      &lt;th style='border: 0px solid #ddd;padding: 4px;padding-top: 4px;padding-bottom: 4px;background-color: #EEEEEE;color: #3A3A3A;text-align:center'&gt;P&lt;/th&gt;
+      &lt;th style='border: 0px solid #ddd;padding: 4px;padding-top: 4px;padding-bottom: 4px;background-color: #EEEEEE;color: #3A3A3A;text-align:center'&gt;F&lt;/th&gt;
+      &lt;th style='border: 0px solid #ddd;padding: 4px;padding-top: 4px;padding-bottom: 4px;background-color: #EEEEEE;color: #3A3A3A;text-align:center'&gt;A&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;'&gt;Unemployment Rate&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;6.4%&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;6.4%&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;6.3%&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;&lt;/body&gt;</content>
+    <link href="https://www.destatis.de/SiteGlobals/Forms/Suche/Presse/EN/Pressesuche_Formular.html?cl2Taxonomies_Themen_0=arbeitsmarkt" rel="alternate"/>
+  </entry>
+  <entry>
     <id>France Consumer Spending (Aug)  - 2020-09-30</id>
     <title>France Consumer Spending (Aug) </title>
-    <updated>2020-09-30T07:31:17.694355+00:00</updated>
+    <updated>2020-09-30T08:02:08.242518+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -34,7 +60,7 @@
   <entry>
     <id>France HICP  (P) - 2020-09-30</id>
     <title>France HICP  (P)</title>
-    <updated>2020-09-30T07:31:17.691383+00:00</updated>
+    <updated>2020-09-30T08:02:08.237893+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -81,7 +107,7 @@
   <entry>
     <id>Germany Retail Sales (Aug)  - 2020-09-30</id>
     <title>Germany Retail Sales (Aug) </title>
-    <updated>2020-09-30T07:31:17.687953+00:00</updated>
+    <updated>2020-09-30T08:02:08.233814+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -114,7 +140,7 @@
   <entry>
     <id>UK GDP (Q2)  - 2020-09-30</id>
     <title>UK GDP (Q2) </title>
-    <updated>2020-09-30T07:31:17.684619+00:00</updated>
+    <updated>2020-09-30T08:02:08.230795+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
