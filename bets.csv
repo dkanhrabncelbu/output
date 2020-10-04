@@ -1,0 +1,11 @@
+date,time,sport,home_team,away_team,kelly_bet_name,kelly_prob,kelly_prob_odds_implied,kelly_odds,multiple HK stake
+2020-10-04,16:00:00,soccer_norway_eliteserien,SK Brann,Molde,Molde,0.5801,0.4444444444444444,2.25,0.08332858153731669
+2020-10-04,12:00:00,soccer_spain_la_liga,Alavés,Athletic Bilbao,Alavés,0.3768,0.2857142857142857,3.5,0.04080609231207269
+2020-10-04,14:00:00,soccer_efl_champ,Stoke City,Birmingham City,Stoke City,0.4999,0.4444444444444444,2.25,0.031476520204405396
+2020-10-04,16:00:00,soccer_norway_eliteserien,Aalesund,Kristiansund BK,Kristiansund BK,0.5782,0.53475935828877,1.87,0.02934381696065452
+2020-10-04,14:00:00,soccer_switzerland_superleague,FC Basel,FC Luzern,FC Basel,0.654,0.625,1.6,0.024100531729626604
+2020-10-04,13:30:00,soccer_russia_premier_league,FK Sochi,FK Rostov,FK Sochi,0.4394,0.3846153846153846,2.6,0.027913922485729374
+2020-10-04,13:00:00,soccer_italy_serie_a,Lazio,FC Internazionale,FC Internazionale,0.513,0.47619047619047616,2.1,0.021820000959201214
+2020-10-04,12:00:00,soccer_denmark_superliga,Lyngby,SonderjyskE,Lyngby,0.3703,0.3225806451612903,3.1,0.02187475559293617
+2020-10-04,13:00:00,soccer_italy_serie_a,Benevento,Bologna,Benevento,0.3703,0.3225806451612903,3.1,0.02187475559293617
+2020-10-04,13:00:00,soccer_italy_serie_a,Parma,Hellas Verona FC,Parma,0.401,0.37037037037037035,2.7,0.014937731612673425
