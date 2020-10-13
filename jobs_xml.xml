@@ -2,7 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>BB Job Alerts</id>
   <title>Job Alerts</title>
-  <updated>2020-10-12T06:00:28.714314+00:00</updated>
+  <updated>2020-10-13T06:01:20.527972+00:00</updated>
   <link href="https://github.com/dkanhrabncelbu" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>Global Investment Research, Europe Economics, Analyst, London : Goldman Sachs : 2020-10-12</id>
+    <title>Goldman Sachs : Global Investment Research, Europe Economics, Analyst, London : 2020-10-12</title>
+    <updated>2020-10-13T06:01:20.528132+00:00</updated>
+    <link href="https://uk.linkedin.com/jobs/view/global-investment-research-europe-economics-analyst-london-at-goldman-sachs-2176681523?refId=f887c4ac-0ad9-4bb8-b9fb-46a187370004&amp;position=9&amp;pageNum=0&amp;trk=public_jobs_job-result-card_result-card_full-click" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>CIMD, PWM, Private Banking Lending, Associate, London : Goldman Sachs : 2020-10-13</id>
+    <title>Goldman Sachs : CIMD, PWM, Private Banking Lending, Associate, London : 2020-10-13</title>
+    <updated>2020-10-13T06:01:20.528071+00:00</updated>
+    <link href="https://uk.linkedin.com/jobs/view/cimd-pwm-private-banking-lending-associate-london-at-goldman-sachs-2179944291?refId=f887c4ac-0ad9-4bb8-b9fb-46a187370004&amp;position=6&amp;pageNum=0&amp;trk=public_jobs_job-result-card_result-card_full-click" rel="alternate"/>
+  </entry>
 </feed>
