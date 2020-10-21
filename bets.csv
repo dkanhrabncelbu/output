@@ -1,0 +1,4 @@
+date,time,sport,home_team,away_team,kelly_bet_name,kelly_prob,kelly_prob_odds_implied,kelly_odds,multiple HK stake
+2020-10-21,18:45:00,soccer_efl_champ,Watford,Blackburn Rovers,Watford,0.5607,0.47619047619047616,2.1,0.07631758538514574
+2020-10-21,18:45:00,soccer_efl_champ,Cardiff City,Bournemouth,Bournemouth,0.4651,0.4166666666666667,2.4,0.03767094975744012
+2020-10-21,18:45:00,soccer_efl_champ,Queens Park Rangers,Preston North End,Queens Park Rangers,0.3738,0.35714285714285715,2.8,0.011416000435650797
