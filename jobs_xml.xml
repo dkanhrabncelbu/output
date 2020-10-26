@@ -2,7 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>BB Job Alerts</id>
   <title>Job Alerts</title>
-  <updated>2020-10-25T06:00:46.907847+00:00</updated>
+  <updated>2020-10-26T06:01:23.268349+00:00</updated>
   <link href="https://github.com/dkanhrabncelbu" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>Global Investment Research, Europe Economics, Analyst, London : Goldman Sachs : 2020-10-22</id>
+    <title>Goldman Sachs : Global Investment Research, Europe Economics, Analyst, London : 2020-10-22</title>
+    <updated>2020-10-26T06:01:23.268410+00:00</updated>
+    <link href="https://uk.linkedin.com/jobs/view/global-investment-research-europe-economics-analyst-london-at-goldman-sachs-2200146809?refId=7683223e-68ec-40d4-9fbc-6e6b0081a69f&amp;position=13&amp;pageNum=0&amp;trk=public_jobs_job-result-card_result-card_full-click" rel="alternate"/>
+  </entry>
 </feed>
