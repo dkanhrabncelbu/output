@@ -2,13 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>BB Europe Data Alerts</id>
   <title>BB Europe Data Alerts</title>
-  <updated>2020-10-29T09:01:43.216698+00:00</updated>
+  <updated>2020-10-29T09:30:40.808010+00:00</updated>
   <link href="https://github.com/dkanhrabncelbu" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <entry>
+    <id>UK Money &amp; Credit (Sep)  - 2020-10-29</id>
+    <title>UK Money &amp; Credit (Sep) </title>
+    <updated>2020-10-29T09:30:40.828306+00:00</updated>
+    <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
+  &lt;thead&gt;
+    &lt;tr style="text-align: right;"&gt;
+      &lt;th style='border: 0px solid #ddd;padding: 4px;padding-top: 4px;padding-bottom: 4px;background-color: #EEEEEE;color: #3A3A3A;text-align:left'&gt;Event&lt;/th&gt;
+      &lt;th style='border: 0px solid #ddd;padding: 4px;padding-top: 4px;padding-bottom: 4px;background-color: #EEEEEE;color: #3A3A3A;text-align:center'&gt;&lt;/th&gt;
+      &lt;th style='border: 0px solid #ddd;padding: 4px;padding-top: 4px;padding-bottom: 4px;background-color: #EEEEEE;color: #3A3A3A;text-align:center'&gt;P&lt;/th&gt;
+      &lt;th style='border: 0px solid #ddd;padding: 4px;padding-top: 4px;padding-bottom: 4px;background-color: #EEEEEE;color: #3A3A3A;text-align:center'&gt;F&lt;/th&gt;
+      &lt;th style='border: 0px solid #ddd;padding: 4px;padding-top: 4px;padding-bottom: 4px;background-color: #EEEEEE;color: #3A3A3A;text-align:center'&gt;A&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;'&gt;M4 Money Supply&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;(MoM)&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;-0.4%&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;&lt;/body&gt;</content>
+    <link href="https://www.bankofengland.co.uk/news/?NewsTypes=571948d14c6943f7b5b7748ad80bef29&amp;Taxonomies=65c741d9573d48c09359a3c48020fe76&amp;InfiniteScrolling=False&amp;Direction=Latest" rel="alternate"/>
+  </entry>
+  <entry>
     <id>Germany Unemployment (Oct)  - 2020-10-29</id>
     <title>Germany Unemployment (Oct) </title>
-    <updated>2020-10-29T09:01:43.235928+00:00</updated>
+    <updated>2020-10-29T09:30:40.825647+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -34,7 +60,7 @@
   <entry>
     <id>Spain HICP  (P) - 2020-10-29</id>
     <title>Spain HICP  (P)</title>
-    <updated>2020-10-29T09:01:43.232947+00:00</updated>
+    <updated>2020-10-29T09:30:40.822968+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -81,7 +107,7 @@
   <entry>
     <id>Netherlands Business Confidence (Oct)  - 2020-10-29</id>
     <title>Netherlands Business Confidence (Oct) </title>
-    <updated>2020-10-29T09:01:43.229152+00:00</updated>
+    <updated>2020-10-29T09:30:40.819845+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
