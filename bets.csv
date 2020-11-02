@@ -1,0 +1,5 @@
+date,time,sport,home_team,away_team,kelly_bet_name,kelly_prob,kelly_prob_odds_implied,kelly_odds,multiple HK stake
+2020-11-02,20:00:00,soccer_epl,Leeds United,Leicester City,Leicester City,0.4587,0.38167938931297707,2.62,0.05752181459862284
+2020-11-02,19:30:00,soccer_germany_bundesliga,TSG Hoffenheim,Union Berlin,TSG Hoffenheim,0.5719,0.5235602094240838,1.91,0.046282694439928
+2020-11-02,17:30:00,soccer_epl,Fulham,West Bromwich Albion,Fulham,0.4399,0.4166666666666667,2.4,0.017597145327885564
+2020-11-02,18:00:00,soccer_sweden_allsvenskan,AIK,Varbergs BoIS,AIK,0.5842,0.5780346820809249,1.73,0.006373450905872022
