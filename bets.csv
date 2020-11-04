@@ -1,0 +1,3 @@
+date,time,sport,home_team,away_team,kelly_bet_name,kelly_prob,kelly_prob_odds_implied,kelly_odds,multiple HK stake
+2020-11-04,17:00:00,soccer_switzerland_superleague,FC Zurich,FC Basel,FC Basel,0.6026,0.5464480874316939,1.83,0.0609446105366923
+2020-11-04,19:00:00,soccer_efl_champ,Watford,Stoke City,Watford,0.4924,0.47619047619047616,2.1,0.01451492817086526
