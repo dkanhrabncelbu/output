@@ -1,0 +1,11 @@
+date,time,sport,home_team,away_team,kelly_bet_name,kelly_prob,kelly_prob_odds_implied,kelly_odds,multiple HK stake
+2020-11-07,16:00:00,soccer_russia_premier_league,Tambov,FC Akhmat Grozny,Tambov,0.44799999999999995,0.23809523809523808,4.2,0.10306991358612456
+2020-11-07,12:00:00,soccer_germany_bundesliga2,1. FC Nürnberg,Fortuna Düsseldorf,Fortuna Düsseldorf,0.4468,0.3472222222222222,2.88,0.05327170934391971
+2020-11-07,15:00:00,soccer_efl_champ,Watford,Coventry City,Watford,0.6461,0.6172839506172839,1.62,0.025238687722700867
+2020-11-07,15:00:00,soccer_portugal_primeira_liga,Tondela,Santa Clara,Tondela,0.3928,0.3333333333333333,3.0,0.030117791970811145
+2020-11-07,15:00:00,soccer_efl_champ,Birmingham City,Bournemouth,Bournemouth,0.5363,0.5,2.0,0.024301790550702165
+2020-11-07,15:00:00,soccer_epl,Crystal Palace,Leeds United,Crystal Palace,0.4006,0.35714285714285715,2.8,0.022569564267145632
+2020-11-07,15:15:00,soccer_spain_la_liga,Barcelona,Real Betis,Barcelona,0.7619,0.7518796992481203,1.33,0.013296005208857462
+2020-11-07,18:00:00,soccer_portugal_primeira_liga,Famalicão,CS Maritimo,Famalicão,0.4942,0.47619047619047616,2.1,0.011285042165527087
+2020-11-07,15:00:00,soccer_efl_champ,Huddersfield Town,Luton Town,Huddersfield Town,0.4639,0.45454545454545453,2.2,0.005580174371907927
+2020-11-07,18:00:00,soccer_switzerland_superleague,FC Zurich,FC Luzern,FC Luzern,0.3589,0.3472222222222222,2.88,0.005822915127804082
