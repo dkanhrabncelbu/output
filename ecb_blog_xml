@@ -2,115 +2,115 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>ECB Blog</id>
   <title>ECB Blog</title>
-  <updated>2020-11-12T00:02:34.507103+00:00</updated>
+  <updated>2020-11-13T00:02:29.969860+00:00</updated>
   <link href="https://www.ecb.europa.eu/press/blog/date/2020/html/index_include.en.html" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <entry>
     <id>The Monetary Policy Package: An Analytical Framework https://www.ecb.europa.eu/press/blog/date/2020/html/ecb.blog200313%7E9e783ea567.en.html</id>
     <title>The Monetary Policy Package: An Analytical Framework</title>
-    <updated>2020-11-12T00:02:34.507463+00:00</updated>
+    <updated>2020-11-13T00:02:29.970223+00:00</updated>
     <link href="https://www.ecb.europa.eu/press/blog/date/2020/html/ecb.blog200313%7E9e783ea567.en.html" rel="alternate"/>
   </entry>
   <entry>
     <id>Our response to the coronavirus emergency https://www.ecb.europa.eu/press/blog/date/2020/html/ecb.blog200319%7E11f421e25e.en.html</id>
     <title>Our response to the coronavirus emergency</title>
-    <updated>2020-11-12T00:02:34.507447+00:00</updated>
+    <updated>2020-11-13T00:02:29.970207+00:00</updated>
     <link href="https://www.ecb.europa.eu/press/blog/date/2020/html/ecb.blog200319%7E11f421e25e.en.html" rel="alternate"/>
   </entry>
   <entry>
     <id>The ECB’s commercial paper purchases: A targeted response to the economic disturbances caused by COVID-19 https://www.ecb.europa.eu/press/blog/date/2020/html/ecb.blog200403%7E54ecc5988b.en.html</id>
     <title>The ECB’s commercial paper purchases: A targeted response to the economic disturbances caused by COVID-19</title>
-    <updated>2020-11-12T00:02:34.507430+00:00</updated>
+    <updated>2020-11-13T00:02:29.970191+00:00</updated>
     <link href="https://www.ecb.europa.eu/press/blog/date/2020/html/ecb.blog200403%7E54ecc5988b.en.html" rel="alternate"/>
   </entry>
   <entry>
     <id>How the ECB is helping firms and households https://www.ecb.europa.eu/press/blog/date/2020/html/ecb.blog200409%7E3aa2815720.en.html</id>
     <title>How the ECB is helping firms and households</title>
-    <updated>2020-11-12T00:02:34.507409+00:00</updated>
+    <updated>2020-11-13T00:02:29.970174+00:00</updated>
     <link href="https://www.ecb.europa.eu/press/blog/date/2020/html/ecb.blog200409%7E3aa2815720.en.html" rel="alternate"/>
   </entry>
   <entry>
     <id>Improving funding conditions for the real economy during the COVID-19 crisis: the ECB’s collateral easing measures https://www.ecb.europa.eu/press/blog/date/2020/html/ecb.blog200422%7E244d933f86.en.html</id>
     <title>Improving funding conditions for the real economy during the COVID-19 crisis: the ECB’s collateral easing measures</title>
-    <updated>2020-11-12T00:02:34.507393+00:00</updated>
+    <updated>2020-11-13T00:02:29.970158+00:00</updated>
     <link href="https://www.ecb.europa.eu/press/blog/date/2020/html/ecb.blog200422%7E244d933f86.en.html" rel="alternate"/>
   </entry>
   <entry>
     <id>Beyond monetary policy – protecting the continuity and safety of payments during the coronavirus crisis https://www.ecb.europa.eu/press/blog/date/2020/html/ecb.blog200428%7E328d7ca065.en.html</id>
     <title>Beyond monetary policy – protecting the continuity and safety of payments during the coronavirus crisis</title>
-    <updated>2020-11-12T00:02:34.507377+00:00</updated>
+    <updated>2020-11-13T00:02:29.970141+00:00</updated>
     <link href="https://www.ecb.europa.eu/press/blog/date/2020/html/ecb.blog200428%7E328d7ca065.en.html" rel="alternate"/>
   </entry>
   <entry>
     <id>The monetary policy response to the pandemic emergency https://www.ecb.europa.eu/press/blog/date/2020/html/ecb.blog200501%7Ea2d8f514a0.en.html</id>
     <title>The monetary policy response to the pandemic emergency</title>
-    <updated>2020-11-12T00:02:34.507360+00:00</updated>
+    <updated>2020-11-13T00:02:29.970120+00:00</updated>
     <link href="https://www.ecb.europa.eu/press/blog/date/2020/html/ecb.blog200501%7Ea2d8f514a0.en.html" rel="alternate"/>
   </entry>
   <entry>
     <id>Expanding the pandemic emergency purchase programme https://www.ecb.europa.eu/press/blog/date/2020/html/ecb.blog200605%7E0ee256bcc9.en.html</id>
     <title>Expanding the pandemic emergency purchase programme</title>
-    <updated>2020-11-12T00:02:34.507343+00:00</updated>
+    <updated>2020-11-13T00:02:29.970104+00:00</updated>
     <link href="https://www.ecb.europa.eu/press/blog/date/2020/html/ecb.blog200605%7E0ee256bcc9.en.html" rel="alternate"/>
   </entry>
   <entry>
     <id>Sharing and strengthening the euro’s privilege  https://www.ecb.europa.eu/press/blog/date/2020/html/ecb.blog200612%7E312fc9d1dc.en.html</id>
     <title>Sharing and strengthening the euro’s privilege </title>
-    <updated>2020-11-12T00:02:34.507326+00:00</updated>
+    <updated>2020-11-13T00:02:29.970087+00:00</updated>
     <link href="https://www.ecb.europa.eu/press/blog/date/2020/html/ecb.blog200612%7E312fc9d1dc.en.html" rel="alternate"/>
   </entry>
   <entry>
     <id>The market stabilisation role of the pandemic emergency purchase programme https://www.ecb.europa.eu/press/blog/date/2020/html/ecb.blog200622%7E14c4269b9e.en.html</id>
     <title>The market stabilisation role of the pandemic emergency purchase programme</title>
-    <updated>2020-11-12T00:02:34.507310+00:00</updated>
+    <updated>2020-11-13T00:02:29.970070+00:00</updated>
     <link href="https://www.ecb.europa.eu/press/blog/date/2020/html/ecb.blog200622%7E14c4269b9e.en.html" rel="alternate"/>
   </entry>
   <entry>
     <id>Necessary, suitable and proportionate https://www.ecb.europa.eu/press/blog/date/2020/html/ecb.blog200628%7Ed238a8970c.en.html</id>
     <title>Necessary, suitable and proportionate</title>
-    <updated>2020-11-12T00:02:34.507293+00:00</updated>
+    <updated>2020-11-13T00:02:29.970053+00:00</updated>
     <link href="https://www.ecb.europa.eu/press/blog/date/2020/html/ecb.blog200628%7Ed238a8970c.en.html" rel="alternate"/>
   </entry>
   <entry>
     <id>Europe’s response to the crisis https://www.ecb.europa.eu/press/blog/date/2020/html/ecb.blog200723%7Ec06fafabb6.en.html</id>
     <title>Europe’s response to the crisis</title>
-    <updated>2020-11-12T00:02:34.507276+00:00</updated>
+    <updated>2020-11-13T00:02:29.970036+00:00</updated>
     <link href="https://www.ecb.europa.eu/press/blog/date/2020/html/ecb.blog200723%7Ec06fafabb6.en.html" rel="alternate"/>
   </entry>
   <entry>
     <id>The macroeconomic impact of the pandemic and the policy response https://www.ecb.europa.eu/press/blog/date/2020/html/ecb.blog200804%7Eb2c0f2115a.en.html</id>
     <title>The macroeconomic impact of the pandemic and the policy response</title>
-    <updated>2020-11-12T00:02:34.507260+00:00</updated>
+    <updated>2020-11-13T00:02:29.970019+00:00</updated>
     <link href="https://www.ecb.europa.eu/press/blog/date/2020/html/ecb.blog200804%7Eb2c0f2115a.en.html" rel="alternate"/>
   </entry>
   <entry>
     <id>The provision of euro liquidity through the ECB’s swap and repo operations https://www.ecb.europa.eu/press/blog/date/2020/html/ecb.blog200819%7E0d1d04504a.en.html</id>
     <title>The provision of euro liquidity through the ECB’s swap and repo operations</title>
-    <updated>2020-11-12T00:02:34.507242+00:00</updated>
+    <updated>2020-11-13T00:02:29.970002+00:00</updated>
     <link href="https://www.ecb.europa.eu/press/blog/date/2020/html/ecb.blog200819%7E0d1d04504a.en.html" rel="alternate"/>
   </entry>
   <entry>
     <id>Europe needs a fully fledged capital markets union – now more than ever https://www.ecb.europa.eu/press/blog/date/2020/html/ecb.blog200902%7Ec168038cbc.en.html</id>
     <title>Europe needs a fully fledged capital markets union – now more than ever</title>
-    <updated>2020-11-12T00:02:34.507225+00:00</updated>
+    <updated>2020-11-13T00:02:29.969984+00:00</updated>
     <link href="https://www.ecb.europa.eu/press/blog/date/2020/html/ecb.blog200902%7Ec168038cbc.en.html" rel="alternate"/>
   </entry>
   <entry>
     <id>The outlook for the euro area https://www.ecb.europa.eu/press/blog/date/2020/html/ecb.blog200911%7E9864e7ae6d.en.html</id>
     <title>The outlook for the euro area</title>
-    <updated>2020-11-12T00:02:34.507206+00:00</updated>
+    <updated>2020-11-13T00:02:29.969965+00:00</updated>
     <link href="https://www.ecb.europa.eu/press/blog/date/2020/html/ecb.blog200911%7E9864e7ae6d.en.html" rel="alternate"/>
   </entry>
   <entry>
     <id>We must be prepared to issue a digital euro https://www.ecb.europa.eu/press/blog/date/2020/html/ecb.blog201002%7E12ab1c06b5.en.html</id>
     <title>We must be prepared to issue a digital euro</title>
-    <updated>2020-11-12T00:02:34.507187+00:00</updated>
+    <updated>2020-11-13T00:02:29.969946+00:00</updated>
     <link href="https://www.ecb.europa.eu/press/blog/date/2020/html/ecb.blog201002%7E12ab1c06b5.en.html" rel="alternate"/>
   </entry>
   <entry>
     <id>Don’t take it for granted: the value of high-quality data and statistics for the ECB’s policymaking https://www.ecb.europa.eu/press/blog/date/2020/html/ecb.blog201020%7E0f195b9ea2.en.html</id>
     <title>Don’t take it for granted: the value of high-quality data and statistics for the ECB’s policymaking</title>
-    <updated>2020-11-12T00:02:34.507156+00:00</updated>
+    <updated>2020-11-13T00:02:29.969915+00:00</updated>
     <link href="https://www.ecb.europa.eu/press/blog/date/2020/html/ecb.blog201020%7E0f195b9ea2.en.html" rel="alternate"/>
   </entry>
 </feed>
