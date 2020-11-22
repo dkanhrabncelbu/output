@@ -1,0 +1,11 @@
+date,time,sport,home_team,away_team,kelly_bet_name,kelly_prob,kelly_prob_odds_implied,kelly_odds,multiple HK stake
+2020-11-22,16:30:00,soccer_sweden_allsvenskan,Hammarby IF,Malmo FF,Malmo FF,0.4672,0.3333333333333333,3.0,0.06576167368322527
+2020-11-22,19:00:00,soccer_norway_eliteserien,Stromsgodset,Bodø/Glimt,Bodø/Glimt,0.6854,0.6369426751592356,1.57,0.04213450433708164
+2020-11-22,11:00:00,soccer_russia_premier_league,CSKA Moscow,FK Sochi,CSKA Moscow,0.7103,0.6666666666666666,1.5,0.04126631612433537
+2020-11-22,13:00:00,soccer_denmark_superliga,AaB,FC Nordsjaelland,FC Nordsjaelland,0.3546,0.26666666666666666,3.75,0.03758043931344949
+2020-11-22,17:00:00,soccer_norway_eliteserien,Sarpsborg FK,Viking FK,Viking FK,0.3696,0.29411764705882354,3.4,0.03328402106437919
+2020-11-22,19:15:00,soccer_epl,Liverpool,Leicester City,Liverpool,0.588,0.5464480874316939,1.83,0.028286973907436334
+2020-11-22,16:30:00,soccer_sweden_allsvenskan,Ostersunds FK,Varbergs BoIS,Ostersunds FK,0.4091,0.35714285714285715,2.8,0.024814422518398417
+2020-11-22,15:00:00,soccer_switzerland_superleague,FC St Gallen,FC Lausanne-Sport,FC St Gallen,0.5081,0.47619047619047616,2.1,0.018511405329040977
+2020-11-22,14:00:00,soccer_italy_serie_a,Sampdoria,Bologna,Sampdoria,0.4302,0.4,2.5,0.015211915968302969
+2020-11-22,17:00:00,soccer_germany_bundesliga,FC Koln,Union Berlin,FC Koln,0.4015,0.37037037037037035,2.7,0.01493545082114687
