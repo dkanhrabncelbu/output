@@ -1,0 +1,5 @@
+date,time,sport,home_team,away_team,kelly_bet_name,kelly_prob,kelly_prob_odds_implied,kelly_odds,multiple HK stake
+2020-11-23,17:30:00,soccer_epl,Burnley,Crystal Palace,Burnley,0.4344,0.3472222222222222,2.88,0.06046835448016056
+2020-11-23,18:00:00,soccer_sweden_allsvenskan,IK Sirius,Mjällby AIF,Mjällby AIF,0.3845,0.29411764705882354,3.4,0.05780420943912184
+2020-11-23,18:00:00,soccer_denmark_superliga,FC Copenhagen,Randers FC,FC Copenhagen,0.6018,0.5780346820809249,1.73,0.024487618643008024
+2020-11-23,14:00:00,soccer_russia_premier_league,FC Ufa,FC Khimki,FC Ufa,0.3872,0.38167938931297707,2.62,0.0037895779518591893
