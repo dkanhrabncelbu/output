@@ -1,0 +1,4 @@
+date,time,sport,home_team,away_team,kelly_bet_name,kelly_prob,kelly_prob_odds_implied,kelly_odds,multiple HK stake
+2020-11-27,21:00:00,soccer_portugal_primeira_liga,Tondela,Guimaraes,Tondela,0.3579,0.2777777777777778,3.6,0.05501720209404255
+2020-11-27,20:00:00,soccer_epl,Crystal Palace,Newcastle United,Crystal Palace,0.441,0.4347826086956522,2.3,0.005181080850180026
+2020-11-27,20:00:00,soccer_spain_la_liga,Valladolid,Levante,Levante,0.3507,0.3472222222222222,2.88,0.0025022308174468145
