@@ -1,0 +1,11 @@
+date,time,sport,home_team,away_team,kelly_bet_name,kelly_prob,kelly_prob_odds_implied,kelly_odds,multiple HK stake
+2020-11-28,15:00:00,soccer_denmark_superliga,FC Midtjylland,AaB,FC Midtjylland,0.6489,0.5464480874316939,1.83,0.08439276049005248
+2020-11-28,15:00:00,soccer_efl_champ,Norwich City,Coventry City,Norwich City,0.6523,0.5780346820809249,1.73,0.06395541155580906
+2020-11-28,20:00:00,soccer_spain_la_liga,Real Madrid,Alavés,Real Madrid,0.8016,0.7692307692307692,1.3,0.04999159251438261
+2020-11-28,16:00:00,soccer_russia_premier_league,FC Akhmat Grozny,Lokomotiv Moscow,Lokomotiv Moscow,0.385,0.3225806451612903,3.1,0.03201171877011235
+2020-11-28,12:00:00,soccer_germany_bundesliga2,Karlsruher SC,SC Paderborn,SC Paderborn,0.4288,0.4,2.5,0.016298761119895182
+2020-11-28,15:00:00,soccer_efl_champ,Sheffield Wednesday,Stoke City,Stoke City,0.3852,0.35714285714285715,2.8,0.014786805225195127
+2020-11-28,12:30:00,soccer_efl_champ,Reading,Bristol City,Bristol City,0.3553,0.3333333333333333,3.0,0.011102817217977266
+2020-11-28,17:30:00,soccer_germany_bundesliga,Borussia Monchengladbach,Schalke 04,Borussia Monchengladbach,0.772,0.7692307692307692,1.3,0.004000903132046754
+2020-11-28,17:30:00,soccer_epl,Everton,Leeds United,Everton,0.5063,0.5,2.0,0.004202216563265697
+2020-11-28,11:00:00,soccer_russia_premier_league,Arsenal Tula,Zenit St Petersburg,Zenit St Petersburg,0.6694,0.6666666666666666,1.5,0.0027287345825121488
