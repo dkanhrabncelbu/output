@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>BB Europe Data Alerts</id>
   <title>BB Europe Data Alerts</title>
-  <updated>2020-11-29T04:30:47.397253+00:00</updated>
+  <updated>2020-11-29T05:01:51.793407+00:00</updated>
   <link href="https://github.com/dkanhrabncelbu" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
 </feed>
