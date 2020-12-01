@@ -1,6 +1,0 @@
-date,time,sport,home_team,away_team,kelly_bet_name,kelly_prob,kelly_prob_odds_implied,kelly_odds,multiple HK stake
-2020-11-30,19:30:00,soccer_germany_bundesliga2,VfL Bochum,Fortuna Düsseldorf,Fortuna Düsseldorf,0.4006,0.30303030303030304,3.3,0.06138440984713506
-2020-11-30,18:00:00,soccer_denmark_superliga,Brondby IF,Lyngby,Brondby IF,0.7789,0.7518796992481203,1.33,0.046966195823307876
-2020-11-30,18:00:00,soccer_sweden_allsvenskan,AIK,Kalmar FF,AIK,0.556,0.5235602094240838,1.91,0.02874449322682298
-2020-11-30,20:00:00,soccer_epl,West Ham United,Aston Villa,West Ham United,0.4496,0.42016806722689076,2.38,0.021238469095578617
-2020-11-30,19:45:00,soccer_italy_serie_a,Genoa,Parma,Genoa,0.4178,0.4,2.5,0.012280075776621189
