@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>BB Europe New Calendar</id>
   <title>BB Europe New Calendar</title>
-  <updated>2020-12-03T15:06:07.704789+00:00</updated>
+  <updated>2020-12-03T15:06:52.263085+00:00</updated>
   <link href="https://github.com/dkanhrabncelbu" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <entry>
-    <id>2020-12-03 - fofjtjdaop</id>
-    <title>2020-12-03 - yeuhznqkob</title>
-    <updated>2020-12-03T15:06:10.415721+00:00</updated>
+    <id>2020-12-03 - cfakfkescq</id>
+    <title>2020-12-03 - ficqdgpens</title>
+    <updated>2020-12-03T15:06:54.235698+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 10%;text-align:left'&gt;&lt;col span='1' style='width: 5%;text-align:left'&gt;&lt;col span='1' style='width: 5%;text-align:left'&gt;&lt;col span='1' style='width: 40%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -24,74 +24,74 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;07:30&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;&lt;img src='https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/se.svg' height='xxx_replace_height' style='display: block;margin:auto;'&gt;&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;SD&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middle'&gt;Services PMI&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;(MoM)&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;55.3&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;58.6&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;07:30&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;&lt;img src='https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/se.svg' height='xxx_replace_height' style='display: block;margin:auto;'&gt;&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;SD&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middle'&gt;Services PMI&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;(MoM)&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;55.3&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;58.6&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;08:15&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;&lt;img src='https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/es.svg' height='xxx_replace_height' style='display: block;margin:auto;'&gt;&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;ES&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middle'&gt;Services PMI&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;41.4&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;36.6&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;39.5&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;08:15&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;&lt;img src='https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/es.svg' height='xxx_replace_height' style='display: block;margin:auto;'&gt;&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;ES&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middle'&gt;Services PMI&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;41.4&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;36.6&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;39.5&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;08:45&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;&lt;img src='https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/it.svg' height='xxx_replace_height' style='display: block;margin:auto;'&gt;&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;IT&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middle'&gt;Services PMI&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;46.7&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;41.3&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;39.4&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;08:45&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;&lt;img src='https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/it.svg' height='xxx_replace_height' style='display: block;margin:auto;'&gt;&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;IT&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middle'&gt;Services PMI&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;46.7&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;41.3&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;39.4&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;08:50&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;&lt;img src='https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg' height='xxx_replace_height' style='display: block;margin:auto;'&gt;&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;FR&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middle'&gt;Services PMI&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;46.5&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;38.0&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;38.8&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;08:50&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;&lt;img src='https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg' height='xxx_replace_height' style='display: block;margin:auto;'&gt;&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;FR&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middle'&gt;Services PMI&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;46.5&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;38.0&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;38.8&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;08:55&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;&lt;img src='https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/de.svg' height='xxx_replace_height' style='display: block;margin:auto;'&gt;&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;BD&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middle'&gt;Services PMI&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;49.5&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;46.2&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;46.0&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;08:55&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;&lt;img src='https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/de.svg' height='xxx_replace_height' style='display: block;margin:auto;'&gt;&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;BD&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middle'&gt;Services PMI&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;49.5&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;46.2&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;46.0&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;09:00&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;&lt;img src='https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/eu.svg' height='xxx_replace_height' style='display: block;margin:auto;'&gt;&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;EZ&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middle'&gt;Services PMI&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;46.9&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;41.3&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;41.7&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;09:00&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;&lt;img src='https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/eu.svg' height='xxx_replace_height' style='display: block;margin:auto;'&gt;&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;EZ&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middle'&gt;Services PMI&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;46.9&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;41.3&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;41.7&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;09:30&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;&lt;img src='https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/gb.svg' height='xxx_replace_height' style='display: block;margin:auto;'&gt;&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;UK&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middle'&gt;Services PMI&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;51.4&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;45.8&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px; vertical-align='middletext-align:center'&gt;47.6&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;09:30&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;&lt;img src='https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/gb.svg' height='xxx_replace_height' style='display: block;margin:auto;'&gt;&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;UK&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middle'&gt;Services PMI&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;51.4&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;45.8&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 0px; vertical-align='middletext-align:center'&gt;47.6&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;&lt;/body&gt;</content>
