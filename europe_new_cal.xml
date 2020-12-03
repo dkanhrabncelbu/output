@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>BB Europe New Calendar 4</id>
   <title>BB Europe New Calendar 4</title>
-  <updated>2020-12-03T20:47:18.220833+00:00</updated>
+  <updated>2020-12-03T21:00:27.381142+00:00</updated>
   <link href="https://github.com/dkanhrabncelbu" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <entry>
-    <id>2020-12-03 - fikzcqcsio</id>
-    <title>2020-12-03 - mntdcomcwn</title>
-    <updated>2020-12-03T20:47:20.688339+00:00</updated>
-    <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 6%;text-align:center'&gt;&lt;col span='1' style='width: 6%;text-align:center'&gt;&lt;col span='1' style='width: 42%;text-align:left'&gt;&lt;col span='1' style='width: 9%;text-align:center'&gt;&lt;col span='1' style='width: 9%;text-align:center'&gt;&lt;col span='1' style='width: 9%;text-align:center'&gt;&lt;col span='1' style='width: 9%;text-align:center'&gt;&lt;/colgroup&gt;
+    <id>2020-12-03 - atgahmpkue</id>
+    <title>2020-12-03 - smmoywvnpn</title>
+    <updated>2020-12-03T21:00:30.093389+00:00</updated>
+    <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 7%;text-align:center'&gt;&lt;col span='1' style='width: 7%;text-align:center'&gt;&lt;col span='1' style='width: 5%;text-align:center'&gt;&lt;col span='1' style='width: 49%;text-align:left'&gt;&lt;col span='1' style='width: 8%;text-align:center'&gt;&lt;col span='1' style='width: 8%;text-align:center'&gt;&lt;col span='1' style='width: 8%;text-align:center'&gt;&lt;col span='1' style='width: 8%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
       &lt;th style='border: 0px solid #ddd;padding: 2px;padding-top: 2px;padding-bottom: 2px;background-color: #EEEEEE;color: #3A3A3A;text-align:center'&gt;X1&lt;/th&gt;
@@ -25,7 +25,7 @@
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center;padding-bottom: 9px'&gt;07:30&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center'&gt;&lt;img src='https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/se.svg' style='display: block; vertical-align:middle;margin-bottom: 6px;max-width: 90%'&gt;&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center;padding: 4px'&gt;&lt;img src='https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/se.svg' style='display: block; vertical-align:middle;margin-bottom: 6px;max-width: 90%'&gt;&lt;/td&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center;padding-bottom: 9px'&gt;SD&lt;/td&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center;padding-bottom: 9px'&gt;Services PMI&lt;/td&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center;padding-bottom: 9px'&gt;(MoM)&lt;/td&gt;
@@ -35,7 +35,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center;padding-bottom: 9px'&gt;08:15&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center'&gt;&lt;img src='https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/es.svg' style='display: block; vertical-align:middle;margin-bottom: 6px;max-width: 90%'&gt;&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center;padding: 4px'&gt;&lt;img src='https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/es.svg' style='display: block; vertical-align:middle;margin-bottom: 6px;max-width: 90%'&gt;&lt;/td&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center;padding-bottom: 9px'&gt;ES&lt;/td&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center;padding-bottom: 9px'&gt;Services PMI&lt;/td&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center;padding-bottom: 9px'&gt;&lt;/td&gt;
@@ -45,7 +45,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center;padding-bottom: 9px'&gt;08:45&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center'&gt;&lt;img src='https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/it.svg' style='display: block; vertical-align:middle;margin-bottom: 6px;max-width: 90%'&gt;&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center;padding: 4px'&gt;&lt;img src='https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/it.svg' style='display: block; vertical-align:middle;margin-bottom: 6px;max-width: 90%'&gt;&lt;/td&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center;padding-bottom: 9px'&gt;IT&lt;/td&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center;padding-bottom: 9px'&gt;Services PMI&lt;/td&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center;padding-bottom: 9px'&gt;&lt;/td&gt;
@@ -55,7 +55,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center;padding-bottom: 9px'&gt;08:50&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center'&gt;&lt;img src='https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg' style='display: block; vertical-align:middle;margin-bottom: 6px;max-width: 90%'&gt;&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center;padding: 4px'&gt;&lt;img src='https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg' style='display: block; vertical-align:middle;margin-bottom: 6px;max-width: 90%'&gt;&lt;/td&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center;padding-bottom: 9px'&gt;FR&lt;/td&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center;padding-bottom: 9px'&gt;Services PMI&lt;/td&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center;padding-bottom: 9px'&gt;&lt;/td&gt;
@@ -65,7 +65,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center;padding-bottom: 9px'&gt;08:55&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center'&gt;&lt;img src='https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/de.svg' style='display: block; vertical-align:middle;margin-bottom: 6px;max-width: 90%'&gt;&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center;padding: 4px'&gt;&lt;img src='https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/de.svg' style='display: block; vertical-align:middle;margin-bottom: 6px;max-width: 90%'&gt;&lt;/td&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center;padding-bottom: 9px'&gt;BD&lt;/td&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center;padding-bottom: 9px'&gt;Services PMI&lt;/td&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center;padding-bottom: 9px'&gt;&lt;/td&gt;
@@ -75,7 +75,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center;padding-bottom: 9px'&gt;09:00&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center'&gt;&lt;img src='https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/eu.svg' style='display: block; vertical-align:middle;margin-bottom: 6px;max-width: 90%'&gt;&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center;padding: 4px'&gt;&lt;img src='https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/eu.svg' style='display: block; vertical-align:middle;margin-bottom: 6px;max-width: 90%'&gt;&lt;/td&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center;padding-bottom: 9px'&gt;EZ&lt;/td&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center;padding-bottom: 9px'&gt;Services PMI&lt;/td&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center;padding-bottom: 9px'&gt;&lt;/td&gt;
@@ -85,7 +85,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center;padding-bottom: 9px'&gt;09:30&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center'&gt;&lt;img src='https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/gb.svg' style='display: block; vertical-align:middle;margin-bottom: 6px;max-width: 90%'&gt;&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center;padding: 4px'&gt;&lt;img src='https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/gb.svg' style='display: block; vertical-align:middle;margin-bottom: 6px;max-width: 90%'&gt;&lt;/td&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center;padding-bottom: 9px'&gt;UK&lt;/td&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center;padding-bottom: 9px'&gt;Services PMI&lt;/td&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center;padding-bottom: 9px'&gt;&lt;/td&gt;
@@ -95,7 +95,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center;padding-bottom: 9px'&gt;10:00&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center'&gt;&lt;img src='https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/eu.svg' style='display: block; vertical-align:middle;margin-bottom: 6px;max-width: 90%'&gt;&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center;padding: 4px'&gt;&lt;img src='https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/eu.svg' style='display: block; vertical-align:middle;margin-bottom: 6px;max-width: 90%'&gt;&lt;/td&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center;padding-bottom: 9px'&gt;EZ&lt;/td&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center;padding-bottom: 9px'&gt;Retail Sales&lt;/td&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center;padding-bottom: 9px'&gt;(MoM)&lt;/td&gt;
@@ -105,7 +105,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center;padding-bottom: 9px'&gt;10:00&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center'&gt;&lt;img src='https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/eu.svg' style='display: block; vertical-align:middle;margin-bottom: 6px;max-width: 90%'&gt;&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center;padding: 4px'&gt;&lt;img src='https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/eu.svg' style='display: block; vertical-align:middle;margin-bottom: 6px;max-width: 90%'&gt;&lt;/td&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center;padding-bottom: 9px'&gt;EZ&lt;/td&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center;padding-bottom: 9px'&gt;Retail Sales&lt;/td&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 2px;text-align:center;padding-bottom: 9px'&gt;(YoY)&lt;/td&gt;
