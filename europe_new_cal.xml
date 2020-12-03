@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>BB Europe New Calendar</id>
   <title>BB Europe New Calendar</title>
-  <updated>2020-12-03T13:47:45.384461+00:00</updated>
+  <updated>2020-12-03T13:51:40.829309+00:00</updated>
   <link href="https://github.com/dkanhrabncelbu" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <entry>
-    <id>2020-12-03 - cwnqeadpej</id>
-    <title>2020-12-03 - sbnqsoqcki</title>
-    <updated>2020-12-03T13:47:48.955427+00:00</updated>
-    <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table border="1" class="dataframe"&gt;
+    <id>2020-12-03 - nhszogqtbo</id>
+    <title>2020-12-03 - bcduvygugx</title>
+    <updated>2020-12-03T13:51:42.589425+00:00</updated>
+    <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd;''&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 10%;text-align:center;'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 5%;text-align:center'&gt;&lt;col span='1' style='width: 5%;text-align:center'&gt;&lt;col span='1' style='width: 40%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
       &lt;th&gt;X1&lt;/th&gt;
