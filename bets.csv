@@ -1,0 +1,11 @@
+date,time,sport,home_team,away_team,kelly_bet_name,kelly_prob,kelly_prob_odds_implied,kelly_odds,multiple HK stake
+2020-12-06,13:30:00,soccer_sweden_allsvenskan,Falkenbergs FF,Mjällby AIF,Mjällby AIF,0.4409,0.35714285714285715,2.8,0.043902224342812525
+2020-12-06,16:30:00,soccer_epl,Tottenham Hotspur,Arsenal,Tottenham Hotspur,0.5422,0.47619047619047616,2.1,0.04236639291251752
+2020-12-06,13:30:00,soccer_sweden_allsvenskan,Orebro SK,Hammarby IF,Orebro SK,0.3502,0.26666666666666666,3.75,0.03804954057100353
+2020-12-06,14:00:00,soccer_italy_serie_a,Udinese,Atalanta BC,Atalanta BC,0.5344,0.47619047619047616,2.1,0.03706564937973782
+2020-12-06,16:00:00,soccer_russia_premier_league,CSKA Moscow,FC Khimki,CSKA Moscow,0.7371,0.7142857142857143,1.4,0.026199524967027918
+2020-12-06,14:30:00,soccer_germany_bundesliga,Werder Bremen,VfB Stuttgart,Werder Bremen,0.4238,0.36363636363636365,2.75,0.0312595837616459
+2020-12-06,19:45:00,soccer_italy_serie_a,Sampdoria,AC Milan,AC Milan,0.6075,0.5780346820809249,1.73,0.022792511830325966
+2020-12-06,16:00:00,soccer_norway_eliteserien,Sandefjord,Viking FK,Viking FK,0.4781,0.4347826086956522,2.3,0.025103802182342316
+2020-12-06,12:30:00,soccer_germany_bundesliga2,SC Paderborn,1. FC Nürnberg,SC Paderborn,0.5075,0.47619047619047616,2.1,0.019409042913953758
+2020-12-06,15:00:00,soccer_switzerland_superleague,FC Luzern,BSC Young Boys,BSC Young Boys,0.6144,0.5988023952095809,1.67,0.012489600187361768
