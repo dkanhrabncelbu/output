@@ -1,0 +1,11 @@
+date,time,sport,home_team,away_team,kelly_bet_name,kelly_prob,kelly_prob_odds_implied,kelly_odds,multiple HK stake
+2020-12-12,15:00:00,soccer_epl,Newcastle United,West Bromwich Albion,Newcastle United,0.5207,0.42016806722689076,2.38,0.06294028792794
+2020-12-12,13:00:00,soccer_spain_la_liga,Valencia,Athletic Bilbao,Valencia,0.3919,0.3225806451612903,3.1,0.03575614152844746
+2020-12-12,14:30:00,soccer_germany_bundesliga,Borussia Dortmund,VfB Stuttgart,Borussia Dortmund,0.7185,0.6944444444444444,1.44,0.027171332954217142
+2020-12-12,15:00:00,soccer_efl_champ,Wycombe Wanderers,Coventry City,Wycombe Wanderers,0.3879,0.3225806451612903,3.1,0.03358835826745987
+2020-12-12,14:30:00,soccer_germany_bundesliga,Borussia Monchengladbach,Hertha Berlin,Borussia Monchengladbach,0.5586,0.5235602094240838,1.91,0.02531450127527886
+2020-12-12,13:30:00,soccer_russia_premier_league,FK Sochi,Spartak Moscow,Spartak Moscow,0.4617,0.4166666666666667,2.4,0.02662305824125421
+2020-12-12,17:15:00,soccer_switzerland_superleague,FC Sion,FC Luzern,FC Sion,0.3652,0.3125,3.2,0.026427456864463555
+2020-12-12,16:00:00,soccer_russia_premier_league,Zenit St Petersburg,Dinamo Moscow,Zenit St Petersburg,0.6796,0.6666666666666666,1.5,0.013118512588437192
+2020-12-12,17:00:00,soccer_italy_serie_a,Torino,Udinese,Torino,0.3873,0.35714285714285715,2.8,0.01592679776655465
+2020-12-12,12:30:00,soccer_efl_champ,Cardiff City,Swansea City,Cardiff City,0.4418,0.42016806722689076,2.38,0.012604210033999613
