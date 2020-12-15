@@ -1,0 +1,4 @@
+date,time,sport,home_team,away_team,kelly_bet_name,kelly_prob,kelly_prob_odds_implied,kelly_odds,multiple HK stake
+2020-12-15,20:00:00,soccer_epl,Manchester City,West Bromwich Albion,Manchester City,0.9297,0.9259259259259258,1.08,0.025036963387562262
+2020-12-15,19:45:00,soccer_efl_champ,Bristol City,Millwall,Bristol City,0.3966,0.38167938931297707,2.62,0.011697017631770286
+2020-12-15,17:30:00,soccer_efl_champ,Queens Park Rangers,Stoke City,Stoke City,0.3881,0.38167938931297707,2.62,0.00499866215337519
