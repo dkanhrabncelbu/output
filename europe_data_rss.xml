@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>BB Europe Data Alerts</id>
   <title>BB Europe Data Alerts</title>
-  <updated>2020-12-16T14:30:51.992839+00:00</updated>
+  <updated>2020-12-16T15:00:30.086066+00:00</updated>
   <link href="https://github.com/dkanhrabncelbu" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <entry>
     <id>Eurozone Wages (Q3)  - 2020-12-16</id>
     <title>Eurozone Wages (Q3) </title>
-    <updated>2020-12-16T14:30:52.029394+00:00</updated>
+    <updated>2020-12-16T15:00:30.116727+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -34,7 +34,7 @@
   <entry>
     <id>UK PMIs  (P) - 2020-12-16</id>
     <title>UK PMIs  (P)</title>
-    <updated>2020-12-16T14:30:52.026204+00:00</updated>
+    <updated>2020-12-16T15:00:30.113912+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -67,7 +67,7 @@
   <entry>
     <id>Eurozone PMIs (Dec) (P) - 2020-12-16</id>
     <title>Eurozone PMIs (Dec) (P)</title>
-    <updated>2020-12-16T14:30:52.021608+00:00</updated>
+    <updated>2020-12-16T15:00:30.110857+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -100,7 +100,7 @@
   <entry>
     <id>Italy Industrial Orders (Oct)  - 2020-12-16</id>
     <title>Italy Industrial Orders (Oct) </title>
-    <updated>2020-12-16T14:30:52.017324+00:00</updated>
+    <updated>2020-12-16T15:00:30.106939+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -133,7 +133,7 @@
   <entry>
     <id>Germany PMIs (Dec) (P) - 2020-12-16</id>
     <title>Germany PMIs (Dec) (P)</title>
-    <updated>2020-12-16T14:30:52.013306+00:00</updated>
+    <updated>2020-12-16T15:00:30.103544+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -166,7 +166,7 @@
   <entry>
     <id>France PMIs (Dec) (P) - 2020-12-16</id>
     <title>France PMIs (Dec) (P)</title>
-    <updated>2020-12-16T14:30:52.009077+00:00</updated>
+    <updated>2020-12-16T15:00:30.100713+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -199,7 +199,7 @@
   <entry>
     <id>UK CPI (Nov)  - 2020-12-16</id>
     <title>UK CPI (Nov) </title>
-    <updated>2020-12-16T14:30:52.005270+00:00</updated>
+    <updated>2020-12-16T15:00:30.097704+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
