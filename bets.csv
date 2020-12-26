@@ -1,6 +1,0 @@
-date,time,sport,home_team,away_team,kelly_bet_name,kelly_prob,kelly_prob_odds_implied,kelly_odds,multiple HK stake
-2020-12-23,19:30:00,soccer_switzerland_superleague,FC Lugano,FC Lausanne-Sport,FC Lugano,0.4959,0.4166666666666667,2.4,0.05851220027185189
-2020-12-23,19:45:00,soccer_italy_serie_a,AC Milan,Lazio,AC Milan,0.5372,0.47619047619047616,2.1,0.049658486131513004
-2020-12-23,17:15:00,soccer_switzerland_superleague,FC Luzern,FC Basel,FC Basel,0.4508,0.38167938931297707,2.62,0.047542734173830606
-2020-12-23,18:45:00,soccer_spain_la_liga,Real Madrid,Granada CF,Real Madrid,0.7856,0.7751937984496123,1.29,0.01902676320941197
-2020-12-23,21:00:00,soccer_spain_la_liga,Alavés,Eibar,Alavés,0.3805,0.37037037037037035,2.7,0.006512192058236463
