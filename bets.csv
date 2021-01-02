@@ -1,0 +1,6 @@
+date,time,sport,home_team,away_team,kelly_bet_name,kelly_prob,kelly_prob_odds_implied,kelly_odds,multiple HK stake
+2021-01-02,12:30:00,soccer_epl,Tottenham Hotspur,Leeds United,Tottenham Hotspur,0.6193,0.5988023952095809,1.67,0.024423481476401398
+2021-01-02,17:30:00,soccer_epl,Brighton and Hove Albion,Wolverhampton Wanderers,Brighton and Hove Albion,0.4226,0.4,2.5,0.017882932865200502
+2021-01-02,14:30:00,soccer_germany_bundesliga,TSG Hoffenheim,SC Freiburg,TSG Hoffenheim,0.5121,0.5,2.0,0.011411079297615936
+2021-01-02,14:30:00,soccer_germany_bundesliga,FC Koln,Augsburg,FC Koln,0.4565,0.4444444444444444,2.25,0.010219318183576574
+2021-01-02,14:30:00,soccer_germany_bundesliga,Werder Bremen,Union Berlin,Werder Bremen,0.3509,0.3472222222222222,2.88,0.0026319013623790645
