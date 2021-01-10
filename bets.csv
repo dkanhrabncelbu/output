@@ -1,8 +1,0 @@
-date,time,sport,home_team,away_team,kelly_bet_name,kelly_prob,kelly_prob_odds_implied,kelly_odds,multiple HK stake
-2021-01-09,15:15:00,soccer_spain_la_liga,Atlético Madrid,Athletic Bilbao,Atlético Madrid,0.6942,0.6535947712418301,1.53,0.05255619598433473
-2021-01-09,17:00:00,soccer_portugal_primeira_liga,Moreirense FC,Guimaraes,Moreirense FC,0.35100000000000003,0.29411764705882354,3.4,0.03544069294073391
-2021-01-09,19:45:00,soccer_italy_serie_a,AC Milan,Torino,AC Milan,0.6515,0.6369426751592356,1.57,0.01727022189991612
-2021-01-09,17:00:00,soccer_italy_serie_a,Genoa,Bologna,Genoa,0.3697,0.3333333333333333,3.0,0.02367014506895269
-2021-01-09,14:30:00,soccer_germany_bundesliga,Union Berlin,VfL Wolfsburg,Union Berlin,0.36200000000000004,0.3472222222222222,2.88,0.009664600127084581
-2021-01-09,20:30:00,soccer_portugal_primeira_liga,Boavista Porto,Santa Clara,Boavista Porto,0.4412,0.4347826086956522,2.3,0.0048196081352252194
-2021-01-09,12:00:00,soccer_germany_bundesliga2,1. FC Nürnberg,Hamburger SV,Hamburger SV,0.5029,0.5,2.0,0.00245519233643273
