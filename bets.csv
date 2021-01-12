@@ -1,0 +1,3 @@
+date,time,sport,home_team,away_team,kelly_bet_name,kelly_prob,kelly_prob_odds_implied,kelly_odds,multiple HK stake
+2021-01-12,19:45:00,soccer_efl_champ,Bournemouth,Millwall,Bournemouth,0.623,0.5988023952095809,1.67,0.02965905123723484
+2021-01-12,20:30:00,soccer_spain_la_liga,Atlético Madrid,Sevilla,Atlético Madrid,0.5289,0.5128205128205129,1.95,0.01600496639827181
