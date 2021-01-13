@@ -6,9 +6,9 @@
     <description>Upcoming Data</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 Jan 2021 05:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Jan 2021 05:00:32 +0000</lastBuildDate>
     <item>
-      <title>2021-01-12</title>
+      <title>2021-01-13</title>
       <link>https://github.com/dkanhrabncelbu</link>
       <description>&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 15%;text-align:left'&gt;&lt;col span='1' style='width: 75%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
@@ -21,12 +21,17 @@
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;09:00&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:left'&gt;Italy Retail Sales&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:left'&gt;Italy Industrial Production&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;(Nov)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;10:00&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:left'&gt;Eurozone Industrial Production&lt;/td&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;(Nov)&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;&lt;/body&gt;</description>
-      <guid isPermaLink="false">2021-01-12_x</guid>
+      <guid isPermaLink="false">2021-01-13_x</guid>
     </item>
   </channel>
 </rss>
