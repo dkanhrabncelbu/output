@@ -1,9 +1,0 @@
-date,time,sport,home_team,away_team,kelly_bet_name,kelly_prob,kelly_prob_odds_implied,kelly_odds,multiple HK stake
-2021-01-16,12:30:00,soccer_epl,Wolverhampton Wanderers,West Bromwich Albion,Wolverhampton Wanderers,0.635,0.5780346820809249,1.73,0.05347054622404408
-2021-01-16,20:30:00,soccer_portugal_primeira_liga,Tondela,Boavista Porto,Tondela,0.39399999999999996,0.3225806451612903,3.1,0.04110617118606069
-2021-01-16,15:00:00,soccer_epl,Leeds United,Brighton and Hove Albion,Brighton and Hove Albion,0.3715,0.30303030303030304,3.3,0.03815823609450336
-2021-01-16,12:00:00,soccer_germany_bundesliga2,Erzgebirge Aue,Fortuna Düsseldorf,Fortuna Düsseldorf,0.5043,0.45454545454545453,2.2,0.03530020697290014
-2021-01-16,14:30:00,soccer_germany_bundesliga,FC Koln,Hertha Berlin,FC Koln,0.3668,0.3125,3.2,0.030370737632601313
-2021-01-16,14:30:00,soccer_germany_bundesliga,Werder Bremen,Augsburg,Werder Bremen,0.4749,0.45454545454545453,2.2,0.014044694501251835
-2021-01-16,15:00:00,soccer_efl_champ,Bournemouth,Luton Town,Bournemouth,0.6454,0.6369426751592356,1.57,0.008705136357226438
-2021-01-16,19:45:00,soccer_italy_serie_a,Sampdoria,Udinese,Sampdoria,0.3591,0.3448275862068966,2.9,0.008134443552305302
