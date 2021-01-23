@@ -1,0 +1,8 @@
+date,time,sport,home_team,away_team,kelly_bet_name,kelly_prob,kelly_prob_odds_implied,kelly_odds,multiple HK stake
+2021-01-23,19:30:00,soccer_switzerland_superleague,FC Basel,FC Zurich,FC Basel,0.6128,0.5235602094240838,1.91,0.08390582122953275
+2021-01-23,14:30:00,soccer_germany_bundesliga,SC Freiburg,VfB Stuttgart,SC Freiburg,0.4337,0.38167938931297707,2.62,0.035658441280452084
+2021-01-23,17:30:00,soccer_spain_la_liga,Real Sociedad,Real Betis,Real Sociedad,0.5839,0.5555555555555556,1.8,0.026746122992013902
+2021-01-23,14:30:00,soccer_germany_bundesliga,Bayer Leverkusen,VfL Wolfsburg,Bayer Leverkusen,0.511,0.5,2.0,0.009031556163543144
+2021-01-23,17:00:00,soccer_italy_serie_a,AC Milan,Atalanta BC,Atalanta BC,0.429,0.4166666666666667,2.4,0.008675917745846574
+2021-01-23,15:00:00,soccer_efl_champ,Queens Park Rangers,Derby County,Queens Park Rangers,0.3976,0.3846153846153846,2.6,0.008658143912145953
+2021-01-23,14:00:00,soccer_italy_serie_a,AS Roma,Spezia,AS Roma,0.6958,0.6944444444444444,1.44,0.0018052100752093583
