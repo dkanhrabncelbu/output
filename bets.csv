@@ -1,0 +1,10 @@
+date,time,sport,home_team,away_team,kelly_bet_name,kelly_prob,kelly_prob_odds_implied,kelly_odds,multiple HK stake
+2021-01-24,20:15:00,soccer_portugal_primeira_liga,Famalicão,Guimaraes,Famalicão,0.3905,0.3225806451612903,3.1,0.0440371565546971
+2021-01-24,14:00:00,soccer_italy_serie_a,Hellas Verona FC,Napoli,Napoli,0.628,0.5988023952095809,1.67,0.03150893872154052
+2021-01-24,20:00:00,soccer_spain_la_liga,Atlético Madrid,Valencia,Atlético Madrid,0.7252,0.7142857142857143,1.4,0.016247467709224674
+2021-01-24,19:45:00,soccer_italy_serie_a,Parma,Sampdoria,Parma,0.3692,0.3333333333333333,3.0,0.02306597713809459
+2021-01-24,11:30:00,soccer_italy_serie_a,Juventus,Bologna,Juventus,0.7587,0.7518796992481203,1.33,0.011627827924630857
+2021-01-24,15:00:00,soccer_portugal_primeira_liga,CS Maritimo,Pacos de Ferreira,CS Maritimo,0.3751,0.35714285714285715,2.8,0.011818931656171393
+2021-01-24,17:30:00,soccer_portugal_primeira_liga,Moreirense FC,Portimonense,Moreirense FC,0.3977,0.38167938931297707,2.62,0.010951545648385567
+2021-01-24,12:30:00,soccer_germany_bundesliga2,1. FC Nürnberg,Hannover 96,Hannover 96,0.406,0.4,2.5,0.004192991416764096
+2021-01-24,15:00:00,soccer_efl_champ,Middlesbrough,Blackburn Rovers,Middlesbrough,0.4167,0.4166666666666667,2.4,2.384083236483582e-05
