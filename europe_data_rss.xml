@@ -2,13 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>BB Europe Data Alerts</id>
   <title>BB Europe Data Alerts</title>
-  <updated>2021-02-01T09:30:36.531794+00:00</updated>
+  <updated>2021-02-01T10:02:49.085559+00:00</updated>
   <link href="https://github.com/dkanhrabncelbu" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <entry>
+    <id>Eurozone Employment Report (Dec)  - 2021-02-01</id>
+    <title>Eurozone Employment Report (Dec) </title>
+    <updated>2021-02-01T10:02:49.142967+00:00</updated>
+    <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
+  &lt;thead&gt;
+    &lt;tr style="text-align: right;"&gt;
+      &lt;th style='border: 0px solid #ddd;padding: 4px;padding-top: 4px;padding-bottom: 4px;background-color: #EEEEEE;color: #3A3A3A;text-align:left'&gt;Event&lt;/th&gt;
+      &lt;th style='border: 0px solid #ddd;padding: 4px;padding-top: 4px;padding-bottom: 4px;background-color: #EEEEEE;color: #3A3A3A;text-align:center'&gt;&lt;/th&gt;
+      &lt;th style='border: 0px solid #ddd;padding: 4px;padding-top: 4px;padding-bottom: 4px;background-color: #EEEEEE;color: #3A3A3A;text-align:center'&gt;P&lt;/th&gt;
+      &lt;th style='border: 0px solid #ddd;padding: 4px;padding-top: 4px;padding-bottom: 4px;background-color: #EEEEEE;color: #3A3A3A;text-align:center'&gt;F&lt;/th&gt;
+      &lt;th style='border: 0px solid #ddd;padding: 4px;padding-top: 4px;padding-bottom: 4px;background-color: #EEEEEE;color: #3A3A3A;text-align:center'&gt;A&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;'&gt;Unemployment Rate&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;8.3%&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;8.3%&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;8.3%&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;&lt;/body&gt;</content>
+    <link href="https://ec.europa.eu/eurostat/news/news-releases" rel="alternate"/>
+  </entry>
+  <entry>
     <id>UK PMIs (Jan)  - 2021-02-01</id>
     <title>UK PMIs (Jan) </title>
-    <updated>2021-02-01T09:30:36.620235+00:00</updated>
+    <updated>2021-02-01T10:02:49.140204+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -34,7 +60,7 @@
   <entry>
     <id>UK Money &amp; Credit (Dec)  - 2021-02-01</id>
     <title>UK Money &amp; Credit (Dec) </title>
-    <updated>2021-02-01T09:30:36.614397+00:00</updated>
+    <updated>2021-02-01T10:02:49.136360+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -51,7 +77,7 @@
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;(MoM)&lt;/td&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;0.8%&lt;/td&gt;
       &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;&lt;/td&gt;
-      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;&lt;/td&gt;
+      &lt;td style='border-left: 1px solid #ddd; border-right: 1px solid #ddd; padding: 4px;text-align:center'&gt;0.7%&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;&lt;/body&gt;</content>
@@ -60,7 +86,7 @@
   <entry>
     <id>Italy Unemployment (Dec)  - 2021-02-01</id>
     <title>Italy Unemployment (Dec) </title>
-    <updated>2021-02-01T09:30:36.608566+00:00</updated>
+    <updated>2021-02-01T10:02:49.132807+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -86,7 +112,7 @@
   <entry>
     <id>Eurozone PMIs (Jan)  - 2021-02-01</id>
     <title>Eurozone PMIs (Jan) </title>
-    <updated>2021-02-01T09:30:36.602148+00:00</updated>
+    <updated>2021-02-01T10:02:49.130032+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -112,7 +138,7 @@
   <entry>
     <id>Germany PMIs (Jan)  - 2021-02-01</id>
     <title>Germany PMIs (Jan) </title>
-    <updated>2021-02-01T09:30:36.596246+00:00</updated>
+    <updated>2021-02-01T10:02:49.127246+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -138,7 +164,7 @@
   <entry>
     <id>France PMIs (Jan)  - 2021-02-01</id>
     <title>France PMIs (Jan) </title>
-    <updated>2021-02-01T09:30:36.590153+00:00</updated>
+    <updated>2021-02-01T10:02:49.124539+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -164,7 +190,7 @@
   <entry>
     <id>Italy PMIs (Jan)  - 2021-02-01</id>
     <title>Italy PMIs (Jan) </title>
-    <updated>2021-02-01T09:30:36.584178+00:00</updated>
+    <updated>2021-02-01T10:02:49.121715+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -190,7 +216,7 @@
   <entry>
     <id>Sweden GDP (Q4) (P) - 2021-02-01</id>
     <title>Sweden GDP (Q4) (P)</title>
-    <updated>2021-02-01T09:30:36.578181+00:00</updated>
+    <updated>2021-02-01T10:02:49.118707+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -223,7 +249,7 @@
   <entry>
     <id>Spain PMIs (Jan)  - 2021-02-01</id>
     <title>Spain PMIs (Jan) </title>
-    <updated>2021-02-01T09:30:36.571803+00:00</updated>
+    <updated>2021-02-01T10:02:49.114133+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -249,7 +275,7 @@
   <entry>
     <id>Sweden PMIs (Jan)  - 2021-02-01</id>
     <title>Sweden PMIs (Jan) </title>
-    <updated>2021-02-01T09:30:36.565346+00:00</updated>
+    <updated>2021-02-01T10:02:49.110071+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
@@ -275,7 +301,7 @@
   <entry>
     <id>Germany Retail Sales (Dec)  - 2021-02-01</id>
     <title>Germany Retail Sales (Dec) </title>
-    <updated>2021-02-01T09:30:36.559108+00:00</updated>
+    <updated>2021-02-01T10:02:49.105999+00:00</updated>
     <content type="text/html" mode="escaped">&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table id='myTable' style='font-family: &amp;quot;Trebuchet MS&amp;quot;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%; border: 1px solid #ddd'&gt;&lt;colgroup&gt;&lt;col span='1' style='width: 60%;text-align:left'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;col span='1' style='width: 10%;text-align:center'&gt;&lt;/colgroup&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
