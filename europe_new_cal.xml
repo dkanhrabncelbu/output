@@ -6,12 +6,12 @@
     <description>ben_blanchard</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Mar 2021 07:11:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Mar 2021 08:11:08 +0000</lastBuildDate>
     <item>
-      <title>2021-03-2021 07:11:13</title>
+      <title>2021-03-2021 08:11:08</title>
       <link>https://www.investing.com/economic-calendar/</link>
       <description>No data</description>
-      <guid isPermaLink="false">2021032021071113</guid>
+      <guid isPermaLink="false">2021032021081108</guid>
     </item>
   </channel>
 </rss>
